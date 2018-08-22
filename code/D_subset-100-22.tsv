@@ -1,0 +1,2254 @@
+# Wordlist
+
+# DATA
+ID	DOCULECT	IPA	TOKENS	ENGLISH	FRENCH	CONCEPT
+#
+65	Bambara	dántán	d a ⁵ n t a ⁵ n	animal	animal domestique (surtout bétail)	ANIMAL
+66	Bangime	yíríbɛ̀	j i ⁵ r i ⁵ b ɛ ¹	animal	animal	ANIMAL
+67	Bankan_Tey	dá:bà-m	d aː ⁵ b a ¹ + m	domestic animal (esp. livestock)	animal domestique (surtout bétail)	ANIMAL
+68	Ben_Tey	àrsɛ̌:	a ¹ r s ɛː ¹⁵	domestic animal (esp. livestock)	animal domestique (surtout bétail)	ANIMAL
+69	Bunoge	kɔ́mbɔ̀	k ɔ ⁵ m b ɔ ¹	domestic animal (esp. livestock)	animal domestique (surtout bétail)	ANIMAL
+71	Fulfulde	daaba	d a a b a	animal	animal domestique (surtout bétail)	ANIMAL
+73	Jamsay	àsɛ̀gɛ́	a ¹ s ɛ ¹ ɡ ɛ ⁵	domestic animal (esp. livestock)	animal domestique (surtout bétail)	ANIMAL
+74	Jenaama	dáábā	d aː ⁵ b a ³	animal	animal domestique (surtout bétail)	ANIMAL
+75	Mombo	dèbù bɛ́lí	d e ¹ b u ¹ _ b ɛ ⁵ l i ⁵	domestic animal (esp. livestock)	animal domestique (surtout bétail)	ANIMAL
+76	Najamba	dúmɛ́-ŋgó	d u ⁵ m ɛ ⁵ + ŋ ɡ o ⁵	domestic animal (esp. livestock)	animal domestique (surtout bétail)	ANIMAL
+77	Nanga	gàsɛ̀gɛ́	ɡ a ¹ s ɛ ¹ ɡ ɛ ⁵	domestic animal (esp. livestock)	animal domestique (surtout bétail)	ANIMAL
+78	Penange	dá:bá	d aː ⁵ b a ⁵	animal	animal domestique (surtout bétail)	ANIMAL
+80	Songhai_Kiini	dá:bbà	d aː ⁵ b b a ¹	animal	animal domestique (surtout bétail)	ANIMAL
+81	Songhai_Senni	dá:bbà:	d aː ⁵ b b aː ¹	animal	animal domestique (surtout bétail)	ANIMAL
+82	Tebul_Ure	àsɛ̀gɛ́	a ¹ s ɛ ¹ ɡ ɛ ⁵	domestic animal (esp. livestock)	animal domestique (surtout bétail)	ANIMAL
+83	Tiranige_Diga	bèl	b e ¹ l	domestic animal (esp. livestock)	animal domestique (surtout bétail)	ANIMAL
+84	Togo_Kan	gìrⁿí árúsɛ̀gɛ̀	ɡ i ¹ r̃ ∼ i ⁵ _ a ⁵ r u ⁵ s ɛ ¹ ɡ ɛ ¹	domestic animal (esp. livestock)	animal domestique (surtout bétail)	ANIMAL
+85	Tommo_So	bɛ̀lú	b ɛ ¹ l u ⁵	domestic animal (esp. livestock)	animal domestique (surtout bétail)	ANIMAL
+86	Toro_Tegu	àrùzàká	a ¹ r u ¹ z a ¹ k a ⁵	domestic animal (esp. livestock)	animal domestique (surtout bétail)	ANIMAL
+87	Yanda_Dom	àzɛ̀gɛ̀	a ¹ z ɛ ¹ ɡ ɛ ¹	domestic animal (esp. livestock)	animal domestique (surtout bétail)	ANIMAL
+88	Yorno_So	àrùsɛ̀gɛ́	a ¹ r u ¹ s ɛ ¹ ɡ ɛ ⁵	domestic animal (esp. livestock)	animal domestique (surtout bétail)	ANIMAL
+79	Perge_Tegu	àsɛ̀gɛ́	a ¹ s ɛ ¹ ɡ ɛ ⁵	domestic animal (esp. livestock)	animal domestique (surtout bétail)	ANIMAL
+#
+165	Bangime	tùɥɛ̀	t u ¹ ɥ ɛ ¹	ashes	cendre	ASH
+166	Bankan_Tey	dɔ̀yⁿ ɔ̌yⁿ	d ɔ ¹ j ∼ _ ɔ ¹⁵ j ∼	ashes	cendre(s); couleur cendre, gris	ASH
+167	Ben_Tey	dɔ̀yⁿ ɔ̌yⁿ	d ɔ ¹ j ∼ _ ɔ ¹⁵ j ∼	ashes	cendre	ASH
+168	Bunoge	díwɔ̀	d i ⁵ w ɔ ¹	ashes	cendre	ASH
+171	Jamsay	dɔ̀yⁿɔ́	d ɔ ¹ j ∼ ɔ ⁵	ashes	cendre(s); couleur cendre, gris	ASH
+172	Jenaama	síbō	s i ⁵ b o ³	ashes	cendre	ASH
+173	Mombo	dwɛ̂:	d w ɛː ⁵¹	ashes	cendre(s); couleur cendre, gris	ASH
+174	Najamba	dɔ̀dɛ̌:-ŋgó	d ɔ ¹ d ɛː ¹⁵ + ŋ ɡ o ⁵	ashes	cendre	ASH
+175	Nanga	dùyá	d u ¹ j a ⁵	ashes	cendre	ASH
+176	Penange	dwɛ̀:	d w ɛː ¹	ashes	cendre	ASH
+177	Perge_Tegu	dɔ̀yⁿɔ́	d ɔ ¹ j ∼ ɔ ⁵	ashes	cendre	ASH
+178	Songhai_Kiini	bó:sú	b oː ⁵ s u ⁵	ashes	cendre(s); couleur cendre, gris	ASH
+179	Songhai_Senni	bó:só	b oː ⁵ s o ⁵	ashes	cendre(s); couleur cendre, gris	ASH
+180	Tebul_Ure	dɔ̀ɛ́	d ɔ ¹ ɛ ⁵	ashes	cendre	ASH
+181	Tiranige_Diga	dwɛ́:	d w ɛː ⁵	ashes	cendre	ASH
+182	Togo_Kan	dɔ̀yⁿɛ́	d ɔ ¹ j ∼ ɛ ⁵	ashes	cendre	ASH
+183	Tommo_So	úndɔ́	u ⁵ n d ɔ ⁵	ashes	cendre	ASH
+184	Toro_Tegu	dòwⁿ òsú	d o ¹ w̃ ∼ _ o ¹ s u ⁵	ashes	cendre	ASH
+186	Yanda_Dom	dɔ̀yⁿɛ̀	d ɔ ¹ j ∼ ɛ ¹	ashes	cendre	ASH
+187	Yorno_So	únɔ̀	u ⁵ n ɔ ¹	ashes	cendre	ASH
+#
+313	Bambara	dábɔ́	d a ⁵ b ɔ ⁵	begin	débuter, commencer, entamer	BEGIN
+314	Bangime	tììndà	t iː ¹ n d a ¹	begin	commencer	BEGIN
+315	Bankan_Tey	túmbí-rí	t u ⁵ m b i ⁵ + r i ⁵	begin, start (sth)	commencer (qch)	BEGIN
+316	Ben_Tey	túmdí	t u ⁵ m d i ⁵	begin, start (sth)	commencer (qch)	BEGIN
+317	Bunoge	dɔ́gú-lɛ̀	d ɔ ⁵ ɡ u ⁵ + l ɛ ¹	begin, start (sth)	commencer (qch)	BEGIN
+319	Fulfulde	fuɗɗu-de	f u ɗ ɗ u + d e	begin	commencer	BEGIN
+321	Jamsay	túmnó	t u ⁵ m n o ⁵	begin, start (sth)	commencer (qch)	BEGIN
+322	Jenaama	ǹsīnì	n ¹ s i ³ n i ¹	begin	commencer	BEGIN
+323	Mombo	dɔ́gɛ́	d ɔ ⁵ ɡ ɛ ⁵	begin, start (sth)	commencer (qch)	BEGIN
+324	Najamba	jàŋgí	dʒ a ¹ ŋ ɡ i ⁵	begin, start (sth)	commencer (qch)	BEGIN
+325	Nanga	tɔ́rɔ́	t ɔ ⁵ r ɔ ⁵	begin, start (sth)	commencer (qch)	BEGIN
+326	Penange	dɔ́gú-lɛ̀	d ɔ ⁵ ɡ u ⁵ + l ɛ ¹	begin, start (sth)	commencer (qch)	BEGIN
+327	Perge_Tegu	nɔ́:	n ɔː	begin, start (sth)	commencer (qch)	BEGIN
+328	Songhai_Kiini	síntîn	s i ⁵ n t i ⁵¹ n	begin, do for the first time	commencer	BEGIN
+329	Songhai_Senni	síntîn	s i ⁵ n t i ⁵¹ n	begin, do for the first time	commencer	BEGIN
+330	Tebul_Ure	tɔ́:	t ɔː	begin, start (sth)	commencer (qch)	BEGIN
+331	Tiranige_Diga	túmbú-lɔ́	t u ⁵ m b u ⁵ + l ɔ ⁵	begin, start (sth)	commencer (qch)	BEGIN
+332	Togo_Kan	tɔ́rɔ́	t ɔ ⁵ r ɔ ⁵	begin, start (sth)	commencer (qch)	BEGIN
+333	Tommo_So	tɔ́lɔ́	t ɔ ⁵ l ɔ ⁵	begin, start (sth)	commencer (qch)	BEGIN
+334	Toro_Tegu	dɛ̀wrú	d ɛ ¹ w r u ⁵	begin, start (sth)	commencer (qch)	BEGIN
+336	Yanda_Dom	nɔ́	n ɔ ⁵	begin, start (sth)	commencer (qch)	BEGIN
+337	Yorno_So	tɔ́lɔ́	t ɔ ⁵ l ɔ ⁵	begin, start (sth)	commencer (qch)	BEGIN
+#
+341	Bambara	fùrú	f u ¹ r u ⁵	begin	estomac	BELLY
+343	Bankan_Tey	pìré	p i ¹ r e ⁵	belly	ventre	BELLY
+344	Ben_Tey	pìré	p i ¹ r e ⁵	belly	ventre	BELLY
+348	Jamsay	bɛrɛ	b ɛ r ɛ	belly	ventre	BELLY
+350	Mombo	píjí	p i ⁵ dʒ i ⁵	belly	ventre	BELLY
+351	Najamba	kûl	k u ⁵¹ l	belly	ventre	BELLY
+352	Nanga	bèndé	b e ¹ n d e ⁵	belly	ventre	BELLY
+354	Perge_Tegu	bɛ̀rɛ́	b ɛ ¹ r ɛ ⁵	belly	ventre	BELLY
+355	Songhai_Kiini	bɛ́:rǎ:	b ɛː ⁵ r aː ¹⁵	(sb’s) stomach	estomac (de qn)	BELLY
+356	Songhai_Senni	fúttó	f u ⁵ t t o ⁵	stomach	estomac	BELLY
+359	Tiranige_Diga	pìndì	p i ¹ n d i ¹	belly	ventre	BELLY
+360	Togo_Kan	bǐn	b i ¹⁵ n	belly	ventre	BELLY
+361	Tommo_So	bɛ̀rɛ́	b ɛ ¹ r ɛ ⁵	belly	ventre	BELLY
+362	Toro_Tegu	bèté	b e ¹ t e ⁵	belly	ventre	BELLY
+363	Yanda_Dom	bɛ̀dɛ̀	b ɛ ¹ d ɛ ¹	belly	ventre	BELLY
+342	Bangime	kòrè	k o ¹ r e ¹	belly	ventre	BELLY
+345	Bunoge	dólè	d o ⁵ l e ¹	belly	ventre	BELLY
+347	Fulfulde	reedu	r e e d u	belly	ventre	BELLY
+349	Jenaama	nù	n u ¹	belly	ventre	BELLY
+358	Tebul_Ure	bɛ̀rǎ:	b ɛ ¹ r aː ¹⁵	belly	ventre	BELLY
+365	Yorno_So	bɛ̀rɛ́	b ɛ ¹ r ɛ ⁵	belly	ventre	BELLY
+353	Penange	jàŋgà	dʒ a ¹ ŋ ɡ a ¹	belly	ventre	BELLY
+#
+412	Bangime	bɔ́rⁿú	b ɔ ⁵ r̃ ∼ u ⁵	big (house, tree, animal); fat (person)	gros (personne, ventre), en surpoids	BIG
+413	Bankan_Tey	díyⁿàwⁿ	d i ⁵ j ∼ a ¹ w̃ ∼	big, large	gros, grand	BIG
+414	Ben_Tey	díyⁿàw	d i ⁵ j ∼ a ¹ w	big, large	gros, grand	BIG
+417	Fulfulde	mawnu-de	m a w n u + d e	big, large	gros, grand	BIG
+419	Jamsay	gàrá	ɡ a ¹ r a ⁵	big, large	gros, grand	BIG
+420	Jenaama	būrōŋ	b u ³ r o ³ ŋ	big (house, tree, animal)	gros, de grande taille	BIG
+421	Mombo	bâyⁿ	b a ⁵¹ j ∼	big, large	gros, grand	BIG
+422	Najamba	gìndɔ́:	ɡ i ¹ n d ɔː	big, large	gros, grand	BIG
+423	Nanga	dùgí	d u ¹ ɡ i ⁵	big, large	gros, grand	BIG
+424	Penange	bàyⁿ	b a ¹ j ∼	big, large	gros, grand	BIG
+425	Perge_Tegu	démbé-ré	d e ⁵ m b e ⁵ + r e ⁵	big, large	gros, grand	BIG
+426	Songhai_Kiini	bè:rì	b eː ¹ r i ¹	big, large	gros, grand	BIG
+429	Tebul_Ure	dɛ́	d ɛ ⁵	big, large	gros, grand	BIG
+430	Tiranige_Diga	báy	b a ⁵ j	big, large	gros, grand	BIG
+431	Togo_Kan	káŋ	k a ⁵ ŋ	big, large	gros, grand	BIG
+432	Tommo_So	póó	p oː ⁵	big, large	gros, grand	BIG
+433	Toro_Tegu	sɛ́w	s ɛ ⁵ w	big, large	gros, grand	BIG
+435	Yanda_Dom	dìyá	d i ¹ j a ⁵	big, large	gros, grand	BIG
+436	Yorno_So	dùgú	d u ¹ ɡ u ⁵	big, large	gros, grand	BIG
+415	Bunoge	bàyⁿ	b a ¹ j ∼	big, large	gros, grand	BIG
+427	Songhai_Senni	bè:rì	b eː ¹ r i ¹	big, large	gros, grand	BIG
+#
+440	Bambara	kɔ̀nɔ́	k ɔ ¹ n ɔ ⁵	bird	oiseau	BIRD
+441	Bangime	dɔ̄rɛ̀ɛ̀	d ɔ ³ r ɛː ¹	bird (any)	oiseau (tout)	BIRD
+442	Bankan_Tey	nǐ:m	n iː ¹⁵ m	bird (any)	(tout) oiseau	BIRD
+443	Ben_Tey	nì:yⁿî-m	n iː ¹ j ∼ i ⁵¹ + m	bird (any)	(tout) oiseau	BIRD
+444	Bunoge	ní:bè	n iː ⁵ b e ¹	bird (any)	(tout) oiseau	BIRD
+446	Fulfulde	foondu	f o o n d u	bird (any)	oiseau (tout)	BIRD
+447	Jamsay	sà:jî:ⁿ	s aː ¹ dʒ ĩː ⁵¹ ∼	bird (any)	(tout) oiseau	BIRD
+448	Jenaama	pùlēwⁿ	p u ¹ l e ³ w̃ ∼	bird (any)	oiseau (tout)	BIRD
+449	Mombo	ìní	i ¹ n i ⁵	bird (any)	(tout) oiseau	BIRD
+450	Najamba	nǐ:	n iː ¹⁵	bird (any)	(tout) oiseau	BIRD
+452	Penange	nèjjé	n e ¹ dʒ dʒ e ⁵	bird (any)	(tout) oiseau	BIRD
+453	Perge_Tegu	sàsǎy	s a ¹ s a ¹⁵ j	bird (any)	(tout) oiseau	BIRD
+454	Songhai_Kiini	kírò	k i ⁵ r o ¹	bird	oiseau	BIRD
+455	Songhai_Senni	kírò	k i ⁵ r o ¹	bird	oiseau	BIRD
+458	Tiranige_Diga	níyè	n i ⁵ j e ¹	bird (any)	(tout) oiseau	BIRD
+459	Togo_Kan	sàjú	s a ¹ dʒ u ⁵	bird (any)	oiseau (tout)	BIRD
+460	Tommo_So	sàdàá	s a ¹ d aː ¹⁵	bird (any)	(tout) oiseau	BIRD
+462	Toro_Tegu	sǎy	s a ¹⁵ j	bird (any)	(tout) oiseau	BIRD
+463	Yanda_Dom	àɲàn	a ¹ ɲ a ¹ n	bird (any)	(tout) oiseau	BIRD
+464	Yorno_So	sìsǎ:	s i ¹ s aː ¹⁵	bird (any)	(tout) oiseau	BIRD
+451	Nanga	lì:gí	l iː ¹ ɡ i ⁵	bird (any)	(tout) oiseau	BIRD
+457	Tebul_Ure	àdé	a ¹ d e ⁵	bird (any)	(tout) oiseau	BIRD
+#
+512	Bambara	nùmúⁿ	n u ¹ m ũ ⁵ ∼	blacksmith	forgeron, toute personne appartenant à la caste des forgerons	BLACKSMITH
+513	Bangime	tùwⁿɔ̀	t u ¹ w̃ ∼ ɔ ¹	blacksmith	forgeron	BLACKSMITH
+514	Bankan_Tey	zɛ́mbɛ̀-m	z ɛ ⁵ m b ɛ ¹ + m	blacksmith, member of blacksmith caste	forgeron, membre de la caste des forgerons	BLACKSMITH
+515	Ben_Tey	jɛ́mbɛ̌-m	dʒ ɛ ⁵ m b ɛ ¹⁵ + m	blacksmith, member of blacksmith caste	forgeron, membre de la caste des forgerons	BLACKSMITH
+516	Bunoge	kɔ́:nɔ̀	k ɔː n ɔ ¹	blacksmith, member of blacksmith caste	forgeron, membre de la caste des forgerons	BLACKSMITH
+518	Fulfulde	baylo	b a j l o	blacksmith	forgeron	BLACKSMITH
+520	Jamsay	jɛ́mɛ̀n	dʒ ɛ ⁵ m ɛ ¹ n	blacksmith, member of blacksmith caste	forgeron, membre de la caste des forgerons	BLACKSMITH
+521	Jenaama	kùɥgù	k u ¹ ɥ ɡ u ¹	blacksmith	forgeron	BLACKSMITH
+522	Mombo	dɛ́mbɛ́	d ɛ ⁵ m b ɛ ⁵	blacksmith, member of blacksmith caste	forgeron, membre de la caste des forgerons	BLACKSMITH
+523	Najamba	dùbé	d u ¹ b e ⁵	blacksmith, member of blacksmith caste	forgeron, membre de la caste des forgerons	BLACKSMITH
+524	Nanga	jɛ́mbɛ̀	dʒ ɛ ⁵ m b ɛ ¹	blacksmith, member of blacksmith caste	forgeron, membre de la caste des forgerons	BLACKSMITH
+525	Penange	dɛ́mbɛ́	d ɛ ⁵ m b ɛ ⁵	blacksmith, member of blacksmith caste	forgeron, membre de la caste des forgerons	BLACKSMITH
+526	Perge_Tegu	gɛ́mbɛ̀-n	ɡ ɛ ⁵ m b ɛ ¹ + n	blacksmith, member of blacksmith caste	forgeron, membre de la caste des forgerons	BLACKSMITH
+527	Songhai_Senni	gàrgásò	ɡ a ¹ r ɡ a ⁵ s o ¹	blacksmith, member of the caste of blacksmiths and leather-workers (shoe-makers)	membre de la race des forgerons et des cordonniers	BLACKSMITH
+529	Tebul_Ure	zɛ́mbɛ́	z ɛ ⁵ m b ɛ ⁵	blacksmith, member of blacksmith caste	forgeron, membre de la caste des forgerons	BLACKSMITH
+530	Tiranige_Diga	dú:	d uː ⁵	blacksmith, member of blacksmith caste	forgeron, membre de la caste des forgerons	BLACKSMITH
+531	Togo_Kan	jɛ́mɛ́	dʒ ɛ ⁵ m ɛ ⁵	blacksmith, member of blacksmith caste	forgeron, membre de la caste des forgerons	BLACKSMITH
+532	Tommo_So	jɛ́mmɛ̀-nɛ̀	dʒ ɛ ⁵ m m ɛ ¹ + n ɛ ¹	blacksmith, member of blacksmith caste	forgeron, membre de la caste des forgerons	BLACKSMITH
+533	Toro_Tegu	zɛ́mà-n	z ɛ ⁵ m a ¹ + n	blacksmith, member of blacksmith caste	forgeron, membre de la caste des forgerons	BLACKSMITH
+535	Yanda_Dom	zèmɛ́	z e ¹ m ɛ ⁵	blacksmith, member of blacksmith caste	forgeron, membre de la caste des forgerons	BLACKSMITH
+536	Yorno_So	írù-nɛ̀	i ⁵ r u ¹ + n ɛ ¹	blacksmith, member of blacksmith caste	forgeron, membre de la caste des forgerons	BLACKSMITH
+#
+584	Bambara	básí	b a ⁵ s i ⁵	blood	sang	BLOOD
+585	Bangime	yīyì	j i ³ j i ¹	blood	sang	BLOOD
+586	Bankan_Tey	gòŋgòró	ɡ o ¹ ŋ ɡ o ¹ r o ⁵	blood	sang	BLOOD
+587	Ben_Tey	gòŋgòró	ɡ o ¹ ŋ ɡ o ¹ r o ⁵	blood	sang	BLOOD
+588	Bunoge	bàbà	b a ¹ b a ¹	blood	sang	BLOOD
+590	Fulfulde	ʄiiʄam	ʄ i i ʄ a m	blood	sang	BLOOD
+592	Jamsay	nɛ̂yⁿ	n ɛ ¹⁵ j ∼	blood	sang	BLOOD
+593	Jenaama	dē	d e ³	blood	sang	BLOOD
+594	Mombo	gè:ŋgé	ɡ eː ¹ ŋ ɡ e ⁵	blood	sang	BLOOD
+595	Najamba	gěngé	ɡ e ¹⁵ n ɡ e ⁵	blood	sang	BLOOD
+597	Penange	bàgà	b a ¹ ɡ a ¹	blood	sang	BLOOD
+598	Perge_Tegu	nɛ̂m	n ɛ ¹⁵ m	blood	sang	BLOOD
+599	Songhai_Senni	kúró	k u ⁵ r o ⁵	blood	sang	BLOOD
+600	Songhai_Kiini	kúrí	k u ⁵ r i ⁵	blood	sang	BLOOD
+602	Tebul_Ure	jènjé	dʒ e ¹ n dʒ e ⁵	blood	sang	BLOOD
+603	Tiranige_Diga	jé:ŋgé	dʒ eː ⁵ ŋ ɡ e ⁵	blood	sang	BLOOD
+604	Togo_Kan	nɛ́	n ɛ ⁵	blood	sang	BLOOD
+605	Tommo_So	ìlìyé	i ¹ l i ¹ j e ⁵	blood	sang	BLOOD
+606	Toro_Tegu	néŋ	n e ⁵ ŋ	blood	sang	BLOOD
+607	Yanda_Dom	jènjù	dʒ e ¹ n dʒ u ¹	blood	sang	BLOOD
+609	Yorno_So	ìllî:	i ¹ l l iː ⁵¹	blood	sang	BLOOD
+596	Nanga	gòndùgó	ɡ o ¹ n d u ¹ ɡ o ⁵	blood	sang	BLOOD
+#
+687	Jenaama	kúwⁿɔ̄	k u ⁵ w̃ ∼ ɔ ³	bone	os	BONE
+688	Mombo	gà:wⁿě:	ɡ aː ¹ w̃ ∼ eː ¹⁵	bone	os	BONE
+689	Najamba	kìná-ŋgó	k i ¹ n a ⁵ + ŋ ɡ o ⁵	bone	os	BONE
+692	Perge_Tegu	kìrⁿé	k i ¹ r̃ ∼ e ⁵	bone	os	BONE
+698	Togo_Kan	kìrⁿí	k i ¹ r̃ ∼ i ⁵	bone	os	BONE
+699	Tommo_So	kìyé	k i ¹ j e ⁵	bone	os	BONE
+700	Toro_Tegu	cìrá	tʃ i ¹ r a ⁵	bone	os	BONE
+701	Yanda_Dom	kìrⁿà	k i ¹ r̃ ∼ a ¹	bone	os	BONE
+691	Penange	gɔ̀:gɛ̀	ɡ ɔː ¹ ɡ ɛ ¹	bone	os	BONE
+678	Bambara	kóló kúrú	k o ⁵ l o ⁵ _ k u ⁵ r u ⁵	bone	os	BONE
+679	Bangime	nɔ̀rɛ̀	n ɔ ¹ r ɛ ¹	bone	os	BONE
+680	Bankan_Tey	kìrⁿěy	k i ¹ r̃ ∼ e ¹⁵ j	bone	os	BONE
+681	Ben_Tey	cìrⁿɛ̌yⁿ	tʃ i ¹ r̃ ∼ ɛ ¹⁵ j ∼	bone	os	BONE
+682	Bunoge	gá:yè	ɡ aː ⁵ j e ¹	bone	os	BONE
+684	Fulfulde	gi'al	ɡ i ʔⁿ a l	bone	os	BONE
+686	Jamsay	cìrⁿé	tʃ i ¹ r̃ ∼ e ⁵	bone	os	BONE
+690	Nanga	kìrⁿá	k i ¹ r̃ ∼ a ⁵	bone	os	BONE
+694	Songhai_Senni	bìrò	b i ¹ r o ¹	bone	os	BONE
+696	Tebul_Ure	cìnǎ:	tʃ i ¹ n aː ¹⁵	bone	os	BONE
+697	Tiranige_Diga	kíná	k i ⁵ n a ⁵	bone	os	BONE
+702	Yorno_So	kǐ:	k iː ¹⁵	bone	os	BONE
+693	Songhai_Kiini	bìrí	b i ¹ r i ⁵	bone	os	BONE
+#
+804	Jamsay	sá:má	s aː ⁵ m a ⁵	broom	balai	BROOM
+805	Jenaama	sāⁿgòlō	s a ³ ∼ ɡ o ¹ l o ³	broom	balai	BROOM
+806	Mombo	gèní	ɡ e ¹ n i ⁵	broom	balai	BROOM
+807	Najamba	ǹjùlû:	n ¹ dʒ u ¹ l uː ⁵¹	broom	balai	BROOM
+808	Nanga	ùsìrî	u ¹ s i ¹ r i ⁵¹	broom	balai	BROOM
+809	Penange	gè:ní	ɡ eː ¹ n i ⁵	broom	balai	BROOM
+810	Perge_Tegu	gè:rú	ɡ eː ¹ r u ⁵	broom	balai	BROOM
+812	Songhai_Kiini	fìsâwà:	f i ¹ s a ⁵¹ w aː ¹	broom	balai	BROOM
+813	Tebul_Ure	ìdìlú-ŋgò	i ¹ d i ¹ l u ⁵ + ŋ ɡ o ¹	broom	balai	BROOM
+814	Tiranige_Diga	íjílí	i ⁵ dʒ i ⁵ l i ⁵	broom	balai	BROOM
+796	Bambara	fúráláⁿ	f u ⁵ r a ⁵ l ã ⁵ ∼	broom	balai	BROOM
+797	Bangime	ɡíyɛ́rⁿɛ̀	ɡ i ⁵ j ɛ ⁵ r̃ ∼ ɛ ¹	broom	balai	BROOM
+798	Bankan_Tey	ùsìrⁿî:	u ¹ s i ¹ r̃ ∼ iː ⁵¹	broom	balai	BROOM
+799	Ben_Tey	ùsùnî:	u ¹ s u ¹ n iː ⁵¹	broom	balai	BROOM
+800	Bunoge	ɲéníŋgà	ɲ e ⁵ n i ⁵ ŋ ɡ a ¹	broom	balai	BROOM
+802	Fulfulde	buuw-irgal	b u u w + i r ɡ a l	broom	balai	BROOM
+811	Songhai_Senni	àdá:zà:	a ¹ d aː ⁵ z aː ¹	bunch of thorny branches tied together (used for sweeping)	faisceau de branches épineuses attachées (utilisé pour balayer)	BROOM
+819	Yorno_So	jòbûl	dʒ o ¹ b u ⁵¹ l	broom	balai	BROOM
+815	Togo_Kan	sɔ́mú-rⁿú	s ɔ ⁵ m u ⁵ + r̃ ∼ u ⁵	broom	balai	BROOM
+816	Tommo_So	jòòlú	dʒ oː ¹ l u ⁵	broom	balai	BROOM
+817	Toro_Tegu	zètú	z e ¹ t u ⁵	broom	balai	BROOM
+818	Yanda_Dom	èzìl	e ¹ z i ¹ l	broom	balai	BROOM
+#
+868	Bangime	pē-rò	p e ³ + r o ¹	put down; bury (corpse)	déposer; enterrer (cadavre)	BURY
+869	Bankan_Tey	bèsí	b e ¹ s i ⁵	bury (sb)	enterrer (qn)	BURY
+871	Bunoge	díŋgè	d i ⁵ ŋ ɡ e ¹	bury (sb)	enterrer (qn)	BURY
+873	Fulfulde	iru-de	i r u + d e	bury (sb)	enterrer (qn)	BURY
+875	Jamsay	bèjé	b e ¹ dʒ e ⁵	bury (sb)	enterrer (qn)	BURY
+876	Mombo	díŋgé	d i ⁵ ŋ ɡ e ⁵	bury (sb)	enterrer (qn)	BURY
+877	Najamba	bèjí	b e ¹ dʒ i ⁵	bury (sb)	enterrer (qn)	BURY
+878	Nanga	bɛ̀sí	b ɛ ¹ s i ⁵	bury (sb)	enterrer (qn)	BURY
+879	Penange	díŋgé	d i ⁵ ŋ ɡ e ⁵	bury (sb)	enterrer (qn)	BURY
+880	Perge_Tegu	bìyⁿɛ́	b i ¹ j ∼ ɛ ⁵	bury (sb)	enterrer (qn)	BURY
+882	Songhai_Senni	fí:jí	f iː ⁵ dʒ i ⁵	bury	enterrer	BURY
+884	Tebul_Ure	cɛ́ndí	tʃ ɛ ⁵ n d i ⁵	bury (sb)	enterrer (qn)	BURY
+887	Tommo_So	bòdó	b o ¹ d o ⁵	bury (sb)	enterrer (qn)	BURY
+888	Toro_Tegu	bǐw	b i ¹⁵ w	bury (sb)	enterrer (qn)	BURY
+870	Ben_Tey	bɛ̀sí	b ɛ ¹ s i ⁵	bury (sb)	enterrer (qn)	BURY
+881	Songhai_Kiini	fí:	f iː ⁵	bury	enterrer	BURY
+885	Tiranige_Diga	béjó	b e ⁵ dʒ o ⁵	bury (sb)	enterrer (qn)	BURY
+886	Togo_Kan	bìyɛ́	b i ¹ j ɛ ⁵	bury (sb)	enterrer (qn)	BURY
+889	Yanda_Dom	bèzé	b e ¹ z e ⁵	bury (sb)	enterrer (qn)	BURY
+890	Yorno_So	bòjó	b o ¹ dʒ o ⁵	bury (sb)	enterrer (qn)	BURY
+#
+1029	Bambara	jàkúmá	dʒ a ¹ k u ⁵ m a ⁵	cat	chat	CAT
+1030	Bangime	tūwⁿɛ̀ɛ̀	t u ³ w̃ ∼ ɛː ¹	cat	chat	CAT
+1031	Bankan_Tey	nùmǎ-m	n u ¹ m a ¹⁵ + m	cat	chat	CAT
+1032	Ben_Tey	nì-nìwⁿɛ̌-m	n i ¹ + n i ¹ w̃ ∼ ɛ ¹⁵ + m	cat	chat	CAT
+1033	Bunoge	ɲá:lì	ɲ aː ⁵ l i ¹	cat	chat	CAT
+1035	Fulfulde	muusuuru	m u u s u u r u	cat	chat	CAT
+1037	Jamsay	nì-nìwⁿé	n i ¹ + n i ¹ w̃ ∼ e ⁵	cat	chat	CAT
+1038	Jenaama	yòrōgō	j o ¹ r o ³ ɡ o ³	cat	chat	CAT
+1039	Mombo	gà:wⁿě	ɡ aː ¹ w̃ ∼ e ¹⁵	cat	chat	CAT
+1040	Najamba	gáŋà	ɡ a ⁵ ŋ a ¹	cat	chat	CAT
+1041	Nanga	dòndí-yê	d o ¹ n d i ⁵ + j e ⁵¹	cat	chat	CAT
+1042	Penange	gà:ⁿ	ɡ ãː ¹ ∼	cat	chat	CAT
+1043	Perge_Tegu	nì-nìwⁿé	n i ¹ + n i ¹ w̃ ∼ e ⁵	cat	chat	CAT
+1044	Songhai_Senni	hèylò	h e ¹ j l o ¹	cat	chat	CAT
+1045	Songhai_Kiini	hàylá	h a ¹ j l a ⁵	cat	chat	CAT
+1047	Tebul_Ure	bàlmá	b a ¹ l m a ⁵	cat	chat	CAT
+1048	Tiranige_Diga	gà:nà	ɡ aː ¹ n a ¹	cat	chat	CAT
+1049	Togo_Kan	dònó	d o ¹ n o ⁵	cat	chat	CAT
+1050	Tommo_So	gámmá	ɡ a ⁵ m m a ⁵	cat	chat	CAT
+1051	Toro_Tegu	nìwⁿá	n i ¹ w̃ ∼ a ⁵	cat	chat	CAT
+1052	Yanda_Dom	gà:ⁿ	ɡ ãː ¹ ∼	cat	chat	CAT
+1053	Yorno_So	gámà	ɡ a ⁵ m a ¹	cat	chat	CAT
+#
+1129	Bambara	syɛ̀	s j ɛ ¹	chest	poule, poulet	CHICKEN
+1130	Bangime	sùɥɛ̀	s u ¹ ɥ ɛ ¹	chicken	poulet	CHICKEN
+1131	Bankan_Tey	ɛ̀zɛ̂-m	ɛ ¹ z ɛ ¹⁵ + m	chicken	poulet	CHICKEN
+1132	Ben_Tey	ɛ̀njɛ̂-m	ɛ ¹ n dʒ ɛ ¹⁵ + m	chicken	poulet	CHICKEN
+1133	Bunoge	sí:jà	s iː ⁵ dʒ a ¹	chicken	poulet	CHICKEN
+1135	Fulfulde	cofal	tʃ o f a l	chicken	poulet	CHICKEN
+1137	Jamsay	ɛ̀ɲɛ́	ɛ ¹ ɲ ɛ ⁵	chicken	poulet	CHICKEN
+1138	Jenaama	sàbá	s a ¹ b a ⁵	chicken	poulet	CHICKEN
+1139	Mombo	síjà	s i ⁵ dʒ a ¹	chicken	poulet	CHICKEN
+1140	Najamba	kòkó-rò	k o ¹ k o ⁵ + r o ¹	chicken	poulet	CHICKEN
+1141	Nanga	ɛ̀njɛ̂	ɛ ¹ n dʒ ɛ ¹⁵	chicken	poulet	CHICKEN
+1142	Penange	sírgà	s i ⁵ r ɡ a ¹	chicken	poulet	CHICKEN
+1143	Perge_Tegu	ɛ̀njɛ́	ɛ ¹ n dʒ ɛ ⁵	chicken	poulet	CHICKEN
+1144	Songhai_Kiini	gòŋgò	ɡ o ¹ ŋ ɡ o ¹	chicken, hen	poulet, poule	CHICKEN
+1145	Songhai_Senni	gɔ̀ŋgɔ̀	ɡ ɔ ¹ ŋ ɡ ɔ ¹	chicken	poulet	CHICKEN
+1147	Tebul_Ure	ɛ̀njɛ́	ɛ ¹ n dʒ ɛ ⁵	chicken	poulet	CHICKEN
+1148	Tiranige_Diga	sìjá	s i ¹ dʒ a ⁵	chicken	poulet	CHICKEN
+1149	Togo_Kan	kògó	k o ¹ ɡ o ⁵	chicken	poulet	CHICKEN
+1150	Tommo_So	ɛ̀njɛ́	ɛ ¹ n dʒ ɛ ⁵	chicken	poulet	CHICKEN
+1151	Toro_Tegu	ɛ̀ⁿsá	ɛ̃ ¹ ∼ s a ⁵	chicken	poulet	CHICKEN
+1152	Yanda_Dom	ɛ̀dɛ̀	ɛ ¹ d ɛ ¹	chicken	poulet	CHICKEN
+1153	Yorno_So	ɛ̀ɲɛ́	ɛ ¹ ɲ ɛ ⁵	chicken	poulet	CHICKEN
+#
+1158	Bambara	dùgù tígí	d u ¹ ɡ u ¹ _ t i ⁵ ɡ i ⁵	chief	chef de village	CHIEFTAIN
+1159	Bangime	dēɡē cɛ̀ⁿ	d e ³ ɡ e ³ _ tʃ ɛ̃ ¹ ∼	chief	chef	CHIEFTAIN
+1160	Bankan_Tey	ámbí:rì	a ⁵ m b iː ⁵ r i ¹	chief	chef	CHIEFTAIN
+1161	Ben_Tey	ámbí:rù	a ⁵ m b iː ⁵ r u ¹	chief	chef	CHIEFTAIN
+1162	Bunoge	ʔàmì:rú	ʔ a ¹ m iː ¹ r u ⁵	chief	chef	CHIEFTAIN
+1164	Fulfulde	amiiri	a m i i r i	chief	chef	CHIEFTAIN
+1166	Jamsay	ámí:rⁿu	a ⁵ m iː ⁵ r̃ ∼ u	chief	chef	CHIEFTAIN
+1167	Jenaama	ŋìyɛ̀wⁿ	ŋ i ¹ j ɛ ¹ w̃ ∼	chief	chef	CHIEFTAIN
+1168	Mombo	ámílì	a ⁵ m i ⁵ l i ¹	chief	chef	CHIEFTAIN
+1169	Najamba	ámbìrì	a ⁵ m b i ¹ r i ¹	chief	chef	CHIEFTAIN
+1170	Nanga	ámbérì	a ⁵ m b e ⁵ r i ¹	chief	chef	CHIEFTAIN
+1171	Penange	kó:	k oː ⁵	chief	chef	CHIEFTAIN
+1172	Perge_Tegu	ámírù	a ⁵ m i ⁵ r u ¹	chief	chef	CHIEFTAIN
+1173	Songhai_Kiini	ʔámí:rì	ʔ a ⁵ m iː ⁵ r i ¹	chief	chef	CHIEFTAIN
+1174	Songhai_Senni	àmí:rò	a ¹ m iː ⁵ r o ¹	chief	chef	CHIEFTAIN
+1175	Tebul_Ure	ámbírí	a ⁵ m b i ⁵ r i ⁵	chief	chef	CHIEFTAIN
+1176	Tiranige_Diga	àmìrí	a ¹ m i ¹ r i ⁵	chief	chef	CHIEFTAIN
+1177	Togo_Kan	ámírⁿí	a ⁵ m i ⁵ r̃ ∼ i ⁵	chief	chef	CHIEFTAIN
+1178	Tommo_So	pàtrɔ́	p a ¹ t r ɔ ⁵	chief	chef	CHIEFTAIN
+1179	Toro_Tegu	kú bàsà	k u ⁵ _ b a ¹ s a ¹	chief	chef	CHIEFTAIN
+1180	Yanda_Dom	kó bádù	k o ⁵ _ b a ⁵ d u ¹	chief	chef	CHIEFTAIN
+1181	Yorno_So	ámìrù	a ⁵ m i ¹ r u ¹	chief	chef	CHIEFTAIN
+#
+1185	Bambara	déⁿ	d ẽ ⁵ ∼	child	enfant	CHILD
+1186	Bangime	yáámbɛ̀	j aː ⁵ m b ɛ ¹	child	enfant	CHILD
+1187	Bankan_Tey	yí-m	j i ⁵ + m	child	enfant	CHILD
+1188	Ben_Tey	yí-m	j i ⁵ + m	child	enfant	CHILD
+1189	Bunoge	bé	b e ⁵	child	enfant	CHILD
+1190	Fulfulde	ɓiɗɗo	ɓ i ɗ ɗ o	child	enfant	CHILD
+1192	Jamsay	în	i ⁵¹ n	child	enfant	CHILD
+1193	Mombo	wê:	w eː ⁵¹	child	enfant	CHILD
+1194	Najamba	èndê:	e ¹ n d eː ⁵¹	child	enfant	CHILD
+1195	Nanga	yî:	j iː ⁵¹	child	enfant	CHILD
+1196	Penange	wè:	w eː ¹	child	enfant	CHILD
+1197	Perge_Tegu	î:ⁿ	ĩː ⁵¹ ∼	child	enfant	CHILD
+1198	Songhai_Senni	ʔìzê	ʔ i ¹ z e ⁵¹	child (offspring)	enfant (parenté)	CHILD
+1199	Songhai_Kiini	kúwò	k u ⁵ w o ¹	child	enfant	CHILD
+1201	Tebul_Ure	ɛ̀dɛ́	ɛ ¹ d ɛ ⁵	child	enfant	CHILD
+1202	Tiranige_Diga	bé:	b eː ⁵	child	enfant	CHILD
+1203	Togo_Kan	í:ⁿ	ĩː ⁵ ∼	child	enfant	CHILD
+1204	Tommo_So	íí	iː ⁵	child	enfant	CHILD
+1205	Toro_Tegu	ìrⁿú	i ¹ r̃ ∼ u ⁵	child	enfant	CHILD
+1206	Yanda_Dom	ènè	e ¹ n e ¹	child	enfant	CHILD
+1207	Yorno_So	î:	iː ⁵¹	child	enfant	CHILD
+#
+1233	Bangime	pōrò	p o ³ r o ¹	cloud	nuage	CLOUD
+1234	Bankan_Tey	nànà: rⁿǎyⁿ	n a ¹ n aː ¹ _ r̃ ∼ a ¹⁵ j ∼	cloud	nuage	CLOUD
+1235	Ben_Tey	yàr kùrɔ́	j a ¹ r _ k u ¹ r ɔ ⁵	cloud	nuage	CLOUD
+1236	Bunoge	póndù	p o ⁵ n d u ¹	cloud	nuage	CLOUD
+1238	Fulfulde	duule-re	d u u l e + r e	cloud	nuage	CLOUD
+1240	Jamsay	kùrùwɔ́	k u ¹ r u ¹ w ɔ ⁵	cloud	nuage	CLOUD
+1241	Jenaama	pórō	p o ⁵ r o ³	cloud	nuage	CLOUD
+1242	Mombo	álè	a ⁵ l e ¹	cloud	nuage	CLOUD
+1243	Najamba	kùndà kùndǎ:	k u ¹ n d a ¹ _ k u ¹ n d aː ¹⁵	cloud	nuage	CLOUD
+1244	Nanga	yàr kùmùrⁿá	j a ¹ r _ k u ¹ m u ¹ r̃ ∼ a ⁵	cloud	nuage	CLOUD
+1246	Perge_Tegu	yàr kù: kúrɔ́	j a ¹ r _ k uː ¹ _ k u ⁵ r ɔ ⁵	cloud	nuage	CLOUD
+1247	Songhai_Kiini	búrú	b u ⁵ r u ⁵	cloud	nuage	CLOUD
+1248	Songhai_Senni	búró	b u ⁵ r o ⁵	cloud	nuage -idiom: búr-éy dá:bú	CLOUD
+1250	Tebul_Ure	àrⁿà kùrbá	a ¹ r̃ ∼ a ¹ _ k u ¹ r b a ⁵	cloud	nuage	CLOUD
+1251	Tiranige_Diga	á:ní	aː ⁵ n i ⁵	cloud	nuage	CLOUD
+1252	Togo_Kan	kùrù-gɔ́	k u ¹ r u ¹ + ɡ ɔ ⁵	cloud	nuage	CLOUD
+1253	Tommo_So	kùlù-m mɔ́	k u ¹ l u ¹ + m _ m ɔ ⁵	cloud	nuage	CLOUD
+1254	Toro_Tegu	kùrɔ́	k u ¹ r ɔ ⁵	cloud	nuage	CLOUD
+1255	Yanda_Dom	kùrù bàrà	k u ¹ r u ¹ _ b a ¹ r a ¹	cloud	nuage	CLOUD
+1256	Yorno_So	kùl mɔ́	k u ¹ l _ m ɔ ⁵	cloud	nuage	CLOUD
+1245	Penange	àlè	a ¹ l e ¹	cloud	nuage	CLOUD
+#
+1260	Bambara	nɛ́nɛ́	n ɛ ⁵ n ɛ ⁵	cold (n)	froid	COLD
+1261	Bangime	ʤím-bō	dʒ i ⁵ m + b o ³	cold, cool	frois, frais	COLD
+1262	Bankan_Tey	tâm	t a ⁵¹ m	cold (e.g. water)	froid, frais (eau, etc.)	COLD
+1263	Ben_Tey	tâm	t a ⁵¹ m	cold (e.g. water)	froid, frais (eau, etc.)	COLD
+1264	Bunoge	tòmbò	t o ¹ m b o ¹	cold (e.g. water)	froid, frais (eau, etc.)	COLD
+1266	Fulfulde	ɓuuɓol	ɓ u u ɓ o l	cold, cool	frois, frais	COLD
+1267	Jamsay	tôm	t o ⁵¹ m	cold (e.g. water)	froid, frais (eau, etc.)	COLD
+1268	Jenaama	mù	m u ¹	cold (n)	(le) froid	COLD
+1269	Mombo	kéló	k e ⁵ l o ⁵	cold (e.g. water)	froid, frais (eau, etc.)	COLD
+1270	Najamba	yégè-lè	j e ⁵ ɡ e ¹ + l e ¹	cold (e.g. water)	froid, frais (eau, etc.)	COLD
+1271	Nanga	támî	t a ⁵ m i ⁵¹	cold (e.g. water)	froid, frais (eau, etc.)	COLD
+1272	Penange	tàyè	t a ¹ j e ¹	cold (e.g. water)	froid, frais (eau, etc.)	COLD
+1273	Perge_Tegu	tôm	t o ⁵¹ m	cold (e.g. water)	froid, frais (eau, etc.)	COLD
+1274	Songhai_Senni	hàrgò	h a ¹ r ɡ o ¹	coldness, winter	froid, hiver	COLD
+1275	Songhai_Kiini	yéy	j e ⁵ j	be cold	froid	COLD
+1277	Tebul_Ure	cé:lè:	tʃ eː ⁵ l eː ¹	cold (e.g. water)	froid, frais (eau, etc.)	COLD
+1279	Togo_Kan	kélú	k e ⁵ l u ⁵	cold (e.g. water)	froid, frais (eau, etc.)	COLD
+1280	Tommo_So	yégé-lú	j e ⁵ ɡ e ⁵ + l u ⁵	cold (e.g. water)	froid, frais (eau, etc.)	COLD
+1281	Toro_Tegu	tôm	t o ⁵¹ m	cold (e.g. water)	froid, frais (eau, etc.)	COLD
+1282	Yanda_Dom	kè:zù	k eː ¹ z u ¹	cold (e.g. water)	froid, frais (eau, etc.)	COLD
+1283	Yorno_So	kâ:l	k aː ⁵¹ l	cold (e.g. water)	froid, frais (eau, etc.)	COLD
+1278	Tiranige_Diga	témú-m	t e ⁵ m u ⁵ + m	cold (e.g. water)	froid, frais (eau, etc.)	COLD
+#
+1337	Bangime	nūɡò	n u ³ ɡ o ¹	cotton	coton	COTTON
+1338	Bankan_Tey	nàmú	n a ¹ m u ⁵	cotton	coton	COTTON
+1339	Ben_Tey	nà:mbú	n aː ¹ m b u ⁵	cotton	coton	COTTON
+1340	Bunoge	kɔ́:ndè	k ɔː n d e ¹	cotton	coton	COTTON
+1342	Fulfulde	haabu	h a a b u	cotton	coton	COTTON
+1344	Jamsay	nǎ:m	n aː ¹⁵ m	cotton	coton	COTTON
+1345	Jenaama	dé	d e ⁵	cotton	coton	COTTON
+1346	Mombo	kɔ́:ndí	k ɔː n d i ⁵	cotton	coton	COTTON
+1347	Najamba	sá-gò	s a ⁵ + ɡ o ¹	cotton	coton	COTTON
+1348	Nanga	nà:mbí	n aː ¹ m b i ⁵	cotton	coton	COTTON
+1349	Penange	kɔ́:ndè	k ɔː n d e ¹	cotton	coton	COTTON
+1350	Perge_Tegu	nà:mbú	n aː ¹ m b u ⁵	cotton	coton	COTTON
+1351	Songhai_Kiini	há:bú	h aː ⁵ b u ⁵	cotton	coton	COTTON
+1352	Songhai_Senni	hà:bò	h aː ¹ b o ¹	cotton	coton	COTTON
+1353	Tebul_Ure	cɛ̀mdɛ́	tʃ ɛ ¹ m d ɛ ⁵	cotton	coton	COTTON
+1354	Tiranige_Diga	kɔ̀:ní	k ɔː ¹ n i ⁵	cotton	coton	COTTON
+1355	Togo_Kan	kɔ́nú	k ɔ ⁵ n u ⁵	cotton	coton	COTTON
+1356	Tommo_So	kɛ̀ɲɲɛ́	k ɛ ¹ ɲ ɲ ɛ ⁵	cotton	coton	COTTON
+1357	Toro_Tegu	nǎm	n a ¹⁵ m	cotton	coton	COTTON
+1358	Yanda_Dom	cèɲè	tʃ e ¹ ɲ e ¹	cotton	coton	COTTON
+1359	Yorno_So	nàmú	n a ¹ m u ⁵	cotton	coton	COTTON
+#
+1476	Bambara	sà	s a ¹	die	mourir	DIE
+1477	Bangime	yāwɔ̀	j a ³ w ɔ ¹	die	mourir	DIE
+1478	Bankan_Tey	tíwɛ́	t i ⁵ w ɛ ⁵	die	mourir	DIE
+1479	Ben_Tey	tíwɛ́	t i ⁵ w ɛ ⁵	die	mourir	DIE
+1480	Bunoge	dɔ́:wɛ̀	d ɔː w ɛ ¹	die	mourir	DIE
+1482	Fulfulde	maay-de	m a a j + d e	die	mourir	DIE
+1483	Jamsay	núwⁿó	n u ⁵ w̃ ∼ o ⁵	die	mourir	DIE
+1484	Jenaama	wà	w a ¹	die	mourir	DIE
+1485	Mombo	máré	m a ⁵ r e ⁵	die	mourir	DIE
+1486	Najamba	tíbɛ́	t i ⁵ b ɛ ⁵	die	mourir	DIE
+1487	Nanga	túwɛ́	t u ⁵ w ɛ ⁵	die	mourir	DIE
+1488	Penange	dɔ́gɛ́	d ɔ ⁵ ɡ ɛ ⁵	die	mourir	DIE
+1489	Perge_Tegu	núwⁿó	n u ⁵ w̃ ∼ o ⁵	die	mourir	DIE
+1490	Songhai_Kiini	bú:	b uː ⁵	die	mourir, décéde	DIE
+1491	Songhai_Senni	bú:	b uː ⁵	die	mourir, décéde	DIE
+1493	Tebul_Ure	tíbɛ́	t i ⁵ b ɛ ⁵	die	mourir	DIE
+1494	Tiranige_Diga	tíwɔ́	t i ⁵ w ɔ ⁵	die	mourir	DIE
+1495	Togo_Kan	nú:	n uː ⁵	die	mourir	DIE
+1496	Tommo_So	yímɛ́	j i ⁵ m ɛ ⁵	die	mourir	DIE
+1497	Toro_Tegu	núm	n u ⁵ m	die	mourir	DIE
+1498	Yanda_Dom	tíbɛ́	t i ⁵ b ɛ ⁵	die	mourir	DIE
+1499	Yorno_So	yíwⁿɛ́	j i ⁵ w̃ ∼ ɛ ⁵	die	mourir	DIE
+#
+1529	Bambara	bàná	b a ¹ n a ⁵	disease, illness	maladie	DISEASE
+1530	Bangime	dɛ̀ɡɛ̀	d ɛ ¹ ɡ ɛ ¹	disease, illness	maladie	DISEASE
+1531	Bankan_Tey	ɔ̀:rɔ̌-n	ɔː ¹ r ɔ ¹⁵ + n	disease, sickness, illness (general term)	maladie (mot général)	DISEASE
+1532	Ben_Tey	ɔ̀:rɔ̌-y	ɔː ¹ r ɔ ¹⁵ + j	disease, sickness, illness (general term)	maladie (mot général)	DISEASE
+1533	Bunoge	ʔúrù	ʔ u ⁵ r u ¹	disease, sickness, illness (general term)	maladie (mot général)	DISEASE
+1535	Fulfulde	ɲaw	ɲ a w	disease, illness	maladie	DISEASE
+1537	Jamsay	sì:ⁿlɛ́	s ĩː ¹ ∼ l ɛ ⁵	disease, sickness, illness (general term)	maladie (mot général)	DISEASE
+1538	Jenaama	wɔ̀bɔ̀	w ɔ ¹ b ɔ ¹	disease, illness	maladie	DISEASE
+1539	Mombo	úrù	u ⁵ r u ¹	disease, sickness, illness (general term)	maladie (mot général)	DISEASE
+1540	Najamba	sà:mǎ-n	s aː ¹ m a ¹⁵ + n	disease, sickness, illness (general term)	maladie (mot général)	DISEASE
+1541	Nanga	mùrⁿá	m u ¹ r̃ ∼ a ⁵	disease, sickness, illness (general term)	maladie (mot général)	DISEASE
+1542	Penange	ùrù	u ¹ r u ¹	disease, sickness, illness (general term)	maladie (mot général)	DISEASE
+1543	Perge_Tegu	šì:ná	ʃ iː ¹ n a ⁵	disease, sickness, illness (general term)	maladie (mot général)	DISEASE
+1544	Songhai_Senni	jáŋgórò	dʒ a ⁵ ŋ ɡ o ⁵ r o ¹	illness, physical pain	maladie, douleur corporelle	DISEASE
+1545	Songhai_Kiini	záññɔ́:	z a ⁵ ɲ ɲ ɔː	sickness	maladie	DISEASE
+1547	Tebul_Ure	dɔ̀rɔ́	d ɔ ¹ r ɔ ⁵	disease, sickness, illness (general term)	maladie (mot général)	DISEASE
+1548	Tiranige_Diga	úrú	u ⁵ r u ⁵	disease, sickness, illness (general term)	maladie (mot général)	DISEASE
+1549	Togo_Kan	nùrⁿú	n u ¹ r̃ ∼ u ⁵	disease, sickness, illness (general term)	maladie (mot général)	DISEASE
+1550	Tommo_So	jím	dʒ i ⁵ m	disease, sickness, illness (general term)	maladie (mot général)	DISEASE
+1551	Toro_Tegu	lùrɔ́	l u ¹ r ɔ ⁵	disease, sickness, illness (general term)	maladie (mot général)	DISEASE
+1552	Yanda_Dom	cìŋ	tʃ i ¹ ŋ	disease, sickness, illness (general term)	maladie (mot général)	DISEASE
+1553	Yorno_So	jîm	dʒ i ⁵¹ m	disease, sickness, illness (general term)	maladie (mot général)	DISEASE
+#
+1557	Bambara	táxá-ndí	t a ⁵ x a ⁵ + n d i ⁵	divide, share (sth)	partager ; être partagé	DIVIDE
+1558	Bangime	ɡùyɛ̀-ndɛ̀	ɡ u ¹ j ɛ ¹ + n d ɛ ¹	separate; share, divide	séparer; partager, diviser	DIVIDE
+1559	Bankan_Tey	kérí-yé	k e ⁵ r i ⁵ + j e ⁵	divide, share (sth)	diviser, partager (qch)	DIVIDE
+1560	Ben_Tey	kérí-yé	k e ⁵ r i ⁵ + j e ⁵	divide, share (sth)	diviser, partager (qch)	DIVIDE
+1561	Bunoge	gámbá-gè	ɡ a ⁵ m b a ⁵ + ɡ e ¹	divide, share (sth)	diviser, partager (qch)	DIVIDE
+1563	Fulfulde	feccu-de	f e tʃ tʃ u + d e	separate; share, divide	séparer; partager, diviser	DIVIDE
+1565	Jamsay	gàmà-rⁿá	ɡ a ¹ m a ¹ + r̃ ∼ a ⁵	divide, share (sth)	diviser, partager (qch)	DIVIDE
+1566	Mombo	púrú-gè	p u ⁵ r u ⁵ + ɡ e ¹	divide, share (sth)	diviser, partager (qch)	DIVIDE
+1567	Najamba	ká:ŋgí-y	k aː ⁵ ŋ ɡ i ⁵ + j	divide, share (sth)	diviser, partager (qch)	DIVIDE
+1568	Nanga	kérí-yé	k e ⁵ r i ⁵ + j e ⁵	divide, share (sth)	diviser, partager (qch)	DIVIDE
+1569	Penange	wélá-gè	w e ⁵ l a ⁵ + ɡ e ¹	divide, share (sth)	diviser, partager (qch)	DIVIDE
+1570	Perge_Tegu	gàm-dá	ɡ a ¹ m + d a ⁵	divide, share (sth)	diviser, partager (qch)	DIVIDE
+1571	Songhai_Senni	zèm-nà	z e ¹ m + n a ¹	divide, split up, share	diviser, partager	DIVIDE
+1572	Songhai_Kiini	zá:n-dú	z aː ⁵ n + d u ⁵	divide, share (sth)	partager, diviser	DIVIDE
+1573	Tebul_Ure	gèrí:	ɡ e ¹ r iː ⁵	divide, share (sth)	diviser, partager (qch)	DIVIDE
+1574	Tiranige_Diga	úndú-yó	u ⁵ n d u ⁵ + j o ⁵	divide, share (sth)	diviser, partager (qch)	DIVIDE
+1575	Togo_Kan	gàmí-rⁿì	ɡ a ¹ m i ⁵ + r̃ ∼ i ¹	divide, share (sth)	diviser, partager (qch)	DIVIDE
+1576	Tommo_So	kábí-lɛ́	k a ⁵ b i ⁵ + l ɛ ⁵	divide, share (sth)	diviser, partager (qch)	DIVIDE
+1577	Toro_Tegu	hélú	h e ⁵ l u ⁵	divide, share (sth)	diviser, partager (qch)	DIVIDE
+1578	Yanda_Dom	gàmbú-lɛ́	ɡ a ¹ m b u ⁵ + l ɛ ⁵	divide, share (sth)	diviser, partager (qch)	DIVIDE
+1580	Yorno_So	gàmá-lá	ɡ a ¹ m a ⁵ + l a ⁵	divide, share (sth)	diviser, partager (qch)	DIVIDE
+#
+1584	Bangime	kùrɛ̀ɛ̀	k u ¹ r ɛː ¹	dog	chien	DOG
+1585	Bankan_Tey	ǹjèrû-m	n ¹ dʒ e ¹ r u ⁵¹ + m	dog	chien	DOG
+1586	Ben_Tey	ìnjɛ̌-m	i ¹ n dʒ ɛ ¹⁵ + m	dog	chien	DOG
+1587	Bunoge	ʔínjɛ̀	ʔ i ⁵ n dʒ ɛ ¹	dog	chien	DOG
+1589	Fulfulde	bilaaru	b i l a a r u	dog	chien	DOG
+1591	Jamsay	ìjú	i ¹ dʒ u ⁵	dog	chien	DOG
+1592	Jenaama	kúŋgólō	k u ⁵ ŋ ɡ o ⁵ l o ³	dog	chien	DOG
+1593	Mombo	ínjɛ̀	i ⁵ n dʒ ɛ ¹	dog	chien	DOG
+1594	Najamba	ŋ̀gwɛ̌:	ŋ ¹ ɡ w ɛː ¹⁵	dog	chien	DOG
+1595	Nanga	nɛ̀rⁿî	n ɛ ¹ r̃ ∼ i ⁵¹	dog	chien	DOG
+1596	Penange	ŋkɛ̀	ŋ k ɛ ¹	dog	chien	DOG
+1597	Perge_Tegu	ìšú	i ¹ ʃ u ⁵	dog	chien	DOG
+1598	Songhai_Kiini	hánsì	h a ⁵ n s i ¹	dog	chien	DOG
+1599	Songhai_Senni	hánsó	h a ⁵ n s o ⁵	dog	chien	DOG
+1600	Tebul_Ure	ìnjɛ̌:	i ¹ n dʒ ɛː ¹⁵	dog	chien	DOG
+1601	Tiranige_Diga	í:njɛ́	iː ⁵ n dʒ ɛ ⁵	dog	chien	DOG
+1602	Togo_Kan	ìsí	i ¹ s i ⁵	dog	chien	DOG
+1603	Tommo_So	ìsé	i ¹ s e ⁵	dog	chien	DOG
+1604	Toro_Tegu	nènú	n e ¹ n u ⁵	dog	chien	DOG
+1605	Yanda_Dom	ìnjɛ̀	i ¹ n dʒ ɛ ¹	dog	chien	DOG
+1606	Yorno_So	ìjú	i ¹ dʒ u ⁵	dog	chien	DOG
+#
+1611	Bambara	fàlí	f a ¹ l i ⁵	donkey	âne	DONKEY
+1612	Bangime	kóróŋɡò	k o ⁵ r o ⁵ ŋ ɡ o ¹	donkey	âne	DONKEY
+1613	Bankan_Tey	dúrù-m	d u ⁵ r u ¹ + m	donkey	âne	DONKEY
+1614	Ben_Tey	súrú bɔ̀ŋgɔ̂-m	s u ⁵ r u ⁵ _ b ɔ ¹ ŋ ɡ ɔ ⁵¹ + m	donkey	âne	DONKEY
+1615	Bunoge	kólómù	k o ⁵ l o ⁵ m u ¹	donkey	âne	DONKEY
+1617	Fulfulde	mbabba	m b a b b a	donkey	âne	DONKEY
+1619	Jamsay	jàndúrú	dʒ a ¹ n d u ⁵ r u ⁵	donkey	âne	DONKEY
+1620	Jenaama	ʃēmp ùwò	ʃ e ³ m p _ u ¹ w o ¹	donkey	âne	DONKEY
+1621	Mombo	kɔ́nyɔ̀	k ɔ ⁵ n j ɔ ¹	donkey	âne	DONKEY
+1622	Najamba	párŋgá	p a ⁵ r ŋ ɡ a ⁵	donkey	âne	DONKEY
+1623	Nanga	súmáŋà	s u ⁵ m a ⁵ ŋ a ¹	donkey	âne	DONKEY
+1624	Penange	kòlò kòlò	k o ¹ l o ¹ _ k o ¹ l o ¹	donkey	âne	DONKEY
+1625	Perge_Tegu	jàmdúrú	dʒ a ¹ m d u ⁵ r u ⁵	donkey	âne	DONKEY
+1626	Songhai_Kiini	fárká	f a ⁵ r k a ⁵	donkey	âne	DONKEY
+1627	Songhai_Senni	fàrkò	f a ¹ r k o ¹	donkey	âne	DONKEY
+1629	Tebul_Ure	zàmdílè	z a ¹ m d i ⁵ l e ¹	donkey	âne	DONKEY
+1630	Tiranige_Diga	kɔ́lɔ́ŋɔ̀	k ɔ ⁵ l ɔ ⁵ ŋ ɔ ¹	donkey	âne	DONKEY
+1631	Togo_Kan	jɔ̀ⁿtúrú	dʒ ɔ ¹ ∼ t u ⁵ r u ⁵	donkey	âne	DONKEY
+1632	Tommo_So	jàndúlú	dʒ a ¹ n d u ⁵ l u ⁵	donkey	âne	DONKEY
+1633	Toro_Tegu	zàndúrú	z a ¹ n d u ⁵ r u ⁵	donkey	âne	DONKEY
+1634	Yanda_Dom	zàmdúrú	z a ¹ m d u ⁵ r u ⁵	donkey	âne	DONKEY
+1635	Yorno_So	jàmdúl	dʒ a ¹ m d u ⁵ l	donkey	âne	DONKEY
+#
+1640	Bangime	mìrⁿà	m i ¹ r̃ ∼ a ¹	door (physical object)	battant de porte	DOOR
+1641	Bankan_Tey	ta᷈:ⁿ	t aː ¹⁵¹ ∼	door shutter (wooden plank)	battant (de porte)	DOOR
+1642	Ben_Tey	ta᷈:ⁿ	t aː ¹⁵¹ ∼	door shutter (wooden plank)	battant (de porte)	DOOR
+1643	Bunoge	tá	t a ⁵	door shutter (wooden plank)	battant (de porte)	DOOR
+1645	Fulfulde	baafal	b a a f a l	door (physical object)	battant de porte	DOOR
+1647	Jamsay	cɛ́wɛ́	tʃ ɛ ⁵ w ɛ ⁵	door shutter (wooden plank)	battant (de porte)	DOOR
+1648	Jenaama	kíbāwⁿ	k i ⁵ b a ³ w̃ ∼	door (physical object)	battant de porte	DOOR
+1649	Mombo	bô:ⁿ	b õː ∼	door shutter (wooden plank)	battant (de porte)	DOOR
+1650	Najamba	níŋgú:	n i ⁵ ŋ ɡ uː ⁵	door shutter (wooden plank)	battant (de porte)	DOOR
+1651	Nanga	kìyⁿâ	k i ¹ j ∼ a ⁵¹	door shutter (wooden plank)	battant (de porte)	DOOR
+1652	Penange	bòwⁿ	b o ¹ w̃ ∼	door shutter (wooden plank)	battant (de porte)	DOOR
+1653	Perge_Tegu	cíŋgɛ̀	tʃ i ⁵ ŋ ɡ ɛ ¹	door shutter (wooden plank)	battant (de porte)	DOOR
+1654	Songhai_Kiini	gàmpù	ɡ a ¹ m p u ¹	door shutter (wooden plank)	battant (de porte)	DOOR
+1655	Songhai_Senni	hó:míyò	h oː ⁵ m i ⁵ j o ¹	doorway, entrance (of house)	porte, entrée (d’une maison)	DOOR
+1656	Tebul_Ure	káŋgá	k a ⁵ ŋ ɡ a ⁵	door shutter (wooden plank)	battant (de porte)	DOOR
+1657	Tiranige_Diga	bówⁿ	b o ⁵ w̃ ∼	door shutter (wooden plank)	battant (de porte)	DOOR
+1658	Togo_Kan	kɛ́wɛ́	k ɛ ⁵ w ɛ ⁵	door shutter (wooden plank)	battant (de porte)	DOOR
+1659	Tommo_So	táá	t aː ⁵	door shutter (wooden plank)	battant (de porte)	DOOR
+1662	Yorno_So	tǎ:ⁿ	t ãː ¹⁵ ∼	door shutter (wooden plank)	battant (de porte)	DOOR
+1660	Toro_Tegu	gá:mú	ɡ aː ⁵ m u ⁵	door shutter (wooden plank)	battant (de porte)	DOOR
+1661	Yanda_Dom	sáŋ	s a ⁵ ŋ	door shutter (wooden plank)	battant (de porte)	DOOR
+#
+1693	Bambara	míⁿ	m ĩ ⁵ ∼	drink	boire	DRINK
+1694	Bangime	ŋìyⁿɛ̀-rɛ̀	ŋ i ¹ j ∼ ɛ ¹ + r ɛ ¹	drink; (baby) suckle	boire; (enfant) téter	DRINK
+1695	Bankan_Tey	nɔ́	n ɔ ⁵	drink	boire	DRINK
+1696	Ben_Tey	nɔ̌	n ɔ ¹⁵	drink (sth)	boire (qch)	DRINK
+1697	Bunoge	nɛ̂:	n ɛː ⁵¹	drink (sth)	boire (qch)	DRINK
+1698	Fulfulde	yaru-de	j a r u + d e	drink	boire	DRINK
+1699	Jamsay	nɔ̌:	n ɔː ¹⁵	drink	boire	DRINK
+1700	Jenaama	āmɛ̀wⁿ	a ³ m ɛ ¹ w̃ ∼	drink	boire	DRINK
+1701	Mombo	nyɛ́:	n j ɛː ⁵	drink (sth)	boire (qch)	DRINK
+1702	Najamba	nɛ́	n ɛ ⁵	drink	boire	DRINK
+1703	Nanga	nɔ̌:	n ɔː ¹⁵	drink (sth)	boire (qch)	DRINK
+1704	Songhai_Kiini	hǎŋ	h a ¹⁵ ŋ	drink	boire	DRINK
+1705	Penange	nɛ́:	n ɛː ⁵	drink (sth)	boire (qch)	DRINK
+1706	Perge_Tegu	nɛ̌:	n ɛː ¹⁵	drink	boire	DRINK
+1707	Songhai_Senni	sémbú	s e ⁵ m b u ⁵	drink (milk, millet cream, etc.) diluted with water	boire (lait, crème de mil, etc.) dilué avec de l’eau	DRINK
+1709	Tebul_Ure	ɲɛ́	ɲ ɛ ⁵	drink (sth)	boire (qch)	DRINK
+1710	Tiranige_Diga	ɲɔ́:	ɲ ɔː	drink (sth)	boire (qch)	DRINK
+1711	Togo_Kan	nɔ̌:	n ɔː ¹⁵	drink	boire	DRINK
+1712	Tommo_So	nɔ́ɔ́	n ɔː ⁵	drink (sth)	boire (qch)	DRINK
+1713	Toro_Tegu	ní	n i ⁵	drink (sth)	boire (qch)	DRINK
+1714	Yanda_Dom	nìyⁿɛ́	n i ¹ j ∼ ɛ ⁵	drink (sth)	boire (qch)	DRINK
+1715	Yorno_So	nɔ̌:	n ɔː ¹⁵	drink (sth)	boire (qch)	DRINK
+#
+1767	Bangime	kúrí	k u ⁵ r i ⁵	dust	poussière	DUST
+1768	Bankan_Tey	kɔ̀ kɔ̀rɔ̌-y	k ɔ ¹ _ k ɔ ¹ r ɔ ¹⁵ + j	dust	poussière	DUST
+1770	Bunoge	kùlɛ́ŋ kùlɛ̀	k u ¹ l ɛ ⁵ ŋ _ k u ¹ l ɛ ¹	dust	poussière	DUST
+1772	Fulfulde	collal	tʃ o l l a l	dust	poussière	DUST
+1774	Jamsay	kɔ́ŋɔ̀	k ɔ ⁵ ŋ ɔ ¹	dust	poussière	DUST
+1775	Jenaama	cɔ̄llɔ̀	tʃ ɔ ³ l l ɔ ¹	dust	poussière	DUST
+1776	Mombo	kúndálè	k u ⁵ n d a ⁵ l e ¹	dust	poussière	DUST
+1777	Najamba	kùlɛ̀ kúlɛ̀-ŋgò	k u ¹ l ɛ ¹ _ k u ⁵ l ɛ ¹ + ŋ ɡ o ¹	dust	poussière	DUST
+1778	Nanga	kɔ́ŋgɔ̀	k ɔ ⁵ ŋ ɡ ɔ ¹	dust	poussière	DUST
+1779	Penange	kùndàlè	k u ¹ n d a ¹ l e ¹	dust	poussière	DUST
+1780	Perge_Tegu	kɔ́ŋgɔ̀	k ɔ ⁵ ŋ ɡ ɔ ¹	dust	poussière	DUST
+1781	Songhai_Senni	kùsúwò	k u ¹ s u ⁵ w o ¹	dust	poussière	DUST
+1782	Songhai_Kiini	kúsôw	k u ⁵ s o ⁵¹ w	dust	poussière	DUST
+1784	Tebul_Ure	kɔ́ŋgú	k ɔ ⁵ ŋ ɡ u ⁵	dust	poussière	DUST
+1785	Tiranige_Diga	kòŋgò	k o ¹ ŋ ɡ o ¹	dust	poussière	DUST
+1786	Togo_Kan	pùrùgíⁿ	p u ¹ r u ¹ ɡ ĩ ⁵ ∼	dust	poussière	DUST
+1787	Tommo_So	úg gúnnɔ́	u ⁵ ɡ _ ɡ u ⁵ n n ɔ ⁵	dust	poussière	DUST
+1788	Toro_Tegu	kúsò	k u ⁵ s o ¹	dust	poussière	DUST
+1790	Yorno_So	kɔ́ŋɔ̀	k ɔ ⁵ ŋ ɔ ¹	dust	poussière	DUST
+1789	Yanda_Dom	úrⁿá	u ⁵ r̃ ∼ a ⁵	dust	poussière	DUST
+1769	Ben_Tey	kù kɔ̀rɔ̌-y	k u ¹ _ k ɔ ¹ r ɔ ¹⁵ + j	dust	poussière	DUST
+#
+1794	Bambara	túló	t u ⁵ l o ⁵	ear	oreille	EAR
+1795	Bangime	tàŋà	t a ¹ ŋ a ¹	ear	oreille	EAR
+1796	Bankan_Tey	sûn	s u ⁵¹ n	ear	oreille	EAR
+1797	Ben_Tey	sú:rⁿù	s uː ⁵ r̃ ∼ u ¹	ear	oreille	EAR
+1798	Bunoge	sùgùlè	s u ¹ ɡ u ¹ l e ¹	ear	oreille	EAR
+1799	Fulfulde	nowru	n o w r u	ear	oreille	EAR
+1801	Jamsay	sûn	s u ⁵¹ n	ear	oreille	EAR
+1802	Jenaama	túwɔ́ lɛ̄wⁿ	t u ⁵ w ɔ ⁵ _ l ɛ ³ w̃ ∼	ear	oreille	EAR
+1803	Mombo	súgúlí	s u ⁵ ɡ u ⁵ l i ⁵	ear	oreille	EAR
+1804	Najamba	súnù:	s u ⁵ n uː ¹	ear	oreille	EAR
+1805	Nanga	súŋúrⁿì	s u ⁵ ŋ u ⁵ r̃ ∼ i ¹	ear	oreille	EAR
+1806	Penange	súgúlyè	s u ⁵ ɡ u ⁵ l j e ¹	ear	oreille	EAR
+1807	Perge_Tegu	súŋúrⁿù	s u ⁵ ŋ u ⁵ r̃ ∼ u ¹	ear	oreille	EAR
+1808	Songhai_Senni	hàɲê	h a ¹ ɲ e ⁵¹	ear	oreille	EAR
+1809	Songhai_Kiini	hàyⁿɛ̂	h a ¹ j ∼ ɛ ¹⁵	ear	oreille	EAR
+1811	Tebul_Ure	súrⁿó	s u ⁵ r̃ ∼ o ⁵	ear	oreille	EAR
+1812	Tiranige_Diga	sùŋùnù	s u ¹ ŋ u ¹ n u ¹	ear	oreille	EAR
+1813	Togo_Kan	súgúrú	s u ⁵ ɡ u ⁵ r u ⁵	ear	oreille	EAR
+1814	Tommo_So	súgúlú	s u ⁵ ɡ u ⁵ l u ⁵	ear	oreille	EAR
+1815	Toro_Tegu	súgúrú	s u ⁵ ɡ u ⁵ r u ⁵	ear	oreille	EAR
+1816	Yanda_Dom	sún	s u ⁵ n	ear	oreille	EAR
+1817	Yorno_So	súgùrù	s u ⁵ ɡ u ¹ r u ¹	ear	oreille	EAR
+#
+1822	Bambara	dúⁿ	d ũ ⁵ ∼	eat	manger	EAT
+1823	Bangime	dīyà	d i ³ j a ¹	eat	manger	EAT
+1824	Bankan_Tey	ɲɛ́	ɲ ɛ ⁵	eat	manger	EAT
+1825	Ben_Tey	ɲɛ́	ɲ ɛ ⁵	eat (meal)	manger (repas)	EAT
+1826	Bunoge	jɛ̂:	dʒ ɛː ⁵¹	eat (meal)	manger (repas)	EAT
+1828	Fulfulde	ɲaamu-de	ɲ a a m u + d e	eat	manger	EAT
+1829	Jamsay	ɲɛ́:	ɲ ɛː ⁵	eat	manger	EAT
+1831	Mombo	ɲɛ́:	ɲ ɛː ⁵	eat	manger	EAT
+1832	Najamba	kwɛ́	k w ɛ ⁵	eat (meal)	manger (repas)	EAT
+1833	Nanga	kɔ́:	k ɔː	eat (meal)	manger (repas)	EAT
+1834	Penange	ɲɛ́:	ɲ ɛː ⁵	eat	manger	EAT
+1835	Perge_Tegu	ɲɛ́:	ɲ ɛː ⁵	eat (meal)	manger (repas)	EAT
+1836	Songhai_Kiini	wⁿǎ:	w̃ ∼ aː ¹⁵	eat	manger	EAT
+1840	Tiranige_Diga	ɲɔ́:	ɲ ɔː	eat (meal)	manger (repas)	EAT
+1841	Togo_Kan	ɲí:	ɲ iː ⁵	eat (meal)	manger (repas)	EAT
+1842	Tommo_So	ńyɛ́	n ⁵ j ɛ ⁵	eat (meal)	manger (repas)	EAT
+1843	Toro_Tegu	lí	l i ⁵	eat (meal)	manger (repas)	EAT
+1844	Yanda_Dom	ʔə́ɲɛ́	ʔ ə ⁵ ɲ ɛ ⁵	eat (meal)	manger (repas)	EAT
+1845	Yorno_So	ká:	k aː ⁵	eat (meal)	manger (repas)	EAT
+1839	Tebul_Ure	ɲɛ́	ɲ ɛ ⁵	eat (meal)	manger (repas)	EAT
+1830	Jenaama	dīgā	d i ³ ɡ a ³	eat (meal)	manger (repas)	EAT
+1837	Songhai_Senni	ŋà:	ŋ aː ¹	eat; consume, spend (money)	manger	EAT
+#
+1851	Bambara	fàⁿ	f ã ¹ ∼	egg	oeuf	EGG
+1852	Bangime	kúúⁿ	k ũː ⁵ ∼	egg	œuf	EGG
+1853	Bankan_Tey	tàrî:	t a ¹ r iː ⁵¹	egg	œuf	EGG
+1854	Ben_Tey	tàrî:	t a ¹ r iː ⁵¹	egg	œuf	EGG
+1855	Bunoge	pólé-ŋgè	p o ⁵ l e ⁵ + ŋ ɡ e ¹	egg	œuf	EGG
+1857	Fulfulde	woofoon-de	w o o f o o n + d e	egg	œuf	EGG
+1858	Jamsay	tárú	t a ⁵ r u ⁵	egg	œuf	EGG
+1859	Jenaama	bíyɛ̄wⁿ	b i ⁵ j ɛ ³ w̃ ∼	egg	œuf	EGG
+1860	Mombo	pólè	p o ⁵ l e ¹	egg	œuf	EGG
+1861	Najamba	pǒl-ŋgó	p o ¹⁵ l + ŋ ɡ o ⁵	egg	œuf	EGG
+1862	Nanga	tà:rî	t aː ¹ r i ⁵¹	egg	œuf	EGG
+1863	Penange	pòlè	p o ¹ l e ¹	egg	œuf	EGG
+1864	Perge_Tegu	tárú	t a ⁵ r u ⁵	egg	œuf	EGG
+1865	Songhai_Kiini	gùŋgùrí	ɡ u ¹ ŋ ɡ u ¹ r i ⁵	egg	œuf	EGG
+1866	Songhai_Senni	gùŋgùrò	ɡ u ¹ ŋ ɡ u ¹ r o ¹	egg	oeuf	EGG
+1868	Tebul_Ure	tálɛ́	t a ⁵ l ɛ ⁵	egg	œuf	EGG
+1869	Tiranige_Diga	pól-ŋgé	p o ⁵ l + ŋ ɡ e ⁵	egg	œuf	EGG
+1870	Togo_Kan	tárú	t a ⁵ r u ⁵	egg	œuf	EGG
+1871	Tommo_So	tálú	t a ⁵ l u ⁵	egg	œuf	EGG
+1872	Toro_Tegu	tàrú	t a ¹ r u ⁵	egg	œuf	EGG
+1873	Yanda_Dom	tòl	t o ¹ l	egg	œuf	EGG
+1874	Yorno_So	tâl	t a ⁵¹ l	egg	œuf	EGG
+#
+1881	Bangime	sáɡì	s a ⁵ ɡ i ¹	eight	huit	EIGHT
+1882	Bankan_Tey	gá:rà-y	ɡ aː ⁵ r a ¹ + j	eight	huit	EIGHT
+1883	Ben_Tey	gá:rà-y	ɡ aː ⁵ r a ¹ + j	eight	huit	EIGHT
+1884	Bunoge	sé:léwⁿ	s eː ⁵ l e ⁵ w̃ ∼	eight	huit	EIGHT
+1886	Fulfulde	jetti	dʒ e t t i	eight	huit	EIGHT
+1887	Jamsay	gá:rà	ɡ aː ⁵ r a ¹	eight	huit	EIGHT
+1888	Jenaama	sɛ̄kī	s ɛ ³ k i ³	eight	huit	EIGHT
+1889	Mombo	sé:lè	s eː ⁵ l e ¹	eight	huit	EIGHT
+1890	Najamba	sá:gì:	s aː ⁵ ɡ iː ¹	eight	huit	EIGHT
+1891	Nanga	gá:rɛ̀	ɡ aː ⁵ r ɛ ¹	eight	huit	EIGHT
+1892	Penange	sè:lè	s eː ¹ l e ¹	eight	huit	EIGHT
+1893	Perge_Tegu	gá:rà	ɡ aː ⁵ r a ¹	eight	huit	EIGHT
+1894	Songhai_Kiini	ʔíyákù	ʔ i ⁵ j a ⁵ k u ¹	eight	huit	EIGHT
+1895	Songhai_Senni	yá:hâ	j aː ⁵ h a ⁵¹	eight	huit -ex: bór .yá:hâ eight people	EIGHT
+1897	Tebul_Ure	gà gárà	ɡ a ¹ _ ɡ a ⁵ r a ¹	eight	huit	EIGHT
+1898	Tiranige_Diga	sé:lé	s eː ⁵ l e ⁵	eight	huit	EIGHT
+1899	Togo_Kan	sìlâ:	s i ¹ l aː ⁵¹	eight	huit	EIGHT
+1900	Tommo_So	gá gìrà	ɡ a ⁵ _ ɡ i ¹ r a ¹	eight	huit	EIGHT
+1901	Toro_Tegu	gá:rà	ɡ aː ⁵ r a ¹	eight	huit	EIGHT
+1902	Yanda_Dom	sá:gè	s aː ⁵ ɡ e ¹	eight	huit	EIGHT
+1903	Yorno_So	gá gàrà	ɡ a ⁵ _ ɡ a ¹ r a ¹	eight	huit	EIGHT
+1880	Bambara	séégíⁿ	s eː ⁵ ɡ ĩ ⁵ ∼	eight	huit	EIGHT
+#
+1910	Bankan_Tey	tó tôw	t o ⁵ _ t o ⁵¹ w	elbow	coude	ELBOW
+1911	Ben_Tey	tú tɔ̂w	t u ⁵ _ t ɔ ⁵¹ w	elbow	coude	ELBOW
+1913	Fulfulde	soɓɓu-ndu	s o ɓ ɓ u + n d u	elbow	coude	ELBOW
+1915	Jamsay	tɔ̌ŋ	t ɔ ¹⁵ ŋ	elbow	coude	ELBOW
+1916	Jenaama	sūgū	s u ³ ɡ u ³	elbow	coude	ELBOW
+1917	Mombo	kóló kólò	k o ⁵ l o ⁵ _ k o ⁵ l o ¹	elbow	coude	ELBOW
+1918	Najamba	kínjì:	k i ⁵ n dʒ iː ¹	elbow	coude	ELBOW
+1919	Nanga	tɔ̀ŋɔ̀ tɔ́ŋɔ̂	t ɔ ¹ ŋ ɔ ¹ _ t ɔ ⁵ ŋ ɔ ⁵¹	elbow	coude	ELBOW
+1920	Penange	kúlù	k u ⁵ l u ¹	elbow	coude	ELBOW
+1921	Perge_Tegu	tɔ́ tɔ́gú	t ɔ ⁵ _ t ɔ ⁵ ɡ u ⁵	elbow	coude	ELBOW
+1922	Songhai_Kiini	kàmbɛ̀ tótóŋgó	k a ¹ m b ɛ ¹ _ t o ⁵ t o ⁵ ŋ ɡ o ⁵	elbow	coude	ELBOW
+1923	Songhai_Senni	kàmbù tò:tíyà:	k a ¹ m b u ¹ _ t oː ¹ t i ⁵ j aː ¹	elbow	coude	ELBOW
+1925	Tebul_Ure	tɔ́ tɔ́gú	t ɔ ⁵ _ t ɔ ⁵ ɡ u ⁵	elbow	coude	ELBOW
+1926	Tiranige_Diga	kù ɲùŋɔ́	k u ¹ _ ɲ u ¹ ŋ ɔ ⁵	elbow	coude	ELBOW
+1927	Togo_Kan	tɔ̀ tɔ́gú	t ɔ ¹ _ t ɔ ⁵ ɡ u ⁵	elbow	coude	ELBOW
+1928	Tommo_So	tɔ́n dɔ́m	t ɔ ⁵ n _ d ɔ ⁵ m	elbow	coude	ELBOW
+1929	Toro_Tegu	tùŋó	t u ¹ ŋ o ⁵	elbow	coude	ELBOW
+1930	Yanda_Dom	tɔ́ndɔ́	t ɔ ⁵ n d ɔ ⁵	elbow	coude	ELBOW
+1932	Yorno_So	tú tɔ́ŋ	t u ⁵ _ t ɔ ⁵ ŋ	elbow	coude	ELBOW
+1909	Bangime	kùmbɛ̀	k u ¹ m b ɛ ¹	elbow	coude	ELBOW
+#
+1959	Bambara	láⁿ-kólóⁿ	l ã ⁵ ∼ + k o ⁵ l õ ⁵ ∼	empty	vide, nu	EMPTY
+1960	Bangime	pɔ́mbɛ̄	p ɔ ⁵ m b ɛ ³	empty	vide	EMPTY
+1961	Bankan_Tey	sùzíⁿ	s u ¹ z ĩ ⁵ ∼	empty (container) (adj)	(récipient) vide	EMPTY
+1962	Ben_Tey	kòrǒ-y	k o ¹ r o ¹⁵ + j	empty (container) (adj)	(récipient) vide	EMPTY
+1963	Bunoge	sɛ̀lì	s ɛ ¹ l i ¹	empty (container) (adj)	(récipient) vide	EMPTY
+1965	Fulfulde	ɓolu	ɓ o l u	empty	vide	EMPTY
+1967	Jamsay	wóm	w o ⁵ m	empty	vide	EMPTY
+1968	Jenaama	wōⁿ wōⁿ	w o ∼ ³ _ w o ∼ ³	empty	vide	EMPTY
+1969	Mombo	sálá	s a ⁵ l a ⁵	empty	vide	EMPTY
+1970	Najamba	ìnjɛ́:	i ¹ n dʒ ɛː ⁵	empty (container) (adj)	(récipient) vide	EMPTY
+1971	Nanga	kóró	k o ⁵ r o ⁵	empty (container) (adj)	(récipient) vide	EMPTY
+1972	Penange	dóndó	d o ⁵ n d o ⁵	empty (container) (adj)	(récipient) vide	EMPTY
+1973	Perge_Tegu	pé:ré	p eː ⁵ r e ⁵	empty (container) (adj)	(récipient) vide	EMPTY
+1974	Songhai_Kiini	kɔ̌:n	k ɔː ¹⁵ n	mere, bare, empty	nu, vide	EMPTY
+1975	Songhai_Senni	kárás	k a ⁵ r a ⁵ s	empty	vide	EMPTY
+1977	Tebul_Ure	ǹdɛ́	n ¹ d ɛ ⁵	empty (container) (adj)	(récipient) vide	EMPTY
+1978	Tiranige_Diga	íjí-gɔ́	i ⁵ dʒ i ⁵ + ɡ ɔ ⁵	empty (container) (adj)	(récipient) vide	EMPTY
+1979	Togo_Kan	kǒ:	k oː ¹⁵	empty (container) (adj)	(récipient) vide	EMPTY
+1980	Tommo_So	ísé	i ⁵ s e ⁵	empty (container) (adj)	(récipient) vide	EMPTY
+1981	Toro_Tegu	péré	p e ⁵ r e ⁵	empty (container) (adj)	(récipient) vide	EMPTY
+1982	Yanda_Dom	ìzɛ̀	i ¹ z ɛ ¹	empty (container) (adj)	(récipient) vide	EMPTY
+1983	Yorno_So	kó:ló	k oː ⁵ l o ⁵	empty (container) (adj)	(récipient) vide	EMPTY
+#
+2008	Bambara	ɲɛ́	ɲ ɛ ⁵	eye	oeil, vue, regard	EYE
+2009	Bangime	sībɛ̀	s i ³ b ɛ ¹	eye(s)	œil, yeux	EYE
+2010	Bankan_Tey	gìré	ɡ i ¹ r e ⁵	eye	œil	EYE
+2011	Ben_Tey	jìré	dʒ i ¹ r e ⁵	eye	œil	EYE
+2012	Bunoge	gíré sè	ɡ i ⁵ r e ⁵ _ s e ¹	eye	œil	EYE
+2014	Fulfulde	yite-re	j i t e + r e	eye(s)	œil, yeux	EYE
+2015	Jamsay	jìré	dʒ i ¹ r e ⁵	eye	œil	EYE
+2016	Jenaama	ɲɔ̄gɔ̄ lɛ̄wⁿ	ɲ ɔ ³ ɡ ɔ ³ _ l ɛ ³ w̃ ∼	eye(s)	œil, yeux	EYE
+2017	Mombo	gírè	ɡ i ⁵ r e ¹	eye	œil	EYE
+2018	Najamba	gìré	ɡ i ¹ r e ⁵	eye	œil	EYE
+2019	Nanga	gìré	ɡ i ¹ r e ⁵	eye	œil	EYE
+2020	Penange	gìrè	ɡ i ¹ r e ¹	eye	œil	EYE
+2021	Perge_Tegu	gìré	ɡ i ¹ r e ⁵	eye	œil	EYE
+2022	Songhai_Senni	mò:	m oː ¹	eye, pair of eyes	oeil, yeux (d’une	EYE
+2025	Tebul_Ure	gìré	ɡ i ¹ r e ⁵	eye	œil	EYE
+2026	Tiranige_Diga	jíró	dʒ i ⁵ r o ⁵	eye	œil	EYE
+2027	Togo_Kan	gìré	ɡ i ¹ r e ⁵	eye	œil	EYE
+2028	Tommo_So	gìré	ɡ i ¹ r e ⁵	eye	œil	EYE
+2029	Toro_Tegu	jìró	dʒ i ¹ r o ⁵	eye	œil	EYE
+2030	Yanda_Dom	gìdí yè	ɡ i ¹ d i ⁵ _ j e ¹	eye	œil	EYE
+2031	Yorno_So	gìrì ý	ɡ i ¹ r i ¹ _ j ⁵	eye	œil	EYE
+2023	Songhai_Kiini	mɔ̀:	m ɔː ¹	eye	œil	EYE
+#
+2157	Bambara	túlú	t u ⁵ l u ⁵	animal fat (in meat)	huile, graisse, corps gras	FAT (ORGANIC SUBSTANCE)
+2158	Bangime	ɲùwⁿɛ̀	ɲ u ¹ w̃ ∼ ɛ ¹	fat (n)	graisse	FAT (ORGANIC SUBSTANCE)
+2159	Bankan_Tey	sî:ⁿ	s ĩː ⁵¹ ∼	animal fat (in meat)	graisse d'animal (dans la viande)	FAT (ORGANIC SUBSTANCE)
+2160	Ben_Tey	sî:ⁿ	s ĩː ⁵¹ ∼	animal fat (in meat)	graisse d'animal (dans la viande)	FAT (ORGANIC SUBSTANCE)
+2161	Bunoge	sìwò	s i ¹ w o ¹	animal fat (in meat)	graisse d'animal (dans la viande)	FAT (ORGANIC SUBSTANCE)
+2163	Fulfulde	ɓelle-re	ɓ e l l e + r e	fat (n)	graisse	FAT (ORGANIC SUBSTANCE)
+2164	Jamsay	sê:	s eː ⁵¹	animal fat (in meat)	graisse d'animal (dans la viande)	FAT (ORGANIC SUBSTANCE)
+2165	Jenaama	tīyɛ̄	t i ³ j ɛ ³	fat (n)	graisse	FAT (ORGANIC SUBSTANCE)
+2166	Mombo	síwó	s i ⁵ w o ⁵	animal fat (in meat)	graisse d'animal (dans la viande)	FAT (ORGANIC SUBSTANCE)
+2167	Najamba	sî:-ŋgò	s iː ⁵¹ + ŋ ɡ o ¹	animal fat (in meat)	graisse d'animal (dans la viande)	FAT (ORGANIC SUBSTANCE)
+2168	Nanga	síyⁿɛ̂	s i ⁵ j ∼ ɛ ¹⁵	animal fat (in meat)	graisse d'animal (dans la viande)	FAT (ORGANIC SUBSTANCE)
+2169	Penange	nù:	n uː ¹	animal fat (in meat)	graisse d'animal (dans la viande)	FAT (ORGANIC SUBSTANCE)
+2170	Perge_Tegu	šíyè	ʃ i ⁵ j e ¹	animal fat (in meat)	graisse d'animal (dans la viande)	FAT (ORGANIC SUBSTANCE)
+2171	Songhai_Kiini	má:ní	m aː ⁵ n i ⁵	(animal) fat	graisse (d’animal)	FAT (ORGANIC SUBSTANCE)
+2172	Songhai_Senni	má:nó	m aː ⁵ n o ⁵	(meat) fat	graisse (de viande)	FAT (ORGANIC SUBSTANCE)
+2173	Tebul_Ure	sé:	s eː ⁵	animal fat (in meat)	graisse d'animal (dans la viande)	FAT (ORGANIC SUBSTANCE)
+2174	Tiranige_Diga	sìyò	s i ¹ j o ¹	animal fat (in meat)	graisse d'animal (dans la viande)	FAT (ORGANIC SUBSTANCE)
+2175	Togo_Kan	nɔ̀wⁿɔ̀ síwé	n ɔ ¹ w̃ ∼ ɔ ¹ _ s i ⁵ w e ⁵	animal fat (in meat)	graisse d'animal (dans la viande)	FAT (ORGANIC SUBSTANCE)
+2176	Tommo_So	nàmà síyé	n a ¹ m a ¹ _ s i ⁵ j e ⁵	animal fat (in meat)	graisse d'animal (dans la viande)	FAT (ORGANIC SUBSTANCE)
+2177	Toro_Tegu	síwó	s i ⁵ w o ⁵	animal fat (in meat)	graisse d'animal (dans la viande)	FAT (ORGANIC SUBSTANCE)
+2178	Yanda_Dom	sɔ́ŋɔ̀	s ɔ ⁵ ŋ ɔ ¹	animal fat (in meat)	graisse d'animal (dans la viande)	FAT (ORGANIC SUBSTANCE)
+2179	Yorno_So	sî:	s iː ⁵¹	animal fat (in meat)	graisse d'animal (dans la viande)	FAT (ORGANIC SUBSTANCE)
+#
+2304	Bangime	bírɛ́	b i ⁵ r ɛ ⁵	fire	feu	FIRE
+2305	Bankan_Tey	góô	ɡ oː ⁵¹	fire	feu	FIRE
+2306	Ben_Tey	go᷈:	ɡ oː ¹⁵¹ ∼	fire	feu	FIRE
+2307	Bunoge	génì	ɡ e ⁵ n i ¹	fire	feu	FIRE
+2309	Fulfulde	yiite	j i i t e	fire	feu	FIRE
+2310	Jamsay	núwⁿó	n u ⁵ w̃ ∼ o ⁵	fire	feu	FIRE
+2311	Jenaama	tɔ̄	t ɔ ³	fire	feu	FIRE
+2312	Mombo	génì	ɡ e ⁵ n i ¹	fire	feu	FIRE
+2313	Najamba	gólò	ɡ o ⁵ l o ¹	fire	feu	FIRE
+2314	Nanga	góô	ɡ o ⁵ o ⁵¹	fire	feu	FIRE
+2315	Penange	gènì	ɡ e ¹ n i ¹	fire	feu	FIRE
+2316	Perge_Tegu	núwⁿó	n u ⁵ w̃ ∼ o ⁵	fire	feu	FIRE
+2317	Songhai_Senni	nù:nò	n uː ¹ n o ¹	fire	feu	FIRE
+2318	Songhai_Kiini	nùnà	n u ¹ n a ¹	fire	feu	FIRE
+2320	Tebul_Ure	gǒ:	ɡ oː ¹⁵	fire	feu	FIRE
+2321	Tiranige_Diga	jíyé	dʒ i ⁵ j e ⁵	fire	feu	FIRE
+2322	Togo_Kan	ɲɛ́:	ɲ ɛː ⁵	fire	feu	FIRE
+2323	Tommo_So	ɲǎm	ɲ a ¹⁵ m	fire	feu	FIRE
+2324	Toro_Tegu	núwⁿɔ́	n u ⁵ w̃ ∼ ɔ ⁵	fire	feu	FIRE
+2325	Yanda_Dom	gòlò	ɡ o ¹ l o ¹	fire	feu	FIRE
+2326	Yorno_So	yǎm	j a ¹⁵ m	fire	feu	FIRE
+#
+2358	Bangime	ɥìyɛ̄ŋ̄ kò ŋáwⁿ	ɥ i ¹ j ɛ ³ ŋ ³ _ k o ¹ _ ŋ a ⁵ w̃ ∼	fish	poisson	FISH
+2359	Bankan_Tey	ísì-m	i ⁵ s i ¹ + m	fish (any)	poisson	FISH
+2360	Ben_Tey	ísì-m	i ⁵ s i ¹ + m	fish (any)	poisson	FISH
+2361	Bunoge	kɔ̀gùlɛ̀	k ɔ ¹ ɡ u ¹ l ɛ ¹	fish (any)	poisson	FISH
+2363	Fulfulde	liingu	l i i n ɡ u	fish	poisson	FISH
+2365	Jamsay	í:jú	iː ⁵ dʒ u ⁵	fish (any)	poisson	FISH
+2366	Jenaama	yɔ̄gɔ̄	j ɔ ³ ɡ ɔ ³	fish	poisson	FISH
+2367	Mombo	kɔ́gúlɛ́	k ɔ ⁵ ɡ u ⁵ l ɛ ⁵	fish (any)	poisson	FISH
+2368	Najamba	íjì	i ⁵ dʒ i ¹	fish (any)	poisson	FISH
+2369	Nanga	ísî	i ⁵ s i ⁵¹	fish (any)	poisson	FISH
+2370	Penange	kɔ́gúlɛ́	k ɔ ⁵ ɡ u ⁵ l ɛ ⁵	fish (any)	poisson	FISH
+2371	Perge_Tegu	í:sú	iː ⁵ s u ⁵	fish (any)	poisson	FISH
+2372	Songhai_Kiini	dè:sì	d eː ¹ s i ¹	(any) fish	poisson	FISH
+2373	Songhai_Senni	ʔísà:	ʔ i ⁵ s aː ¹	fish	poisson	FISH
+2375	Tebul_Ure	ídè	i ⁵ d e ¹	fish (any)	poisson	FISH
+2376	Tiranige_Diga	ì:	iː ¹	fish (any)	poisson	FISH
+2377	Togo_Kan	kɔ́gɔ́rɔ́	k ɔ ⁵ ɡ ɔ ⁵ r ɔ ⁵	fish (any)	poisson	FISH
+2378	Toro_Tegu	ní nàwⁿà	n i ⁵ _ n a ¹ w̃ ∼ a ¹	fish (any)	poisson	FISH
+2379	Yanda_Dom	ízù	i ⁵ z u ¹	fish (any)	poisson	FISH
+2380	Yorno_So	íjì	i ⁵ dʒ i ¹	fish (any)	poisson	FISH
+#
+2385	Bambara	dúúrú	d uː ⁵ r u ⁵	five	cinq	FIVE
+2386	Bangime	núndī	n u ⁵ n d i ³	five	cinq	FIVE
+2387	Bankan_Tey	nùmmǔyⁿ	n u ¹ m m u ¹⁵ j ∼	five	cinq	FIVE
+2388	Ben_Tey	nùmǔyⁿ	n u ¹ m u ¹⁵ j ∼	five	cinq	FIVE
+2389	Bunoge	nɔ́:mɔ̀	n ɔː m ɔ ¹	five	cinq	FIVE
+2390	Fulfulde	joyi	dʒ o j i	five	cinq	FIVE
+2392	Jamsay	nǔ:yⁿ	n uː ¹⁵ j ∼	five	cinq	FIVE
+2393	Jenaama	kɔ̀ɔ̀gɔ̀wⁿ	k ɔː ¹ ɡ ɔ ¹ w̃ ∼	five	cinq	FIVE
+2394	Mombo	nú:mò	n uː ⁵ m o ¹	five	cinq	FIVE
+2395	Najamba	nùmî:	n u ¹ m iː ⁵¹	five	cinq	FIVE
+2396	Nanga	nìmǐ:	n i ¹ m iː ¹⁵	five	cinq	FIVE
+2397	Penange	nɔ̀:m	n ɔː ¹ m	five	cinq	FIVE
+2398	Perge_Tegu	nùmǐ:	n u ¹ m iː ¹⁵	five	cinq	FIVE
+2399	Songhai_Senni	gú:	ɡ uː ⁵	five	cinq	FIVE
+2400	Songhai_Kiini	gú:	ɡ uː ⁵	five	cinq	FIVE
+2401	Tebul_Ure	nǔm	n u ¹⁵ m	five	cinq	FIVE
+2402	Tiranige_Diga	nú:	n uː ⁵	five	cinq	FIVE
+2403	Togo_Kan	núnɛ́:	n u ⁵ n ɛː ⁵	five	cinq	FIVE
+2404	Tommo_So	ǹnɔ́	n ¹ n ɔ ⁵	five	cinq	FIVE
+2405	Toro_Tegu	nǔ:y	n uː ¹⁵ j	five	cinq	FIVE
+2406	Yanda_Dom	nûm	n u ⁵¹ m	five	cinq	FIVE
+2407	Yorno_So	nùmɔ́rⁿɔ́	n u ¹ m ɔ ⁵ r̃ ∼ ɔ ⁵	five	cinq	FIVE
+#
+2412	Bangime	twīìⁿ	t w ĩː ³¹ ∼	flower	fleur	FLOWER
+2413	Bankan_Tey	pùrⁿó	p u ¹ r̃ ∼ o ⁵	flower (of tree or herb)	fleur (d'arbre ou de plante herbacée)	FLOWER
+2414	Ben_Tey	pùrⁿǔy	p u ¹ r̃ ∼ u ¹⁵ j	flower (of tree or herb)	fleur (d'arbre ou de plante herbacée)	FLOWER
+2415	Bunoge	púlò	p u ⁵ l o ¹	flower (of tree or herb)	fleur (d'arbre ou de plante herbacée)	FLOWER
+2417	Fulfulde	piindi	p i i n d i	flower	fleur	FLOWER
+2418	Jamsay	pùrⁿó	p u ¹ r̃ ∼ o ⁵	flower (of tree or herb)	fleur (d'arbre ou de plante herbacée)	FLOWER
+2419	Jenaama	pùgè	p u ¹ ɡ e ¹	flower	fleur	FLOWER
+2420	Mombo	púlú	p u ⁵ l u ⁵	flower (of tree or herb)	fleur (d'arbre ou de plante herbacée)	FLOWER
+2421	Najamba	pùnɛ̌-ngó	p u ¹ n ɛ ¹⁵ + n ɡ o ⁵	flower (of tree or herb)	fleur (d'arbre ou de plante herbacée)	FLOWER
+2422	Nanga	pùrⁿó	p u ¹ r̃ ∼ o ⁵	flower	fleur	FLOWER
+2423	Penange	púló	p u ⁵ l o ⁵	flower (of tree or herb)	fleur (d'arbre ou de plante herbacée)	FLOWER
+2424	Perge_Tegu	pùrⁿó	p u ¹ r̃ ∼ o ⁵	flower	fleur	FLOWER
+2425	Songhai_Senni	bùgà	b u ¹ ɡ a ¹	blossom, bloom	fleur	FLOWER
+2427	Tebul_Ure	pùrⁿó	p u ¹ r̃ ∼ o ⁵	flower	fleur	FLOWER
+2428	Tiranige_Diga	pùnì	p u ¹ n i ¹	flower (of tree or herb)	fleur (d'arbre ou de plante herbacée)	FLOWER
+2429	Togo_Kan	pìyé	p i ¹ j e ⁵	flower (of tree or herb)	fleur (d'arbre ou de plante herbacée)	FLOWER
+2430	Tommo_So	púyó	p u ⁵ j o ⁵	flower (of tree or herb)	fleur (d'arbre ou de plante herbacée)	FLOWER
+2431	Toro_Tegu	pùró	p u ¹ r o ⁵	flower (of tree or herb)	fleur (d'arbre ou de plante herbacée)	FLOWER
+2432	Yanda_Dom	pùn	p u ¹ n	flower (of tree or herb)	fleur (d'arbre ou de plante herbacée)	FLOWER
+2433	Songhai_Kiini	púyó	p u ⁵ j o ⁵	flower	fleur	FLOWER
+2434	Yorno_So	pǔy	p u ¹⁵ j	flower (of tree or herb)	fleur (d'arbre ou de plante herbacée)	FLOWER
+#
+2438	Bambara	bíléⁿ	b i ⁵ l ẽ ⁵ ∼	fly (n)	mouche	FLY (INSECT)
+2439	Bangime	yúrí	j u ⁵ r i ⁵	common fly (insect)	mouche	FLY (INSECT)
+2440	Bankan_Tey	jè jêⁿ-m	dʒ e ¹ _ dʒ e ⁵¹ ∼ + m	common fly (insect)	mouche	FLY (INSECT)
+2441	Ben_Tey	gì gɛ᷈:ⁿ-m	ɡ i ¹ _ ɡ ɛ̃ː ¹⁵¹ + m	common fly (insect)	mouche	FLY (INSECT)
+2442	Bunoge	ɲóŋó-nì	ɲ o ⁵ ŋ o ⁵ + n i ¹	common fly (insect)	mouche	FLY (INSECT)
+2444	Fulfulde	mbuubu	m b u u b u	fly (n)	mouche	FLY (INSECT)
+2446	Jamsay	ɲù: jɛ̂-m	ɲ uː ¹ _ dʒ ɛ ¹⁵ + m	common fly (insect)	mouche	FLY (INSECT)
+2447	Jenaama	sūⁿ	s ũ ∼ ³	fly (n)	mouche	FLY (INSECT)
+2448	Mombo	gɛ́:nɛ́	ɡ ɛː ⁵ n ɛ ⁵	common fly (insect)	mouche	FLY (INSECT)
+2449	Najamba	gɔ́ŋɛ́	ɡ ɔ ⁵ ŋ ɛ ⁵	common fly (insect)	mouche	FLY (INSECT)
+2450	Nanga	jí:yⁿɛ̀	dʒ iː ⁵ j ∼ ɛ ¹	common fly (insect)	mouche	FLY (INSECT)
+2451	Penange	gì:nà	ɡ iː ¹ n a ¹	common fly (insect)	mouche	FLY (INSECT)
+2452	Perge_Tegu	yò yǒŋ	j o ¹ _ j o ¹⁵ ŋ	common fly (insect)	mouche	FLY (INSECT)
+2454	Songhai_Senni	hámnó	h a ⁵ m n o ⁵	fly (insect), (any) flying insect	mouche, (tout) insecte volant	FLY (INSECT)
+2456	Tebul_Ure	gèné	ɡ e ¹ n e ⁵	common fly (insect)	mouche	FLY (INSECT)
+2457	Tiranige_Diga	jà:ní	dʒ aː ¹ n i ⁵	common fly (insect)	mouche	FLY (INSECT)
+2458	Togo_Kan	ɲù: dúgɔ́	ɲ uː ¹ _ d u ⁵ ɡ ɔ ⁵	common fly (insect)	mouche	FLY (INSECT)
+2460	Yanda_Dom	jěn	dʒ e ¹⁵ n	common fly (insect)	mouche	FLY (INSECT)
+2461	Yorno_So	ɲíŋgélé	ɲ i ⁵ ŋ ɡ e ⁵ l e ⁵	common fly (insect)	mouche	FLY (INSECT)
+2459	Toro_Tegu	yⁿɔ̀ŋgɛ̌yⁿ	j ∼ ɔ ¹ ŋ ɡ ɛ ¹⁵ j ∼	common fly (insect)	mouche	FLY (INSECT)
+2453	Songhai_Kiini	hámní	h a ⁵ m n i ⁵	common fly (insect)	mouche	FLY (INSECT)
+#
+2560	Bangime	bùyɛ̀	b u ¹ j ɛ ¹	foot, leg	pied, jambe	FOOT OR LEG
+2561	Bankan_Tey	ǹdɔ̀sɔ̂:	n ¹ d ɔ ¹ s ɔː ⁵¹	foot	pied	FOOT OR LEG
+2562	Ben_Tey	lɔ̀sɔ̂:	l ɔ ¹ s ɔː ⁵¹	foot	pied	FOOT OR LEG
+2565	Fulfulde	koyn-gal	k o j n + ɡ a l	foot, leg	pied, jambe	FOOT OR LEG
+2567	Jamsay	kɔ́:	k ɔː	foot	pied	FOOT OR LEG
+2568	Jenaama	tàbà	t a ¹ b a ¹	foot, leg	pied, jambe	FOOT OR LEG
+2569	Mombo	sí:	s iː ⁵	foot	pied	FOOT OR LEG
+2570	Najamba	nà:-gó	n aː ¹ + ɡ o ⁵	foot	pied	FOOT OR LEG
+2571	Nanga	lɔ̀sɔ̂	l ɔ ¹ s ɔ ⁵¹	foot	pied	FOOT OR LEG
+2572	Penange	sígé	s i ⁵ ɡ e ⁵	foot	pied	FOOT OR LEG
+2574	Songhai_Senni	cè:	tʃ eː ¹	foot, leg	pied, jambe - poss (inal):	FOOT OR LEG
+2575	Songhai_Kiini	kɛ̀:	k ɛː ¹	foot	pied	FOOT OR LEG
+2576	Tebul_Ure	lǎ:	l aː ¹⁵	foot	pied	FOOT OR LEG
+2577	Tiranige_Diga	tònjè	t o ¹ n dʒ e ¹	foot	pied	FOOT OR LEG
+2578	Togo_Kan	kúwɔ́	k u ⁵ w ɔ ⁵	foot	pied	FOOT OR LEG
+2580	Toro_Tegu	kúwɔ́	k u ⁵ w ɔ ⁵	foot	pied	FOOT OR LEG
+2581	Yanda_Dom	nà:	n aː ¹	foot	pied	FOOT OR LEG
+2582	Yorno_So	kúbɔ́	k u ⁵ b ɔ ⁵	foot	pied	FOOT OR LEG
+2579	Tommo_So	ánú	a ⁵ n u ⁵	foot	pied	FOOT OR LEG
+2563	Bunoge	sè	s e ¹	foot	pied	FOOT OR LEG
+2573	Perge_Tegu	kúwɔ́	k u ⁵ w ɔ ⁵	foot	pied	FOOT OR LEG
+#
+2587	Bambara	fɔ́ⁿkúⁿ	f ɔ̃ ⁵ ∼ k ũ ⁵ ∼	forehead	front	FOREHEAD
+2588	Bangime	tèɡò	t e ¹ ɡ o ¹	forehead	front	FOREHEAD
+2589	Bankan_Tey	dìmbê-y	d i ¹ m b e ⁵¹ + j	forehead	front	FOREHEAD
+2590	Ben_Tey	dìmbê:	d i ¹ m b eː ⁵¹	forehead	front	FOREHEAD
+2593	Fulfulde	tiinde	t i i n d e	forehead	front	FOREHEAD
+2595	Jamsay	dìmé	d i ¹ m e ⁵	forehead	front	FOREHEAD
+2596	Jenaama	tègèn cíⁿ	t e ¹ ɡ e ¹ n _ tʃ ĩ ⁵ ∼	forehead	front	FOREHEAD
+2597	Mombo	gíndó	ɡ i ⁵ n d o ⁵	forehead	front	FOREHEAD
+2598	Najamba	géndè-ŋgè	ɡ e ⁵ n d e ¹ + ŋ ɡ e ¹	forehead	front	FOREHEAD
+2599	Nanga	gímbè	ɡ i ⁵ m b e ¹	forehead	front	FOREHEAD
+2600	Penange	géndó	ɡ e ⁵ n d o ⁵	forehead	front	FOREHEAD
+2601	Perge_Tegu	dìmbé	d i ¹ m b e ⁵	forehead	front	FOREHEAD
+2602	Songhai_Senni	jìnè	dʒ i ¹ n e ¹	forehead	front	FOREHEAD
+2603	Songhai_Kiini	tí:ndè	t iː ⁵ n d e ¹	forehead	front	FOREHEAD
+2605	Tebul_Ure	dìmbé	d i ¹ m b e ⁵	forehead	front	FOREHEAD
+2606	Tiranige_Diga	pɛ́mbɔ́	p ɛ ⁵ m b ɔ ⁵	forehead	front	FOREHEAD
+2607	Togo_Kan	dìmé	d i ¹ m e ⁵	forehead	front	FOREHEAD
+2608	Tommo_So	dìmmú	d i ¹ m m u ⁵	forehead	front	FOREHEAD
+2609	Toro_Tegu	dìmó	d i ¹ m o ⁵	forehead	front	FOREHEAD
+2610	Yanda_Dom	dìmè	d i ¹ m e ¹	forehead	front	FOREHEAD
+2611	Yorno_So	dìmɛ́	d i ¹ m ɛ ⁵	forehead	front	FOREHEAD
+2591	Bunoge	géndè	ɡ e ⁵ n d e ¹	forehead	front	FOREHEAD
+#
+2691	Bambara	bádḛ́má	b a ⁵ d e ∼ ³ m a ⁵	friend	ami	FRIEND
+2692	Bangime	pààⁿ	p ãː ¹ ∼	friend	ami	FRIEND
+2694	Ben_Tey	tìyǎ-m	t i ¹ j a ¹⁵ + m	friend (casual)	ami	FRIEND
+2695	Bunoge	nólò	n o ⁵ l o ¹	friend (of same sex)	ami	FRIEND
+2697	Fulfulde	giɗo	ɡ i ɗ o	friend	ami	FRIEND
+2698	Jamsay	tɛ̌:ⁿ	t ɛ̃ː ¹⁵ ∼	friend (casual)	ami	FRIEND
+2699	Jenaama	kànà	k a ¹ n a ¹	friend	ami	FRIEND
+2700	Mombo	nóló	n o ⁵ l o ⁵	friend (casual)	ami	FRIEND
+2701	Najamba	nàlè-jû:	n a ¹ l e ¹ + dʒ uː ⁵¹	friend (casual)	ami	FRIEND
+2702	Nanga	tìyá	t i ¹ j a ⁵	friend (casual)	ami	FRIEND
+2703	Penange	nòlò	n o ¹ l o ¹	friend (of same sex)	ami	FRIEND
+2704	Songhai_Senni	bà:kò	b aː ¹ k o ¹	friend	ami	FRIEND
+2705	Songhai_Kiini	sǎŋkà	s a ¹⁵ ŋ k a ¹	friend, companion	ami, camarade	FRIEND
+2706	Tebul_Ure	àngé	a ¹ n ɡ e ⁵	friend (of same sex)	ami	FRIEND
+2708	Togo_Kan	ìⁿtá:ⁿ	ĩ ¹ ∼ t ãː ⁵ ∼	(man's) friend (male)	ami	FRIEND
+2709	Tommo_So	ḿbɔ́	m ⁵ b ɔ ⁵	friend (casual)	ami	FRIEND
+2710	Toro_Tegu	gǎw	ɡ a ¹⁵ w	(man's) friend (male)	ami	FRIEND
+2712	Yorno_So	ángé	a ⁵ n ɡ e ⁵	(man's) friend (male)	ami	FRIEND
+2707	Tiranige_Diga	wàyè	w a ¹ j e ¹	friend (casual)	ami	FRIEND
+2711	Yanda_Dom	làlùŋ	l a ¹ l u ¹ ŋ	friend (casual)	ami	FRIEND
+2693	Bankan_Tey	sìyⁿɛ̌-m	s i ¹ j ∼ ɛ ¹⁵ + m	friend (casual)	ami	FRIEND
+#
+2718	Bambara	fá	f a ⁵	full (container)	plein de	FULL
+2719	Bangime	dámbā	d a ⁵ m b a ³	full	plein	FULL
+2720	Bankan_Tey	bá	b a ⁵	full	plein	FULL
+2721	Ben_Tey	bǎ	b a ¹⁵	(container) be full	plein	FULL
+2722	Bunoge	yé: bò	j eː ⁵ _ b o ¹	(container) be full	plein	FULL
+2724	Fulfulde	haaru-de	h a a r u + d e	full	plein	FULL
+2726	Jamsay	jǒ:	dʒ oː ¹⁵	full	plein	FULL
+2727	Jenaama	pān-nā	p a ³ n + n a ³	full	plein	FULL
+2728	Mombo	jwé:	dʒ w eː ⁵	(container) be full	plein	FULL
+2729	Najamba	jǒy	dʒ o ¹⁵ j	(container) be full	plein	FULL
+2730	Nanga	bá:	b aː ⁵	full	plein	FULL
+2731	Penange	jwè:	dʒ w eː ¹	full (container)	plein	FULL
+2732	Perge_Tegu	jó:	dʒ oː ⁵	full	plein	FULL
+2733	Songhai_Kiini	tɔ́:	t ɔː	full	plein	FULL
+2735	Tebul_Ure	bá	b a ⁵	full	plein	FULL
+2736	Tiranige_Diga	ywé:-sá	j w eː ⁵ + s a ⁵	full (container)	plein	FULL
+2737	Togo_Kan	jǒ:	dʒ oː ¹⁵	(container) be full	plein	FULL
+2738	Tommo_So	jòó	dʒ oː ¹⁵	(container) be full	plein	FULL
+2739	Toro_Tegu	zú	z u ⁵	(container) be full	plein	FULL
+2740	Yanda_Dom	bǎ:	b aː ¹⁵	full	plein	FULL
+2741	Yorno_So	jó:	dʒ oː ⁵	full (container)	plein	FULL
+#
+2776	Fulfulde	hokku-de	h o k k u + d e	give	donner	GIVE
+2789	Togo_Kan	ó	o ⁵	give	donner	GIVE
+2770	Bambara	dí	d i ⁵	give	donner	GIVE
+2771	Bangime	nāẁⁿ	n a ³ w̃ ¹ ∼	give	donner	GIVE
+2772	Bankan_Tey	ní	n i ⁵	give	donner	GIVE
+2773	Ben_Tey	ní	n i ⁵	give	donner	GIVE
+2774	Bunoge	tábè	t a ⁵ b e ¹	give	donner	GIVE
+2777	Jamsay	ó:	oː ⁵	give	donner	GIVE
+2778	Jenaama	dō	d o ³	give	donner	GIVE
+2779	Mombo	ńdɛ́	n ⁵ d ɛ ⁵	give	donner	GIVE
+2780	Najamba	ǹdɛ́	n ¹ d ɛ ⁵	give	donner	GIVE
+2781	Nanga	ńdí	n ⁵ d i ⁵	give	donner	GIVE
+2782	Penange	tábé	t a ⁵ b e ⁵	give	donner	GIVE
+2783	Perge_Tegu	ó:	oː ⁵	give	donner	GIVE
+2784	Songhai_Kiini	nɔ́:	n ɔː	give	donner	GIVE
+2785	Songhai_Senni	nó:	n oː ⁵	provide (sth, with sth), give (sth, to sb)	fournir (qqn, avec qqch), donner (qqch, à qqn)	GIVE
+2787	Tebul_Ure	ńdì	n ⁵ d i ¹	give	donner	GIVE
+2788	Tiranige_Diga	ndó	n d o ⁵	give	donner	GIVE
+2790	Tommo_So	óbó	o ⁵ b o ⁵	give	donner	GIVE
+2791	Toro_Tegu	ów	o ⁵ w	give	donner	GIVE
+2792	Yanda_Dom	ńdɛ́	n ⁵ d ɛ ⁵	give	donner	GIVE
+2793	Yorno_So	óbó	o ⁵ b o ⁵	give	donner	GIVE
+#
+2801	Ben_Tey	nàrⁿá	n a ¹ r̃ ∼ a ⁵	(female) give birth to (baby)	(femelle) accoucher (bébé)	GIVE BIRTH
+2807	Jenaama	yɛ̀gɛ̀	j ɛ ¹ ɡ ɛ ¹	give birth; (plant) bear (fruit)	accoucher; (plante) donner (fruit)	GIVE BIRTH
+2819	Tommo_So	nàlá	n a ¹ l a ⁵	(female) give birth to (baby)	(femelle) accoucher (bébé)	GIVE BIRTH
+2799	Bangime	kūrà	k u ³ r a ¹	give birth; (plant) bear (fruit)	accoucher; (plante) donner (fruit)	GIVE BIRTH
+2800	Bankan_Tey	nàrⁿá	n a ¹ r̃ ∼ a ⁵	(female) give birth to (baby)	(femelle) accoucher (bébé)	GIVE BIRTH
+2802	Bunoge	nálè	n a ⁵ l e ¹	(female) give birth to (baby)	(femelle) accoucher (bébé)	GIVE BIRTH
+2804	Fulfulde	rimu-de	r i m u + d e	giver birth	accoucher	GIVE BIRTH
+2806	Jamsay	nàrⁿá	n a ¹ r̃ ∼ a ⁵	(female) give birth to (baby)	(femelle) accoucher (bébé)	GIVE BIRTH
+2808	Mombo	nálé	n a ⁵ l e ⁵	(female) give birth to (baby)	(femelle) accoucher (bébé)	GIVE BIRTH
+2809	Najamba	nǎl	n a ¹⁵ l	(female) give birth to (baby)	(femelle) accoucher (bébé)	GIVE BIRTH
+2810	Nanga	nàrⁿá	n a ¹ r̃ ∼ a ⁵	(female) give birth to (baby)	(femelle) accoucher (bébé)	GIVE BIRTH
+2811	Penange	nálé	n a ⁵ l e ⁵	(female) give birth to (baby)	(femelle) accoucher (bébé)	GIVE BIRTH
+2812	Perge_Tegu	nàrⁿá	n a ¹ r̃ ∼ a ⁵	(female) give birth to (baby)	(femelle) accoucher (bébé)	GIVE BIRTH
+2813	Songhai_Kiini	háy	h a ⁵ j	give birth to, bear (child)	donner naissance à (enfant)	GIVE BIRTH
+2814	Songhai_Senni	háy	h a ⁵ j	give birth to, bear (child)	donner naissance à (enfant)	GIVE BIRTH
+2816	Tebul_Ure	lǎ:tì	l aː ¹⁵ t i ¹	(female) give birth to (baby)	(femelle) accoucher (bébé)	GIVE BIRTH
+2817	Tiranige_Diga	náló	n a ⁵ l o ⁵	(female) give birth to (baby)	(femelle) accoucher (bébé)	GIVE BIRTH
+2818	Togo_Kan	nàrⁿá	n a ¹ r̃ ∼ a ⁵	(female) give birth to (baby)	(femelle) accoucher (bébé)	GIVE BIRTH
+2820	Toro_Tegu	làrá	l a ¹ r a ⁵	(female) give birth to (baby)	(femelle) accoucher (bébé)	GIVE BIRTH
+2821	Yanda_Dom	lǎl	l a ¹⁵ l	(female) give birth to (baby)	(femelle) accoucher (bébé)	GIVE BIRTH
+2822	Yorno_So	nàrⁿá	n a ¹ r̃ ∼ a ⁵	(female) give birth to (baby)	(femelle) accoucher (bébé)	GIVE BIRTH
+#
+2843	Tiranige_Diga	ún	u ⁵ n	go	aller	GO
+2827	Bangime	wōrè	w o ³ r e ¹	go	aller	GO
+2828	Bankan_Tey	ǹdó	n ¹ d o ⁵	go	aller	GO
+2829	Ben_Tey	ló	l o ⁵	go	aller	GO
+2830	Bunoge	gé:ndè	ɡ eː ⁵ n d e ¹	go	aller	GO
+2832	Fulfulde	yahu-de	j a h u + d e	go	aller	GO
+2833	Jamsay	yǎ:	j aː ¹⁵	go	aller	GO
+2834	Jenaama	sò	s o ¹	go	aller	GO
+2835	Mombo	ándé	a ⁵ n d e ⁵	go	aller	GO
+2836	Najamba	ín	i ⁵ n	go	aller	GO
+2837	Nanga	ńné	n ⁵ n e ⁵	go	aller	GO
+2838	Penange	ándè	a ⁵ n d e ¹	go	aller	GO
+2839	Perge_Tegu	yǎ:	j aː ¹⁵	go	aller	GO
+2840	Songhai_Kiini	kóy	k o ⁵ j	go	aller	GO
+2842	Tebul_Ure	yǎy	j a ¹⁵ j	go	aller	GO
+2844	Togo_Kan	yě	j e ¹⁵	go	aller	GO
+2845	Tommo_So	yàá	j aː ¹⁵	go	aller	GO
+2846	Toro_Tegu	yǎy	j a ¹⁵ j	go	aller	GO
+2847	Yanda_Dom	ún	u ⁵ n	go	aller	GO
+2848	Yorno_So	yǎ:	j aː ¹⁵	go	aller	GO
+#
+3006	Tiranige_Diga	mɔ́:	m ɔː	good	bon	GOOD
+3003	Songhai_Kiini	bòryòw	b o ¹ r j o ¹ w	good; pretty	bon; joli	GOOD
+3001	Perge_Tegu	ɛ̀sú	ɛ ¹ s u ⁵	good	bon	GOOD
+2990	Bambara	dúmáⁿ	d u ⁵ m ã ⁵ ∼	good	bon, agréable	GOOD
+2992	Bankan_Tey	ɛ̀sú-m	ɛ ¹ s u ⁵ + m	good	bon	GOOD
+2993	Bunoge	pɔ̀:lɔ̀	p ɔː ¹ l ɔ ¹	good	bon	GOOD
+2996	Jamsay	ɛ̀jú	ɛ ¹ dʒ u ⁵	good	bon	GOOD
+3002	Songhai_Senni	hènnò	h e ¹ n n o ¹	good; pretty	bon; beau, belle	GOOD
+3007	Togo_Kan	sɛ́ⁿ	s ɛ ⁵ ∼	good	bon	GOOD
+3009	Toro_Tegu	jɛ̀rⁿú	dʒ ɛ ¹ r̃ ∼ u ⁵	good	bon	GOOD
+3010	Yanda_Dom	síyɛ́	s i ⁵ j ɛ ⁵	good	bon	GOOD
+3011	Yorno_So	ɛ̀jú	ɛ ¹ dʒ u ⁵	good	bon	GOOD
+3005	Tebul_Ure	sɛ́	s ɛ ⁵	good	bon	GOOD
+2991	Bangime	ɡáwⁿ	ɡ a ⁵ w̃ ∼	good	bon	GOOD
+2995	Fulfulde	moʄʄi-nde	m o ʄ ʄ i + n d e	good	bon	GOOD
+2997	Mombo	pɔ́lɔ́	p ɔ ⁵ l ɔ ⁵	good	bon	GOOD
+3008	Tommo_So	síɛ́	s i ⁵ ɛ ⁵	good	bon	GOOD
+2998	Najamba	nálá:	n a ⁵ l aː ⁵	good	bon	GOOD
+2999	Nanga	ɛ̀sí	ɛ ¹ s i ⁵	good	bon	GOOD
+3000	Penange	pɔ́:lɔ́	p ɔː l ɔ ⁵	good	bon	GOOD
+#
+1	Bambara	dúnáⁿ	d u ⁵ n ã ⁵ ∼	guest	étranger, hôte	GUEST OR STRANGER
+2	Bangime	yīī tūwⁿɔ̀	j iː ³³ _ t u ³ w̃ ∼ ɔ ¹	visitor, guest	étranger, invité	GUEST OR STRANGER
+3	Bankan_Tey	ǹdòsú-m	n ¹ d o ¹ s u ⁵ + m	visitor, guest (from out of town)	visiteur, étranger (en visite)	GUEST OR STRANGER
+4	Ben_Tey	lò:sú-m	l oː ¹ s u ⁵ + m	visitor, guest (from out of town)	visiteur, étranger (en visite)	GUEST OR STRANGER
+5	Bunoge	dó:njì	d oː ⁵ n dʒ i ¹	visitor, guest (from out of town)	visiteur, étranger (en visite)	GUEST OR STRANGER
+7	Fulfulde	koɗɗo	k o ɗ ɗ o	visitor, guest	étranger, invité	GUEST OR STRANGER
+9	Jamsay	yérí-n	j e ⁵ r i ⁵ + n	visitor, guest (from out of town)	visiteur, étranger (en visite)	GUEST OR STRANGER
+10	Jenaama	súmū	s u ⁵ m u ³	visitor, guest	étranger, invité	GUEST OR STRANGER
+11	Mombo	gìlà gílí	ɡ i ¹ l a ¹ _ ɡ i ⁵ l i ⁵	visitor, guest (from out of town)	visiteur, étranger (en visite)	GUEST OR STRANGER
+12	Najamba	bèmbǎ:	b e ¹ m b aː ¹⁵	visitor, guest (from out of town)	visiteur, étranger (en visite)	GUEST OR STRANGER
+13	Nanga	lò:sí	l oː ¹ s i ⁵	visitor, guest (from out of town)	visiteur, étranger (en visite)	GUEST OR STRANGER
+14	Penange	bì:mbà	b iː ¹ m b a ¹	visitor, guest (from out of town)	visiteur, étranger (en visite)	GUEST OR STRANGER
+15	Perge_Tegu	lò:sú-n	l oː ¹ s u ⁵ + n	visitor, guest (from out of town)	visiteur, étranger (en visite)	GUEST OR STRANGER
+16	Songhai_Kiini	yòwòó	j o ¹ w oː ¹⁵	guest, stranger (who lodges with a host)	étranger (qui loge chez qqn), invité	GUEST OR STRANGER
+17	Songhai_Senni	yòwò	j o ¹ w o ¹	guest, stranger (who lodges with a host)	étranger (qui loge chez qqn), invité	GUEST OR STRANGER
+19	Tebul_Ure	lògò-dé:	l o ¹ ɡ o ¹ + d eː ⁵	visitor, guest (from out of town)	visiteur, étranger (en visite)	GUEST OR STRANGER
+20	Tiranige_Diga	bí:má	b iː ⁵ m a ⁵	visitor, guest (from out of town)	visiteur, étranger (en visite)	GUEST OR STRANGER
+21	Togo_Kan	yéríⁿ	j e ⁵ r ĩ ⁵ ∼	visitor, guest (from out of town)	visiteur, étranger (en visite)	GUEST OR STRANGER
+22	Tommo_So	yòùnjì-nɛ́	j o ¹ u ¹ n dʒ i ¹ + n ɛ ⁵	visitor, guest (from out of town)	visiteur, étranger (en visite)	GUEST OR STRANGER
+23	Toro_Tegu	lòsù-rⁿu	l o ¹ s u ¹ + r̃ ∼ u	visitor, guest (from out of town)	visiteur, étranger (en visite)	GUEST OR STRANGER
+24	Yanda_Dom	nò nò:zù	n o ¹ _ n oː ¹ z u ¹	visitor, guest (from out of town)	visiteur, étranger (en visite)	GUEST OR STRANGER
+25	Yorno_So	yér-nɛ́	j e ⁵ r + n ɛ ⁵	visitor, guest (from out of town)	visiteur, étranger (en visite)	GUEST OR STRANGER
+#
+3146	Bangime	dēɡè	d e ³ ɡ e ¹	head	tête	HEAD
+3156	Najamba	kî:ŋgè	k iː ⁵¹ + ŋ ɡ e ¹	head	tête	HEAD
+3148	Ben_Tey	kû:	k uː ⁵¹	head	tête	HEAD
+3151	Fulfulde	hoore	h o o r e	head	tête	HEAD
+3145	Bambara	kùⁿ	k ũ ¹ ∼	head	tête	HEAD
+3147	Bankan_Tey	kû:	k uː ⁵¹	head	tête	HEAD
+3149	Bunoge	kò	k o ¹	head	tête	HEAD
+3157	Nanga	kû:	k uː ⁵¹	head	tête	HEAD
+3154	Jenaama	ŋìyɛ̀wⁿ	ŋ i ¹ j ɛ ¹ w̃ ∼	head	tête	HEAD
+3167	Yanda_Dom	dàrⁿà bàndá	d a ¹ r̃ ∼ a ¹ _ b a ¹ n d a ⁵	head	tête	HEAD
+3155	Mombo	kó:	k oː ⁵	head	tête	HEAD
+3158	Penange	kó:	k oː ⁵	head	tête	HEAD
+3159	Perge_Tegu	kù: tógóró	k uː ¹ _ t o ⁵ ɡ o ⁵ r o ⁵	head	tête	HEAD
+3160	Songhai_Kiini	bòŋ	b o ¹ ŋ	head	tête	HEAD
+3161	Songhai_Senni	bòŋ	b o ¹ ŋ	head	tête	HEAD
+3162	Tebul_Ure	kúgɔ́	k u ⁵ ɡ ɔ ⁵	head	tête	HEAD
+3163	Tiranige_Diga	kógó	k o ⁵ ɡ o ⁵	head	tête	HEAD
+3164	Togo_Kan	kùⁿ kɛ́nɛ́	k ũ ¹ ∼ _ k ɛ ⁵ n ɛ ⁵	head	tête	HEAD
+3165	Tommo_So	kúú	k uː ⁵	head	tête	HEAD
+3166	Toro_Tegu	kú	k u ⁵	head	tête	HEAD
+3168	Yorno_So	kû:	k uː ⁵¹	head	tête	HEAD
+3153	Jamsay	dárⁿá	d a ⁵ r̃ ∼ a ⁵	head	tête	HEAD
+#
+3282	Yanda_Dom	dày	d a ¹ j	hip	hanche (au flanc)	HIP
+3275	Songhai_Senni	ʔáŋkórá:	ʔ a ⁵ ŋ k o ⁵ r aː ⁵	hip; area including hip	hanche; zone qui comprend la hanche et la cuisse	HIP
+3263	Ben_Tey	dǒ:	d oː ¹⁵	hip	hanche (au flanc)	HIP
+3260	Bambara	tɔ̀gɔ́	t ɔ ¹ ɡ ɔ ⁵	hip	hanche	HIP
+3261	Bangime	kùùⁿ	k ũː ¹ ∼	hip	hanche	HIP
+3262	Bankan_Tey	dǒ:	d oː ¹⁵	hip	hanche	HIP
+3264	Bunoge	kìbà	k i ¹ b a ¹	hip	hanche (au flanc)	HIP
+3267	Jamsay	dɔ̌yⁿ	d ɔ ¹⁵ j ∼	hip	hanche (au flanc)	HIP
+3268	Jenaama	kūla᷆ⁿ	k u ³ l a ³¹ ∼	hip	hanche	HIP
+3270	Najamba	tínì:-ŋgò	t i ⁵ n iː ¹ + ŋ ɡ o ¹	hip	hanche (au flanc)	HIP
+3271	Nanga	dǒ:	d oː ¹⁵	hip	hanche	HIP
+3272	Penange	kíbá	k i ⁵ b a ⁵	hip	hanche (au flanc)	HIP
+3273	Perge_Tegu	dɛ̌:ⁿ	d ɛ̃ː ¹⁵ ∼	hip	hanche (au flanc)	HIP
+3274	Songhai_Kiini	háŋkórú	h a ⁵ ŋ k o ⁵ r u ⁵	hip	hanche (au flanc)	HIP
+3277	Tebul_Ure	dáŋgá:	d a ⁵ ŋ ɡ aː ⁵	hip	hanche (au flanc)	HIP
+3278	Tiranige_Diga	dé:ŋgé	d eː ⁵ ŋ ɡ e ⁵	hip	hanche (au flanc)	HIP
+3279	Togo_Kan	dǐⁿ	d ĩ ¹⁵ ∼	hip	hanche (au flanc)	HIP
+3280	Tommo_So	kéú	k e ⁵ u ⁵	hip	hanche (au flanc)	HIP
+3281	Toro_Tegu	péŋó	p e ⁵ ŋ o ⁵	hip	hanche (au flanc)	HIP
+3283	Yorno_So	dǒm	d o ¹⁵ m	hip	hanche (au flanc)	HIP
+3269	Mombo	péŋgé-lí	p e ⁵ ŋ ɡ e ⁵ + l i ⁵	hip	hanche (au flanc)	HIP
+#
+3288	Bambara	dí	d i ⁵	honey	miel	HONEY
+3289	Bangime	yīyɛ̀	j i ³ j ɛ ¹	honey	miel	HONEY
+3290	Bankan_Tey	yěy	j e ¹⁵ j	honey	miel	HONEY
+3291	Ben_Tey	yěy	j e ¹⁵ j	honey	miel	HONEY
+3292	Bunoge	ʔígè	ʔ i ⁵ ɡ e ¹	honey	miel	HONEY
+3294	Fulfulde	njumri	n dʒ u m r i	honey	miel	HONEY
+3296	Jamsay	yùŋ ní:	j u ¹ ŋ _ n iː ⁵	honey	miel	HONEY
+3297	Jenaama	sàⁿ	s ã ¹ ∼	honey	miel	HONEY
+3298	Mombo	ígè	i ⁵ ɡ e ¹	honey	miel	HONEY
+3299	Najamba	ǹjǐ:	n ¹ dʒ iː ¹⁵	honey	miel	HONEY
+3300	Nanga	ò:ndó	oː ¹ n d o ⁵	honey	miel	HONEY
+3301	Penange	ìgè	i ¹ ɡ e ¹	honey	miel	HONEY
+3302	Perge_Tegu	kàwⁿà yòŋgú	k a ¹ w̃ ∼ a ¹ _ j o ¹ ŋ ɡ u ⁵	honey	miel	HONEY
+3303	Songhai_Senni	yùwò	j u ¹ w o ¹	honey	miel	HONEY
+3304	Songhai_Kiini	yùwǒ:	j u ¹ w oː ¹⁵	honey	miel	HONEY
+3305	Tebul_Ure	ìdé	i ¹ d e ⁵	honey	miel	HONEY
+3307	Togo_Kan	tɛ̌:	t ɛː ¹⁵	honey	miel	HONEY
+3310	Yanda_Dom	ìzèŋ	i ¹ z e ¹ ŋ	honey	miel	HONEY
+3311	Yorno_So	yɛ̌yⁿ	j ɛ ¹⁵ j ∼	honey	miel	HONEY
+3306	Tiranige_Diga	í:gé	iː ⁵ ɡ e ⁵	honey	miel	HONEY
+3309	Toro_Tegu	ìwó	i ¹ w o ⁵	honey	miel	HONEY
+3308	Tommo_So	ììyé	iː ¹ j e ⁵	honey	miel	HONEY
+#
+3465	Songhai_Kiini	kúññɛ̀	k u ⁵ ɲ ɲ ɛ ¹	husband		HUSBAND
+3458	Jamsay	àɣá	a ¹ ɣ a ⁵	husband	mari	HUSBAND
+3459	Jenaama	kúwⁿɔ̄	k u ⁵ w̃ ∼ ɔ ³	husband	mari	HUSBAND
+3460	Mombo	wálá	w a ⁵ l a ⁵	husband	mari	HUSBAND
+3466	Songhai_Senni	kúrɲê	k u ⁵ r ɲ e ⁵¹	husband	mari -poss: 1Sg kúr.-êy , 2Sg	HUSBAND
+3461	Najamba	nɔ̀gɔ̌:	n ɔ ¹ ɡ ɔː ¹⁵	husband	mari	HUSBAND
+3462	Nanga	lɔ̀gɔ̂	l ɔ ¹ ɡ ɔ ⁵¹	husband	mari	HUSBAND
+3464	Perge_Tegu	ɛ̀gɛ́	ɛ ¹ ɡ ɛ ⁵	husband	mari	HUSBAND
+3469	Tiranige_Diga	bànà	b a ¹ n a ¹	husband	mari	HUSBAND
+3471	Tommo_So	ígɛ́	i ⁵ ɡ ɛ ⁵	husband	mari	HUSBAND
+3450	Bambara	cɛ̀	tʃ ɛ ¹	hunt (noun)	époux, mari	HUSBAND
+3453	Ben_Tey	ɔ̀ŋgɔ̀rɔ́	ɔ ¹ ŋ ɡ ɔ ¹ r ɔ ⁵	husband	mari	HUSBAND
+3454	Bunoge	bàlà	b a ¹ l a ¹	husband	mari	HUSBAND
+3468	Tebul_Ure	ɔ̀ngɔ́	ɔ ¹ n ɡ ɔ ⁵	husband	mari	HUSBAND
+3452	Bankan_Tey	ɔ̀ŋgɔ̀rɔ̌-m	ɔ ¹ ŋ ɡ ɔ ¹ r ɔ ¹⁵ + m	husband	mari	HUSBAND
+3456	Fulfulde	gorko	ɡ o r k o	husband	mari	HUSBAND
+3451	Bangime	kàndè	k a ¹ n d e ¹	husband	mari	HUSBAND
+3463	Penange	wàlà	w a ¹ l a ¹	husband	mari	HUSBAND
+3472	Toro_Tegu	ɛ̀gá	ɛ ¹ ɡ a ⁵	husband	mari	HUSBAND
+3473	Yanda_Dom	nùŋɔ̀-n	n u ¹ ŋ ɔ ¹ + n	husband	mari	HUSBAND
+3474	Yorno_So	ígɛ́	i ⁵ ɡ ɛ ⁵	husband	mari	HUSBAND
+3470	Togo_Kan	ɛ̀gɛ́	ɛ ¹ ɡ ɛ ⁵	husband	mari	HUSBAND
+#
+3571	Bangime	yūrà	j u ³ r a ¹	kill	tuer	KILL
+3577	Jenaama	wàgà	w a ¹ ɡ a ¹	kill	tuer	KILL
+3579	Najamba	jìyɛ́	dʒ i ¹ j ɛ ⁵	kill	tuer	KILL
+3582	Perge_Tegu	wɔ̌:	w ɔː ¹⁵	kill	tuer	KILL
+3583	Songhai_Senni	wí:	w iː ⁵	kill (person, animal); extinguish (e.g. fire)	tuer (personne, animal); éteindre (feu etc.).	KILL
+3589	Tommo_So	dàá	d aː ¹⁵	kill	tuer	KILL
+3591	Yanda_Dom	jɛ́	dʒ ɛ ⁵	kill	tuer	KILL
+3572	Bankan_Tey	jɛ́	dʒ ɛ ⁵	kill	tuer	KILL
+3574	Bunoge	gɛ́:wɛ̀	ɡ ɛː ⁵ w ɛ ¹	kill	tuer	KILL
+3576	Jamsay	wɔ̌:	w ɔː ¹⁵	kill	tuer	KILL
+3578	Mombo	gyɛ́:	ɡ j ɛː ⁵	kill	tuer	KILL
+3580	Nanga	jìyɛ́	dʒ i ¹ j ɛ ⁵	kill	tuer	KILL
+3581	Penange	gíyɛ́	ɡ i ⁵ j ɛ ⁵	kill	tuer	KILL
+3584	Songhai_Kiini	wúy	w u ⁵ j	kill	tuer	KILL
+3586	Tebul_Ure	jɛ̌	dʒ ɛ ¹⁵	kill	tuer	KILL
+3587	Tiranige_Diga	jɛ́yɔ́	dʒ ɛ ⁵ j ɔ ⁵	kill	tuer	KILL
+3588	Togo_Kan	dàrⁿá	d a ¹ r̃ ∼ a ⁵	kill	tuer	KILL
+3590	Toro_Tegu	wɔ̌w	w ɔ ¹⁵ w	kill	tuer	KILL
+3592	Yorno_So	dǎ:	d aː ¹⁵	kill	tuer	KILL
+3573	Ben_Tey	jìyɛ́	dʒ i ¹ j ɛ ⁵	kill	tuer	KILL
+#
+3618	Tommo_So	ànù yóŋóló	a ¹ n u ¹ _ j o ⁵ ŋ o ⁵ l o ⁵	knee	genou	KNEE
+3613	Songhai_Kiini	kàŋgɛ̀	k a ¹ ŋ ɡ ɛ ¹	knee	genou	KNEE
+3619	Toro_Tegu	nìŋó	n i ¹ ŋ o ⁵	knee	genou	KNEE
+3598	Bambara	qúrúngò	q u ⁵ r u ⁵ n ɡ o ¹	knee	genou	KNEE
+3599	Bangime	bùyɛ̄	b u ¹ j ɛ ³	knee	genou	KNEE
+3600	Bankan_Tey	kízì	k i ⁵ z i ¹	knee	genou	KNEE
+3601	Ben_Tey	sínjì:	s i ⁵ n dʒ iː ¹	knee	genou	KNEE
+3602	Bunoge	kùnjúgà	k u ¹ n dʒ u ⁵ ɡ a ¹	knee	genou	KNEE
+3604	Fulfulde	howru	h o w r u	knee	genou	KNEE
+3606	Jamsay	nɛ̀ŋɛ́	n ɛ ¹ ŋ ɛ ⁵	knee	genou	KNEE
+3607	Jenaama	kɔ̀bɔ́	k ɔ ¹ b ɔ ⁵	knee	genou	KNEE
+3608	Mombo	kúnjúgà	k u ⁵ n dʒ u ⁵ ɡ a ¹	knee	genou	KNEE
+3609	Najamba	nà: kínjì-ŋgè	n aː ¹ _ k i ⁵ n dʒ i ¹ + ŋ ɡ e ¹	knee	genou	KNEE
+3610	Nanga	kùnjò kúnjô	k u ¹ n dʒ o ¹ _ k u ⁵ n dʒ o ⁵¹	knee	genou	KNEE
+3611	Penange	kùnjùgà	k u ¹ n dʒ u ¹ ɡ a ¹	knee	genou	KNEE
+3612	Perge_Tegu	nìŋgé	n i ¹ ŋ ɡ e ⁵	knee	genou	KNEE
+3614	Songhai_Senni	kànjè	k a ¹ n dʒ e ¹	knee; side; (automobile) tire	genou; côté; pneu	KNEE
+3615	Tebul_Ure	kúndú	k u ⁵ n d u ⁵	knee	genou	KNEE
+3616	Tiranige_Diga	kúnjúgɔ́	k u ⁵ n dʒ u ⁵ ɡ ɔ ⁵	knee	genou	KNEE
+3617	Togo_Kan	nèŋèrè kúⁿ	n e ¹ ŋ e ¹ r e ¹ _ k ũ ⁵ ∼	knee	genou	KNEE
+3620	Yanda_Dom	kúnzú	k u ⁵ n z u ⁵	knee	genou	KNEE
+3621	Yorno_So	yúŋóló	j u ⁵ ŋ o ⁵ l o ⁵	knee	genou	KNEE
+#
+3713	Bambara	yeleⁿ	j e l ẽ ∼	laugh	rire/laugh	LAUGH
+3714	Bangime	màà	m aː ¹	laugh	rire	LAUGH
+3715	Bankan_Tey	màní	m a ¹ n i ⁵	laugh	rire	LAUGH
+3716	Ben_Tey	màní	m a ¹ n i ⁵	laugh (verb only)	rire (verbe seulement)	LAUGH
+3717	Bunoge	mándè	m a ⁵ n d e ¹	laugh (verb only)	rire (verbe seulement)	LAUGH
+3719	Fulfulde	jalu-de	dʒ a l u + d e	laugh	rire	LAUGH
+3721	Jamsay	mɔ́wⁿ mɔ̀wⁿɔ́	m ɔ ⁵ w̃ ∼ _ m ɔ ¹ w̃ ∼ ɔ ⁵	laugh	rire	LAUGH
+3722	Jenaama	sà	s a ¹	laugh	rire	LAUGH
+3723	Mombo	mándú mándè	m a ⁵ n d u ⁵ _ m a ⁵ n d e ¹	laugh (verb only)	rire (verbe seulement)	LAUGH
+3724	Najamba	màndí	m a ¹ n d i ⁵	laugh	rire	LAUGH
+3725	Nanga	màndí	m a ¹ n d i ⁵	laugh (verb only)	rire (verbe seulement)	LAUGH
+3726	Penange	mándé	m a ⁵ n d e ⁵	laugh (verb only)	rire (verbe seulement)	LAUGH
+3727	Perge_Tegu	mɔ̌:ⁿ	m ɔ̃ː ∼	laugh (verb only)	rire (verbe seulement)	LAUGH
+3728	Songhai_Kiini	há:rú	h aː ⁵ r u ⁵	laugh	rire	LAUGH
+3729	Songhai_Senni	há:rú	h aː ⁵ r u ⁵	laugh	rire	LAUGH
+3731	Tebul_Ure	màndí	m a ¹ n d i ⁵	laugh (verb only)	rire (verbe seulement)	LAUGH
+3732	Tiranige_Diga	mándó	m a ⁵ n d o ⁵	laugh (verb only)	rire (verbe seulement)	LAUGH
+3733	Togo_Kan	mɔ̌:	m ɔː ¹⁵	laugh (verb only)	rire (verbe seulement)	LAUGH
+3734	Tommo_So	mòmó	m o ¹ m o ⁵	laugh (verb only)	rire (verbe seulement)	LAUGH
+3735	Toro_Tegu	mɔ̌m	m ɔ ¹⁵ m	laugh (verb only)	rire (verbe seulement)	LAUGH
+3736	Yanda_Dom	màndú	m a ¹ n d u ⁵	laugh (verb only)	rire (verbe seulement)	LAUGH
+3737	Yorno_So	mɔ̌:	m ɔː ¹⁵	laugh (verb only)	rire (verbe seulement)	LAUGH
+#
+3755	Perge_Tegu	kúrɔ́	k u ⁵ r ɔ ⁵	leaf (of plant)	feuille (de plante)	LEAF
+3742	Bambara	fúrá	f u ⁵ r a ⁵	leaf (of plant)	feuille, feuillage	LEAF
+3743	Bangime	pūyⁿɛ̀	p u ³ j ∼ ɛ ¹	leaf	feuille	LEAF
+3744	Bankan_Tey	jɛ̀ndɛ̂:	dʒ ɛ ¹ n d ɛː ⁵¹	leaf (of plant)	feuille (de plante)	LEAF
+3745	Ben_Tey	jɛ̀lɛ̂:	dʒ ɛ ¹ l ɛː ⁵¹	leaf (of plant)	feuille (de plante)	LEAF
+3746	Bunoge	kóbà	k o ⁵ b a ¹	leaf (of plant)	feuille (de plante)	LEAF
+3748	Fulfulde	haako	h a a k o	leaf	feuille	LEAF
+3749	Jamsay	kúrɔ́	k u ⁵ r ɔ ⁵	leaf	feuille	LEAF
+3750	Jenaama	dūwɔ̄	d u ³ w ɔ ³	leaf	feuille	LEAF
+3751	Mombo	kúbɛ̀	k u ⁵ b ɛ ¹	leaf (of plant)	feuille (de plante)	LEAF
+3752	Najamba	kòmbá-ŋgó	k o ¹ m b a ⁵ + ŋ ɡ o ⁵	leaf (of plant)	feuille (de plante)	LEAF
+3753	Nanga	úwâ	u ⁵ w a ⁵¹	leaf (of plant)	feuille (de plante)	LEAF
+3754	Penange	kɔ̀bɛ̀	k ɔ ¹ b ɛ ¹	leaf (of plant)	feuille (de plante)	LEAF
+3756	Songhai_Senni	kò:sò	k oː ¹ s o ¹	leaf	feuille	LEAF
+3757	Songhai_Kiini	kɔ̀wsí	k ɔ ¹ w s i ⁵	leaf	feuille (de plante)	LEAF
+3759	Tebul_Ure	kúlá	k u ⁵ l a ⁵	leaf (of plant)	feuille (de plante)	LEAF
+3760	Tiranige_Diga	kómbá	k o ⁵ m b a ⁵	leaf (of plant)	feuille (de plante)	LEAF
+3761	Togo_Kan	kúrɔ́	k u ⁵ r ɔ ⁵	leaf (of plant)	feuille (de plante)	LEAF
+3762	Tommo_So	núyɔ́	n u ⁵ j ɔ ⁵	leaf (of plant)	feuille (de plante)	LEAF
+3763	Toro_Tegu	kɔ̀tɔ́	k ɔ ¹ t ɔ ⁵	leaf (of plant)	feuille (de plante)	LEAF
+3764	Yanda_Dom	kùlà	k u ¹ l a ¹	leaf (of plant)	feuille (de plante)	LEAF
+3765	Yorno_So	lɛ̂:	l ɛː ⁵¹	leaf (of plant)	feuille (de plante)	LEAF
+#
+3859	Tiranige_Diga	bí-yó	b i ⁵ + j o ⁵	lie down, go to bed	se coucher	LIE DOWN
+3841	Bambara	nogu	n o ɡ u	lick; taste (by licking)	coucher, étendre, allonger, étaler	LIE DOWN
+3842	Bangime	tūrù	t u ³ r u ¹	lie down	se coucher	LIE DOWN
+3843	Bankan_Tey	bìyé	b i ¹ j e ⁵	lie down, go to bed	se coucher	LIE DOWN
+3844	Ben_Tey	bìyé	b i ¹ j e ⁵	lie down, go to bed	se coucher	LIE DOWN
+3845	Bunoge	bí:yè	b iː ⁵ j e ¹	lie down, go to bed	se coucher	LIE DOWN
+3847	Fulfulde	leelaa-de	l e e l a a + d e	lie down	se coucher	LIE DOWN
+3848	Jamsay	ìɲé	i ¹ ɲ e ⁵	lie down, go to bed	se coucher	LIE DOWN
+3849	Jenaama	sāgā	s a ³ ɡ a ³	lie down	se coucher	LIE DOWN
+3850	Mombo	bí:yè	b iː ⁵ j e ¹	lie down, go to bed	se coucher	LIE DOWN
+3851	Najamba	bǐy	b i ¹⁵ j	lie down, go to bed	se coucher	LIE DOWN
+3852	Nanga	bìyé	b i ¹ j e ⁵	lie down, go to bed	se coucher	LIE DOWN
+3853	Penange	bíyé	b i ⁵ j e ⁵	lie down, go to bed	se coucher	LIE DOWN
+3854	Perge_Tegu	ìnjé	i ¹ n dʒ e ⁵	lie down, go to bed	se coucher	LIE DOWN
+3855	Songhai_Kiini	kán	k a ⁵ n	lie down, go to bed	se coucher	LIE DOWN
+3856	Songhai_Senni	kání	k a ⁵ n i ⁵	lie down, be horizontal; go to sleep; spend night	se coucher, être ou se mettre au plan horizontal	LIE DOWN
+3858	Tebul_Ure	bě	b e ¹⁵	lie down, go to bed	se coucher	LIE DOWN
+3860	Togo_Kan	ìmú ìmî:	i ¹ m u ⁵ _ i ¹ m iː ⁵¹	lie down, go to bed	se coucher	LIE DOWN
+3861	Tommo_So	ǹjó ǹjíyó	n ¹ dʒ o ⁵ _ n ¹ dʒ i ⁵ j o ⁵	lie down, go to bed	se coucher	LIE DOWN
+3862	Toro_Tegu	ìsú	i ¹ s u ⁵	lie down, go to bed	se coucher	LIE DOWN
+3863	Yanda_Dom	bì-yó	b i ¹ + j o ⁵	lie down, go to bed	se coucher	LIE DOWN
+3864	Yorno_So	dǐ:ⁿ	d ĩː ¹⁵ ∼	lie down, go to bed	se coucher	LIE DOWN
+#
+3961	Fulfulde	ʄeewu-de	ʄ e e w u + d e	look at	regarder	LOOK
+3971	Songhai_Senni	gùnà	ɡ u ¹ n a ¹	look at, observe	regarder (qqch) ­ex: á­.´	LOOK
+3967	Nanga	ŋìrⁿɛ́	ŋ i ¹ r̃ ∼ ɛ ⁵	look at	regarder (qch)	LOOK
+3970	Songhai_Kiini	gùná	ɡ u ¹ n a ⁵	look, look for; examine, inspect		LOOK
+3973	Tebul_Ure	jɛ̀rí	dʒ ɛ ¹ r i ⁵	look at	regarder (qch)	LOOK
+3979	Yorno_So	yɛ̀nɛ́	j ɛ ¹ n ɛ ⁵	look at	regarder (qch)	LOOK
+3956	Bangime	sùràà	s u ¹ r aː ¹	look at	regarder	LOOK
+3957	Bankan_Tey	tíní	t i ⁵ n i ⁵	look at	regarder	LOOK
+3958	Ben_Tey	tíní	t i ⁵ n i ⁵	look at	regarder (qch)	LOOK
+3959	Bunoge	té:jè	t eː ⁵ dʒ e ¹	look at	regarder (qch)	LOOK
+3963	Jamsay	yàŋá	j a ¹ ŋ a ⁵	look at	regarder (qch)	LOOK
+3964	Jenaama	tɔ̀ŋɔ̀	t ɔ ¹ ŋ ɔ ¹	look at	regarder	LOOK
+3965	Mombo	mályê:	m a ⁵ l j eː ⁵¹	look at	regarder (qch)	LOOK
+3966	Najamba	tár	t a ⁵ r	look at	regarder (qch)	LOOK
+3968	Penange	sé:mì	s eː ⁵ m i ¹	look at	regarder (qch)	LOOK
+3969	Perge_Tegu	yɛ̀lɛ́	j ɛ ¹ l ɛ ⁵	look at	regarder	LOOK
+3974	Tiranige_Diga	já:ló	dʒ aː ⁵ l o ⁵	look at	regarder (qch)	LOOK
+3975	Togo_Kan	gɛ̀r-î:	ɡ ɛ ¹ r + iː ⁵¹	look at	regarder (qch)	LOOK
+3976	Tommo_So	yɛ̀-ndɛ́	j ɛ ¹ + n d ɛ ⁵	look at	regarder (qch)	LOOK
+3977	Toro_Tegu	ɛ̀lú	ɛ ¹ l u ⁵	look at	regarder (qch)	LOOK
+3978	Yanda_Dom	tígɛ́	t i ⁵ ɡ ɛ ⁵	look at	regarder (qch)	LOOK
+3955	Bambara	lájɛ́	l a ⁵ dʒ ɛ ⁵	lock (on door, etc.)	examiner, regarder	LOOK
+#
+4040	Jamsay	pù:jú pà:jú	p uː ¹ dʒ u ⁵ _ p aː ¹ dʒ u ⁵	lung	poumon	LUNG
+4050	Tiranige_Diga	àl pús	a ¹ l _ p u ⁵ s	lung	poumon	LUNG
+4053	Toro_Tegu	kùpà:ⁿ sú	k u ¹ p ãː ¹ ∼ _ s u ⁵	lung	poumon	LUNG
+4033	Bangime	póɡó póɡò	p o ⁵ ɡ o ⁵ _ p o ⁵ ɡ o ¹	lung(s)	poumon(s)	LUNG
+4034	Bankan_Tey	pùsù pàsá	p u ¹ s u ¹ _ p a ¹ s a ⁵	lung	poumon	LUNG
+4035	Ben_Tey	pù:sù pà:sá	p uː ¹ s u ¹ _ p aː ¹ s a ⁵	lung	poumon	LUNG
+4036	Bunoge	pùsù pùsú	p u ¹ s u ¹ _ p u ¹ s u ⁵	lung	poumon	LUNG
+4038	Fulfulde	wuucere	w u u tʃ e r e	lung	poumon	LUNG
+4041	Mombo	pùjù pájù	p u ¹ dʒ u ¹ _ p a ⁵ dʒ u ¹	lung	poumon	LUNG
+4042	Najamba	bú bùjû:	b u ⁵ _ b u ¹ dʒ uː ⁵¹	lung	poumon	LUNG
+4043	Nanga	kɛ̀ndɛ̀	k ɛ ¹ n d ɛ ¹	lung	poumon	LUNG
+4044	Penange	pùgùjáⁿ pùgùjáⁿ	p u ¹ ɡ u ¹ dʒ ã ⁵ ∼ _ p u ¹ ɡ u ¹ dʒ ã ⁵ ∼	lung	poumon	LUNG
+4045	Perge_Tegu	pù:sù pà:sá	p uː ¹ s u ¹ _ p aː ¹ s a ⁵	lung	poumon	LUNG
+4046	Songhai_Kiini	kùmpú	k u ¹ m p u ⁵	lung	poumon	LUNG
+4047	Songhai_Senni	kùmbò	k u ¹ m b o ¹	lung	poumon	LUNG
+4049	Tebul_Ure	pùdù pá:dù	p u ¹ d u ¹ _ p aː ⁵ d u ¹	lung	poumon	LUNG
+4051	Togo_Kan	pú:jù pá:jù	p uː ⁵ dʒ u ¹ _ p aː ⁵ dʒ u ¹	lung	poumon	LUNG
+4052	Tommo_So	kìndɛ̀ bùúdú bààdù	k i ¹ n d ɛ ¹ _ b u ¹ u ⁵ d u ⁵ _ b aː ¹ d u ¹	lung	poumon	LUNG
+4054	Yanda_Dom	pú:zù pá:zù	p uː ⁵ z u ¹ _ p aː ⁵ z u ¹	lung	poumon	LUNG
+4055	Yorno_So	bǔ:jù bà:jù	b uː ¹⁵ dʒ u ¹ _ b aː ¹ dʒ u ¹	lung	poumon	LUNG
+#
+4065	Fulfulde	mbamm baari	m b a m m _ b a a r i	maize	maïs	MAIZE
+4071	Nanga	jàrⁿà mbɛ́	dʒ a ¹ r̃ ∼ a ¹ _ m b ɛ ⁵	corn, maize	maïs	MAIZE
+4059	Bambara	kàbá	k a ¹ b a ⁵	corn, maize	Zea mais, maïs	MAIZE
+4061	Bankan_Tey	bàrà ɛ̀mbɛ̌y	b a ¹ r a ¹ _ ɛ ¹ m b ɛ ¹⁵ j	corn, maize	maïs	MAIZE
+4075	Songhai_Kiini	màlàŋ hàmbó	m a ¹ l a ¹ ŋ _ h a ¹ m b o ⁵	corn (maize)	maïs	MAIZE
+4081	Toro_Tegu	tɔ̀rⁿí yⁿàrⁿà	t ɔ ¹ r̃ ∼ i ⁵ _ j ∼ a ¹ r̃ ∼ a ¹	corn, maize	maïs	MAIZE
+4083	Yorno_So	sàrⁿà ɛ̀mɛ́	s a ¹ r̃ ∼ a ¹ _ ɛ ¹ m ɛ ⁵	corn, maize	maïs	MAIZE
+4060	Bangime	bìrɔ̀ ndɔ́ⁿ	b i ¹ r ɔ ¹ _ n d ɔ̃ ⁵ ∼	maize	maïs	MAIZE
+4062	Ben_Tey	bàr měyⁿ	b a ¹ r m e ¹⁵ j ∼	corn, maize	maïs	MAIZE
+4063	Bunoge	dílímà	d i ⁵ l i ⁵ m a ¹	corn, maize	maïs	MAIZE
+4067	Jamsay	pòrò: ɲú:	p o ¹ r oː ¹ _ ɲ uː ⁵	corn, maize	maize	MAIZE
+4068	Jenaama	kèndè	k e ¹ n d e ¹	maize, corn	maïs	MAIZE
+4069	Mombo	ɛ̀mbɛ̀ dúlúmá	ɛ ¹ m b ɛ ¹ _ d u ⁵ l u ⁵ m a ⁵	corn, maize	maïs	MAIZE
+4070	Najamba	mà dèmbáŋgó	m a ¹ _ d e ¹ m b a ⁵ ŋ ɡ o ⁵	corn, maize	maïs	MAIZE
+4072	Penange	dàlmà yògó	d a ¹ l m a ¹ _ j o ¹ ɡ o ⁵	corn, maize	maïs	MAIZE
+4073	Perge_Tegu	bàrà ɛ̀:mbɛ́	b a ¹ r a ¹ _ ɛː ¹ m b ɛ ⁵	corn, maize	maïs	MAIZE
+4074	Songhai_Senni	kòtkòlò	k o ¹ t k o ¹ l o ¹	cultivated corn (maize)	maïs cul	MAIZE
+4077	Tebul_Ure	sàrⁿà ɛ̀mbɛ́	s a ¹ r̃ ∼ a ¹ + ɛ ¹ m b ɛ ⁵	corn, maize	maïs	MAIZE
+4078	Tiranige_Diga	dùmà+yò:gé	d u ¹ m a ¹ _ j oː ¹ ɡ e ⁵	corn, maize	maïs	MAIZE
+4079	Togo_Kan	màɲɛ̀rⁿ ɛ̀má	m a ¹ ɲ ɛ ¹ r̃ ∼ _ ɛ ¹ m a ⁵	corn, maize	maïs	MAIZE
+4080	Tommo_So	sànà ɛ̀mmɛ́	s a ¹ n a ¹ _ ɛ ¹ m m ɛ ⁵	corn, maize	maïs	MAIZE
+4082	Yanda_Dom	sànà ɛ̀mɛ̀	s a ¹ n a ¹ _ ɛ ¹ m ɛ ¹	corn, maize	maïs	MAIZE
+#
+4137	Bambara	sɛ́mɛ́	s ɛ ⁵ m ɛ ⁵	marrow	moelle	MARROW
+4138	Bangime	dòndì	d o ¹ n d i ¹	marrow	moelle	MARROW
+4139	Bankan_Tey	nɔ̀:nî:	n ɔː ¹ n iː ⁵¹	marrow	moelle	MARROW
+4140	Ben_Tey	bú:sǎ-m	b uː ⁵ s a ¹⁵ + m	marrow	moelle	MARROW
+4141	Bunoge	búgè	b u ⁵ ɡ e ¹	marrow	moelle	MARROW
+4142	Fulfulde	mbuso	m b u s o	marrow	moelle	MARROW
+4144	Jamsay	búsâm	b u ⁵ s a ⁵¹ m	marrow	moelle	MARROW
+4145	Jenaama	dòndì	d o ¹ n d i ¹	marrow	moelle	MARROW
+4146	Mombo	bùzé	b u ¹ z e ⁵	marrow	moelle	MARROW
+4147	Najamba	nòndî:	n o ¹ n d iː ⁵¹	marrow	moelle	MARROW
+4148	Nanga	nɔ̀ndí	n ɔ ¹ n d i ⁵	marrow	moelle	MARROW
+4149	Penange	nù:	n uː ¹	marrow	moelle	MARROW
+4150	Perge_Tegu	búsâm	b u ⁵ s a ⁵¹ m	marrow	moelle	MARROW
+4151	Songhai_Senni	lòndò	l o ¹ n d o ¹	marrow	moelle -cpd: see bòn-	MARROW
+4152	Songhai_Kiini	lòndí	l o ¹ n d i ⁵	marrow		MARROW
+4154	Tebul_Ure	nɔ́:	n ɔː	marrow	moelle	MARROW
+4155	Tiranige_Diga	nó:ndí	n oː ⁵ n d i ⁵	marrow	moelle	MARROW
+4156	Togo_Kan	sìyè-iⁿ bɔ́:nɔ́	s i ¹ j e ¹ + ĩ _ b ɔː n ɔ ⁵	marrow	moelle	MARROW
+4157	Tommo_So	bɔ́ndú	b ɔ ⁵ n d u ⁵	marrow	moelle	MARROW
+4158	Toro_Tegu	síwó	s i ⁵ w o ⁵	marrow	moelle	MARROW
+4159	Yanda_Dom	bɔ̀ndú-m	b ɔ ¹ n d u ⁵ + m	marrow	moelle	MARROW
+4160	Yorno_So	bɔ́nɔ̀	b ɔ ⁵ n ɔ ¹	marrow	moelle	MARROW
+#
+4166	Bankan_Tey	kàrá	k a ¹ r a ⁵	mat	natte	MAT
+4168	Bunoge	bí:ŋgè	b iː ⁵ + ŋ ɡ e ¹	mat	natte	MAT
+4175	Nanga	kágá	k a ⁵ ɡ a ⁵	mat	natte	MAT
+4185	Toro_Tegu	kàrá	k a ¹ r a ⁵	mat	natte	MAT
+4186	Yanda_Dom	nìŋ	n i ¹ ŋ	mat	natte	MAT
+4187	Yorno_So	sùgɔ́	s u ¹ ɡ ɔ ⁵	mat	natte	MAT
+4164	Bambara	dɛ̀bɛ́ⁿ	d ɛ ¹ b ɛ ⁵ ∼	palm-leaf mat	natte tressée (qu'on peut rouler)	MAT
+4165	Bangime	kɛ̀ɡɛ̀rɛ̀	k ɛ ¹ ɡ ɛ ¹ r ɛ ¹	mat	natte	MAT
+4167	Ben_Tey	kàrá	k a ¹ r a ⁵	mat	natte	MAT
+4169	Fulfulde	daago	d a a ɡ o	mat	natte	MAT
+4171	Jamsay	kàrá	k a ¹ r a ⁵	mat	natte	MAT
+4172	Jenaama	tàⁿ	t ã ¹ ∼	mat	natte	MAT
+4174	Najamba	ká:bú	k aː ⁵ b u ⁵	mat	natte	MAT
+4176	Penange	bí:ŋgò	b iː ⁵ ŋ ɡ o ¹	mat	natte	MAT
+4177	Perge_Tegu	sùgɔ́	s u ¹ ɡ ɔ ⁵	mat	natte	MAT
+4178	Songhai_Senni	tèŋgèrò	t e ¹ ŋ ɡ e ¹ r o ¹	palm-leaf mat	natte en feuilles de palmier	MAT
+4179	Songhai_Kiini	tèŋgírì	t e ¹ ŋ ɡ i ⁵ r i ¹	mat	natte	MAT
+4181	Tebul_Ure	nìŋgé	n i ¹ + ŋ ɡ e ⁵	mat	natte	MAT
+4182	Tiranige_Diga	bí:ŋgó	b iː ⁵ ŋ ɡ o ⁵	mat	natte	MAT
+4183	Togo_Kan	sùgɔ́	s u ¹ ɡ ɔ ⁵	mat	natte	MAT
+4184	Tommo_So	ǹjó	n ¹ dʒ o ⁵	mat	natte	MAT
+4173	Mombo	kágà	k a ⁵ ɡ a ¹	mat	natte	MAT
+#
+4212	Bambara	sogo	s o ɡ o	meat	viande	MEAT
+4213	Bangime	ŋàwⁿ	ŋ a ¹ w̃ ∼	meat	viande	MEAT
+4214	Bankan_Tey	nàmâ:	n a ¹ m aː ⁵¹	meat	viande	MEAT
+4215	Ben_Tey	nàwⁿâ:	n a ¹ w̃ ∼ aː ⁵¹	meat	viande	MEAT
+4216	Bunoge	námà	n a ⁵ m a ¹	meat	viande	MEAT
+4217	Fulfulde	teew	t e e w	meat	viande	MEAT
+4219	Jamsay	nɔ̀wⁿɔ́	n ɔ ¹ w̃ ∼ ɔ ⁵	meat	viande	MEAT
+4220	Jenaama	tō	t o ³	meat	viande	MEAT
+4221	Mombo	námà	n a ⁵ m a ¹	meat	viande	MEAT
+4222	Najamba	nàmâ:	n a ¹ m aː ⁵¹	meat	viande	MEAT
+4223	Nanga	nàmâ	n a ¹ m a ⁵¹	meat	viande	MEAT
+4224	Penange	nàmà	n a ¹ m a ¹	meat	viande	MEAT
+4225	Perge_Tegu	nàwⁿá	n a ¹ w̃ ∼ a ⁵	meat	viande	MEAT
+4226	Songhai_Kiini	hâm	h a ⁵¹ m	meat	viande	MEAT
+4227	Songhai_Senni	hámó	h a ⁵ m o ⁵	meat, flesh	viande, chair	MEAT
+4229	Tebul_Ure	nàmá	n a ¹ m a ⁵	meat	viande	MEAT
+4230	Tiranige_Diga	námá	n a ⁵ m a ⁵	meat	viande	MEAT
+4231	Togo_Kan	nɔ̀wⁿɔ́	n ɔ ¹ w̃ ∼ ɔ ⁵	meat	viande	MEAT
+4232	Tommo_So	nàmá	n a ¹ m a ⁵	meat	viande	MEAT
+4233	Toro_Tegu	nàwⁿá	n a ¹ w̃ ∼ a ⁵	meat	viande	MEAT
+4234	Yanda_Dom	nàmà	n a ¹ m a ¹	meat	viande	MEAT
+4235	Yorno_So	nàwⁿá	n a ¹ w̃ ∼ a ⁵	meat	viande	MEAT
+#
+4284	Ben_Tey	yû:	j uː ⁵¹	millet	mil	MILLET
+4285	Bunoge	sé:-ŋgè	s eː ⁵ + ŋ ɡ e ¹	millet	mil	MILLET
+4286	Fulfulde	gawri	ɡ a w r i	millet	mil	MILLET
+4288	Jamsay	ɲú:	ɲ uː ⁵	millet	mil	MILLET
+4289	Jenaama	pīⁿ	p i ³ ∼	millet	mil	MILLET
+4290	Mombo	sé:-ŋgè	s eː ⁵ + ŋ ɡ e ¹	millet	mil	MILLET
+4291	Najamba	yó-ŋgó	j o ⁵ + ŋ ɡ o ⁵	millet	mil	MILLET
+4292	Nanga	yû:	j uː ⁵¹	millet	mil	MILLET
+4293	Penange	sè:ŋgè	s eː ¹ + ŋ ɡ e ¹	millet	mil	MILLET
+4294	Perge_Tegu	yú:	j uː ⁵	millet	mil	MILLET
+4295	Songhai_Senni	hèynò	h e ¹ j n o ¹	cultivated millet	mil cultivé	MILLET
+4296	Songhai_Kiini	hàynì	h a ¹ j n i ¹	millet	mil	MILLET
+4298	Tebul_Ure	yɔ́	j ɔ ⁵	millet	mil	MILLET
+4299	Tiranige_Diga	yò:-gè	j oː ¹ + ɡ e ¹	millet	mil	MILLET
+4300	Togo_Kan	ɲú:	ɲ uː ⁵	millet	mil	MILLET
+4301	Tommo_So	yúú	j uː ⁵	millet	mil	MILLET
+4302	Toro_Tegu	yú	j u ⁵	millet	mil	MILLET
+4303	Yanda_Dom	yú:	j uː ⁵	millet	mil	MILLET
+4304	Yorno_So	yǔ:	j uː ¹⁵	millet	mil	MILLET
+4282	Bangime	dɛ́mɛ̀	d ɛ ⁵ m ɛ ¹	millet	mil	MILLET
+4283	Bankan_Tey	yû:	j uː ⁵¹	millet	mil	MILLET
+#
+4309	Bambara	cíyè	tʃ i ⁵ j e ¹	money	argent	MONEY
+4310	Bangime	tɔ́wⁿ	t ɔ ⁵ w̃ ∼	money	argent	MONEY
+4311	Bankan_Tey	kɛ̀rɛ̂y	k ɛ ¹ r ɛ ¹⁵ j	money, currency, cash	argent, devises	MONEY
+4312	Ben_Tey	cɛ̀rɛ̂y	tʃ ɛ ¹ r ɛ ¹⁵ j	money, currency, cash	argent, devises	MONEY
+4313	Bunoge	tɔ̀ndígè	t ɔ ¹ n d i ⁵ ɡ e ¹	money, currency, cash	argent, devises	MONEY
+4315	Fulfulde	kaalisi	k a a l i s i	money	argent	MONEY
+4317	Jamsay	bú:dù	b uː ⁵ d u ¹	money, currency, cash	argent, devises	MONEY
+4318	Jenaama	wálɛ̄wⁿ	w a ⁵ l ɛ ³ w̃ ∼	money	argent	MONEY
+4319	Mombo	bú:rù	b uː ⁵ r u ¹	money, currency, cash	argent, devises	MONEY
+4320	Najamba	kèlû:	k e ¹ l uː ⁵¹	money, currency, cash	argent, devises	MONEY
+4321	Nanga	kɛ̌:rɛ̂	k ɛː ¹⁵ r ɛ ¹⁵	money, currency, cash	argent, devises	MONEY
+4322	Penange	wálé	w a ⁵ l e ⁵	money, currency, cash	argent, devises	MONEY
+4323	Perge_Tegu	bú:dù	b uː ⁵ d u ¹	money, currency, cash	argent, devises	MONEY
+4324	Songhai_Kiini	lɔ̀wrú	l ɔ ¹ w r u ⁵	cowry shells; money	cauris; argent (devises)	MONEY
+4325	Songhai_Senni	nò:rò	n oː ¹ r o ¹	money, cash; (silver) coins	argent; pièces (en argent)	MONEY
+4326	Tebul_Ure	bú:dù	b uː ⁵ d u ¹	money, currency, cash	argent, devises	MONEY
+4327	Tiranige_Diga	cɛ́lɛ́ŋgɛ́	tʃ ɛ ⁵ l ɛ ⁵ ŋ ɡ ɛ ⁵	money, currency, cash	argent, devises	MONEY
+4328	Togo_Kan	bú:dú	b uː ⁵ d u ⁵	money, currency, cash	argent, devises	MONEY
+4329	Tommo_So	búùdù	b u ⁵ u ¹ d u ¹	money, currency, cash	argent, devises	MONEY
+4330	Toro_Tegu	cárdì	tʃ a ⁵ r d i ¹	money, currency, cash	argent, devises	MONEY
+4331	Yanda_Dom	bú:dù	b uː ⁵ d u ¹	money, currency, cash	argent, devises	MONEY
+4332	Yorno_So	bú:dù	b uː ⁵ d u ¹	money, currency, cash	argent, devises	MONEY
+#
+4335	Bambara	káló	k a ⁵ l o ⁵	moon	lune, mois	MOON
+4336	Bangime	ɥìyɛ̀	ɥ i ¹ j ɛ ¹	moon	lune	MOON
+4337	Bankan_Tey	wǎ:	w aː ¹⁵	moon	lune	MOON
+4338	Ben_Tey	ùwɔ́	u ¹ w ɔ ⁵	moon	lune	MOON
+4339	Bunoge	yá: sìmà	j aː ⁵ _ s i ¹ m a ¹	moon	lune	MOON
+4341	Fulfulde	lewru	l e w r u	moon	lune	MOON
+4342	Jamsay	ɛ̌:	ɛː ¹⁵	moon	lune	MOON
+4343	Mombo	wɛ̂:	w ɛː ⁵¹	moon	lune	MOON
+4344	Najamba	sà:gé	s aː ¹ ɡ e ⁵	moon	lune	MOON
+4345	Nanga	wǎ:	w aː ¹⁵	moon	lune	MOON
+4346	Penange	wɛ̀:	w ɛː ¹	moon	lune	MOON
+4347	Perge_Tegu	ɛ̌:	ɛː ¹⁵	moon	lune	MOON
+4348	Songhai_Kiini	hàndú	h a ¹ n d u ⁵	moon; month	lune; mois	MOON
+4349	Songhai_Senni	hàndò	h a ¹ n d o ¹	moon; month	lune; mois	MOON
+4351	Tebul_Ure	swǎ:	s w aː ¹⁵	moon	lune	MOON
+4352	Tiranige_Diga	éŋání	e ⁵ ŋ a ⁵ n i ⁵	moon	lune	MOON
+4353	Togo_Kan	ɔ̌:	ɔː ¹⁵	moon	lune	MOON
+4354	Tommo_So	ììyɛ́	iː ¹ j ɛ ⁵	moon	lune	MOON
+4355	Toro_Tegu	ìwá	i ¹ w a ⁵	moon	lune	MOON
+4356	Yanda_Dom	swà:	s w aː ¹	moon	lune	MOON
+4357	Yorno_So	yè: píl	j eː ¹ _ p i ⁵ l	moon	lune	MOON
+#
+4434	Bankan_Tey	mbǔ:	m b uː ¹⁵	mouth	bouche	MOUTH
+4435	Ben_Tey	mǒ:	m oː ¹⁵	mouth	bouche	MOUTH
+4436	Bunoge	tònì	t o ¹ n i ¹	mouth	bouche	MOUTH
+4438	Fulfulde	hunduko	h u n d u k o	mouth	bouche	MOUTH
+4441	Mombo	dónì	d o ⁵ n i ¹	mouth	bouche	MOUTH
+4442	Najamba	ìbí-ŋgé	i ¹ b i ⁵ + ŋ ɡ e ⁵	mouth	bouche	MOUTH
+4443	Nanga	nɔ̌:	n ɔː ¹⁵	mouth	bouche	MOUTH
+4445	Perge_Tegu	ká:	k aː ⁵	mouth	bouche	MOUTH
+4449	Tebul_Ure	m̀bùgɔ́	m ¹ b u ¹ ɡ ɔ ⁵	mouth	bouche	MOUTH
+4453	Toro_Tegu	ká	k a ⁵	mouth	bouche	MOUTH
+4454	Yanda_Dom	cɛ́nɛ́	tʃ ɛ ⁵ n ɛ ⁵	mouth	bouche	MOUTH
+4433	Bangime	nɔ̀wⁿ	n ɔ ¹ w̃ ∼	mouth; edge	bouche; bord	MOUTH
+4432	Bambara	dábárá	d a ⁵ b a ⁵ r a ⁵	mouth	bouche	MOUTH
+4439	Jamsay	ká:	k aː ⁵	mouth; (any) orifice or gateway, door	bouche	MOUTH
+4444	Penange	dòn	d o ¹ n	mouth	bouche	MOUTH
+4446	Songhai_Kiini	míyⁿɛ̀	m i ⁵ j ∼ ɛ ¹	mouth	bouche	MOUTH
+4447	Songhai_Senni	míyⁿó	m i ⁵ j ∼ o ⁵	mouth; (any) orifice or gateway, door	bouche; porte, orifice	MOUTH
+4450	Tiranige_Diga	ɔ̀mɔ̀	ɔ ¹ m ɔ ¹	mouth	bouche	MOUTH
+4451	Togo_Kan	káⁿ	k ã ⁵ ∼	mouth	bouche	MOUTH
+4452	Tommo_So	kɛ̀nnɛ́	k ɛ ¹ n n ɛ ⁵	mouth	bouche	MOUTH
+4455	Yorno_So	kɛ̀nɛ́	k ɛ ¹ n ɛ ⁵	mouth	bouche	MOUTH
+4440	Jenaama	lɔ̄gū	l ɔ ³ ɡ u ³	mouth; edge	bouche; bord	MOUTH
+#
+4461	Bambara	tɔɡɔ	t ɔ ɡ ɔ	name	nom	NAME
+4462	Bangime	nīì	n iː ³¹	name	nom	NAME
+4463	Bankan_Tey	ŋìnnî:	ŋ i ¹ n n iː ⁵¹	personal name	nom personnel	NAME
+4464	Ben_Tey	ìnìrⁿî:	i ¹ n i ¹ r̃ ∼ iː ⁵¹	personal name	nom personnel	NAME
+4465	Bunoge	ʔìnì	ʔ i ¹ n i ¹	personal name	nom personnel	NAME
+4467	Fulfulde	innde	i n n d e	name	nom	NAME
+4469	Jamsay	bón	b o ⁵ n	personal name	nom personnel	NAME
+4470	Jenaama	tíbɛ̄wⁿ	t i ⁵ b ɛ ³ w̃ ∼	name	nom	NAME
+4471	Mombo	íní	i ⁵ n i ⁵	personal name	nom personnel	NAME
+4472	Najamba	ín èn	i ⁵ n _ e ¹ n	personal name	nom personnel	NAME
+4473	Nanga	ǹnèrⁿî	n ¹ n e ¹ r̃ ∼ i ⁵¹	personal name	nom personnel	NAME
+4474	Penange	ùnù	u ¹ n u ¹	personal name	nom personnel	NAME
+4475	Perge_Tegu	sórⁿú	s o ⁵ r̃ ∼ u ⁵	personal name	nom personnel	NAME
+4476	Songhai_Senni	mâ:	m aː ⁵¹	name; fame, reputation	nom; renommée	NAME
+4477	Songhai_Kiini	màá	m aː ¹⁵	name	nom	NAME
+4479	Tebul_Ure	bóngó	b o ⁵ n ɡ o ⁵	personal name	nom personnel	NAME
+4480	Tiranige_Diga	ìnì	i ¹ n i ¹	personal name	nom personnel	NAME
+4481	Togo_Kan	bɔ́ⁿ	b ɔ̃ ⁵ ∼	personal name	nom personnel	NAME
+4482	Tommo_So	bóy	b o ⁵ j	personal name	nom personnel	NAME
+4483	Toro_Tegu	ìsǒŋ	i ¹ s o ¹⁵ ŋ	personal name	nom personnel	NAME
+4484	Yanda_Dom	ín	i ⁵ n	personal name	nom personnel	NAME
+4486	Yorno_So	bôy	b o ⁵¹ j	personal name	nom personnel	NAME
+#
+4575	Bambara	kúrá	k u ⁵ r a ⁵	new	nouveau	NEW
+4576	Bangime	kárá	k a ⁵ r a ⁵	new	nouveau	NEW
+4578	Ben_Tey	kálà	k a ⁵ l a ¹	new	nouveau	NEW
+4579	Fulfulde	hesu-de	h e s u + d e	new	nouveau	NEW
+4581	Jamsay	kàná	k a ¹ n a ⁵	new	nouveau	NEW
+4582	Jenaama	tōē	t o ³ e ³	new	nouveau	NEW
+4584	Najamba	kàndǎ:	k a ¹ n d aː ¹⁵	new	nouveau	NEW
+4585	Nanga	kándà	k a ⁵ n d a ¹	new	nouveau	NEW
+4586	Penange	kàndà	k a ¹ n d a ¹	new	nouveau	NEW
+4587	Perge_Tegu	kàlá	k a ¹ l a ⁵	new	nouveau	NEW
+4588	Songhai_Kiini	tàw	t a ¹ w	new	nouveau	NEW
+4590	Tebul_Ure	kàndá	k a ¹ n d a ⁵	new	nouveau	NEW
+4591	Tiranige_Diga	kándá	k a ⁵ n d a ⁵	new	nouveau	NEW
+4592	Togo_Kan	kàná	k a ¹ n a ⁵	new	nouveau	NEW
+4593	Tommo_So	kàndá	k a ¹ n d a ⁵	new	nouveau	NEW
+4594	Toro_Tegu	kàlá	k a ¹ l a ⁵	new	nouveau	NEW
+4596	Yorno_So	kàná	k a ¹ n a ⁵	new	nouveau	NEW
+4577	Bankan_Tey	kándà	k a ⁵ n d a ¹	new	nouveau	NEW
+4583	Mombo	kándá	k a ⁵ n d a ⁵	new	nouveau	NEW
+4595	Yanda_Dom	kàndà	k a ¹ n d a ¹	new	nouveau	NEW
+#
+4601	Bambara	sú	s u ⁵	night	nuit, soir (à partir de la venue de l'obscurité)	NIGHT
+4602	Bangime	yììyè	j iː ¹ j e ¹	night	nuit	NIGHT
+4603	Bankan_Tey	ɲân	ɲ a ⁵¹ n	night	nuit	NIGHT
+4604	Ben_Tey	ɲárⁿù	ɲ a ⁵ r̃ ∼ u ¹	night	nuit	NIGHT
+4606	Fulfulde	jemma	dʒ e m m a	night	nuit	NIGHT
+4615	Songhai_Senni	kígínó	k i ⁵ ɡ i ⁵ n o ⁵	night	nuit	NIGHT
+4624	Yorno_So	dìgɛ́	d i ¹ ɡ ɛ ⁵	night	nuit	NIGHT
+4608	Jamsay	dà:ɣá	d aː ¹ ɣ a ⁵	night	nuit	NIGHT
+4609	Jenaama	wùùtīnā	w uː ¹ t i ³ n a ³	night	nuit	NIGHT
+4614	Perge_Tegu	dɛ̀:gɛ́	d ɛː ¹ ɡ ɛ ⁵	night	nuit	NIGHT
+4616	Songhai_Kiini	kíyɔ̂ⁿ	k i ⁵ j ɔ̃ ⁵¹ ∼	night	nuit	NIGHT
+4618	Tebul_Ure	dɛ̀ndɛ́	d ɛ ¹ n d ɛ ⁵	night	nuit	NIGHT
+4621	Tommo_So	yáŋá	j a ⁵ ŋ a ⁵	night	nuit	NIGHT
+4610	Mombo	dó:	d oː ⁵	night	nuit	NIGHT
+4611	Najamba	ɲám	ɲ a ⁵ m	night	nuit	NIGHT
+4612	Nanga	dɛ̀:ndɛ̂	d ɛː ¹ n d ɛ ¹⁵	night	nuit	NIGHT
+4613	Penange	dógó	d o ⁵ ɡ o ⁵	night	nuit	NIGHT
+4619	Tiranige_Diga	yà:gù	j aː ¹ ɡ u ¹	night	nuit	NIGHT
+4620	Togo_Kan	dà:gá	d aː ¹ ɡ a ⁵	night	nuit	NIGHT
+4622	Toro_Tegu	yⁿà:ŋá	j ∼ aː ¹ ŋ a ⁵	night	nuit	NIGHT
+4623	Yanda_Dom	dèndà:	d e ¹ n d aː ¹	night	nuit	NIGHT
+#
+4630	Bankan_Tey	tè:sú-m	t eː ¹ s u ⁵ + m	nine	neuf (numéro)	NINE
+4634	Fulfulde	jeenay	dʒ e e n a j	nine	neuf (numéro)	NINE
+4636	Jamsay	lá:rúwà	l aː ⁵ r u ⁵ w a ¹	nine	neuf (numéro)	NINE
+4637	Jenaama	kàpì	k a ¹ p i ¹	nine	neuf (numéro)	NINE
+4638	Mombo	tó:wà	t oː ⁵ w a ¹	nine	neuf (numéro)	NINE
+4639	Najamba	twây	t w a ⁵¹ j	nine	neuf (numéro)	NINE
+4640	Nanga	tè:sǐ:	t eː ¹ s iː ¹⁵	nine	neuf (numéro)	NINE
+4641	Penange	tò:wà	t oː ¹ w a ¹	nine	neuf (numéro)	NINE
+4642	Perge_Tegu	lá:rwà	l aː ⁵ r w a ¹	nine	neuf (numéro)	NINE
+4643	Songhai_Kiini	à-fɔ́:-sí: à-wóy	a ¹ + f ɔː + s iː ⁵ _ a ¹ + w o ⁵ j	nine	neuf (numéro)	NINE
+4644	Songhai_Senni	yággâ	j a ⁵ ɡ ɡ a ⁵¹	nine	neuf (9).	NINE
+4646	Tebul_Ure	gà gárà-bà	ɡ a ¹ _ ɡ a ⁵ r a ¹ + b a ¹	nine	neuf (numéro)	NINE
+4647	Tiranige_Diga	tó:wá	t oː ⁵ w a ⁵	nine	neuf (numéro)	NINE
+4648	Togo_Kan	tùwâ:	t u ¹ w aː ⁵¹	nine	neuf (numéro)	NINE
+4649	Tommo_So	túwwɔ́	t u ⁵ w w ɔ ⁵	nine	neuf (numéro)	NINE
+4650	Toro_Tegu	lá:rà	l aː ⁵ r a ¹	nine	neuf (numéro)	NINE
+4651	Yanda_Dom	twâ:	t w aː ⁵¹	nine	neuf (numéro)	NINE
+4652	Yorno_So	tùwɔ́	t u ¹ w ɔ ⁵	nine	neuf (numéro)	NINE
+4628	Bambara	kɔ̀nɔ̀ⁿtɔ́ⁿ	k ɔ ¹ n ɔ ¹ ∼ t ɔ̃ ⁵ ∼	night	neuf	NINE
+4629	Bangime	tɛ̀ɡɔ̀	t ɛ ¹ ɡ ɔ ¹	nine	neuf (numéro)	NINE
+4631	Ben_Tey	tè:sǐ-m	t eː ¹ s i ¹⁵ + m	nine	neuf (numéro)	NINE
+4632	Bunoge	tó:wà	t oː ⁵ w a ¹	nine	neuf (numéro)	NINE
+#
+4685	Fulfulde	hinere	h i n e r e	nose	nez	NOSE
+4687	Jamsay	círⁿé	tʃ i ⁵ r̃ ∼ e ⁵	nose	nez	NOSE
+4692	Penange	kìmjà	k i ¹ m dʒ a ¹	nose	nez	NOSE
+4697	Tebul_Ure	cíné	tʃ i ⁵ n e ⁵	nose	nez	NOSE
+4680	Bambara	núⁿ	n ũ ⁵ ∼	nose	nez	NOSE
+4681	Bangime	sùmbì	s u ¹ m b i ¹	nose	nez	NOSE
+4682	Bankan_Tey	círⁿè	tʃ i ⁵ r̃ ∼ e ¹	nose	nez	NOSE
+4683	Ben_Tey	círⁿì	tʃ i ⁵ r̃ ∼ i ¹	nose	nez	NOSE
+4684	Bunoge	kìnà	k i ¹ n a ¹	nose	nez	NOSE
+4688	Jenaama	ɲīmīnà	ɲ i ³ m i ³ n a ¹	nose	nez	NOSE
+4689	Mombo	kínjà	k i ⁵ n dʒ a ¹	nose	nez	NOSE
+4690	Najamba	kìnjâ:	k i ¹ n dʒ aː ⁵¹	nose	nez	NOSE
+4691	Nanga	kírⁿê	k i ⁵ r̃ ∼ e ⁵¹	nose	nez	NOSE
+4693	Perge_Tegu	kírⁿé	k i ⁵ r̃ ∼ e ⁵	nose	nez	NOSE
+4694	Songhai_Senni	nì:nè	n iː ¹ n e ¹	nose	nez	NOSE
+4695	Songhai_Kiini	nì:nɛ̀	n iː ¹ n ɛ ¹	nose	nez	NOSE
+4698	Tiranige_Diga	cínjɔ́	tʃ i ⁵ n dʒ ɔ ⁵	nose	nez	NOSE
+4699	Togo_Kan	kírⁿí	k i ⁵ r̃ ∼ i ⁵	nose	nez	NOSE
+4700	Tommo_So	kínú	k i ⁵ n u ⁵	nose	nez	NOSE
+4701	Toro_Tegu	cìrⁿò ká	tʃ i ¹ r̃ ∼ o ¹ _ k a ⁵	nose	nez	NOSE
+4702	Yanda_Dom	cìnzà	tʃ i ¹ n z a ¹	nose	nez	NOSE
+4703	Yorno_So	kín	k i ⁵ n	nose	nez	NOSE
+#
+4779	Bunoge	tó:lè	t oː ⁵ l e ¹	one	un	ONE
+4781	Fulfulde	go'o	ɡ o ʔⁿ o	one	un	ONE
+4783	Jenaama	kéẁⁿ	k e ⁵ w̃ ¹ ∼	one	un	ONE
+4784	Mombo	yɛ̀: tá:ŋgù	j ɛː ¹ _ t aː ⁵ ŋ ɡ u ¹	one	un	ONE
+4785	Najamba	kúndé	k u ⁵ n d e ⁵	one	un	ONE
+4787	Penange	tà:ŋgà	t aː ¹ ŋ ɡ a ¹	one	un	ONE
+4788	Perge_Tegu	túrú	t u ⁵ r u ⁵	one	un	ONE
+4789	Songhai_Senni	fó:	f oː ⁵	one;	un; l’un	ONE
+4791	Tebul_Ure	túrɛ̀:	t u ⁵ r ɛː ¹	one	un	ONE
+4794	Tommo_So	túrú	t u ⁵ r u ⁵	one	un	ONE
+4795	Toro_Tegu	túrú	t u ⁵ r u ⁵	one	un	ONE
+4796	Yanda_Dom	tùmá	t u ¹ m a ⁵	one	un	ONE
+4797	Yorno_So	túrú	t u ⁵ r u ⁵	one	un	ONE
+4792	Tiranige_Diga	tò:mà	t oː ¹ m a ¹	one	un	ONE
+4786	Nanga	tùmâ	t u ¹ m a ⁵¹	one	un	ONE
+4790	Songhai_Kiini	fɔ́:	f ɔː	one, a certain; (the/an) other one	un	ONE
+4793	Togo_Kan	túrú	t u ⁵ r u ⁵	one	un	ONE
+4782	Jamsay	túrú	t u ⁵ r u ⁵	one	un	ONE
+4776	Bangime	tòrè	t o ¹ r e ¹	one	un	ONE
+4777	Bankan_Tey	tùmá	t u ¹ m a ⁵	one	un	ONE
+4778	Ben_Tey	tùwⁿɔ́	t u ¹ w̃ ∼ ɔ ⁵	one	un	ONE
+#
+4907	Songhai_Kiini	fòndô	f o ¹ n d o ⁵¹	road, path	chemin, route	PATH OR ROAD
+4891	Bambara	sírá	s i ⁵ r a ⁵	road, path	route, chemin, passage, voie	PATH OR ROAD
+4897	Fulfulde	laawol	l a a w o l	road, path	chemin	PATH OR ROAD
+4899	Jamsay	ójú	o ⁵ dʒ u ⁵	road, path	chemin, route	PATH OR ROAD
+4900	Jenaama	sèwⁿ	s e ¹ w̃ ∼	road, path	chemin	PATH OR ROAD
+4901	Mombo	ójí	o ⁵ dʒ i ⁵	road, path	chemin, route	PATH OR ROAD
+4902	Najamba	ùs fɔ̌:	u ¹ s _ f ɔː ¹⁵	road, path	chemin, route	PATH OR ROAD
+4903	Nanga	ósî	o ⁵ s i ⁵¹	road, path	chemin, route	PATH OR ROAD
+4904	Penange	òjù	o ¹ dʒ u ¹	road, path	chemin, route	PATH OR ROAD
+4905	Perge_Tegu	ósú	o ⁵ s u ⁵	road, path	chemin	PATH OR ROAD
+4906	Songhai_Senni	fóndà:	f o ⁵ n d aː ¹	road, path	chemin, route	PATH OR ROAD
+4908	Tebul_Ure	òdù bá:	o ¹ d u ¹ _ b aː ⁵	road, path	chemin, route	PATH OR ROAD
+4909	Tiranige_Diga	òjì	o ¹ dʒ i ¹	road, path	chemin, route	PATH OR ROAD
+4910	Togo_Kan	ójú	o ⁵ dʒ u ⁵	road, path	chemin, route	PATH OR ROAD
+4911	Tommo_So	ódú	o ⁵ d u ⁵	road, path	chemin, route	PATH OR ROAD
+4912	Toro_Tegu	ósú	o ⁵ s u ⁵	road, path	chemin, route	PATH OR ROAD
+4913	Yanda_Dom	ózú	o ⁵ z u ⁵	road, path	chemin, route	PATH OR ROAD
+4914	Yorno_So	ójú	o ⁵ dʒ u ⁵	road, path	chemin, route	PATH OR ROAD
+4892	Bangime	yɛ̀mbɛ̀	j ɛ ¹ m b ɛ ¹	road, path	chemin	PATH OR ROAD
+4894	Ben_Tey	ósù	o ⁵ s u ¹	road, path	chemin, route	PATH OR ROAD
+4895	Bunoge	ʔòjì	ʔ o ¹ dʒ i ¹	road, path	chemin, route	PATH OR ROAD
+4893	Bankan_Tey	ósù	o ⁵ s u ¹	road, path	chemin	PATH OR ROAD
+#
+4939	Bambara	mɔ̀gɔ́	m ɔ ¹ ɡ ɔ ⁵	beautiful thing or person	être humain, homme, personne	PERSON
+4940	Bangime	yìbɛ̀	j i ¹ b ɛ ¹	person	personne	PERSON
+4941	Bankan_Tey	ìndà-ró	i ¹ n d a ¹ + r o ⁵	person, human being	personne	PERSON
+4942	Ben_Tey	àsùmǎ-m	a ¹ s u ¹ m a ¹⁵ + m	person, human being	personne	PERSON
+4943	Bunoge	nǔm	n u ¹⁵ m	person, human being	personne	PERSON
+4944	Fulfulde	neɗɗo	n e ɗ ɗ o	person	personne	PERSON
+4946	Jamsay	ínén	i ⁵ n e ⁵ n	person	personne	PERSON
+4947	Jenaama	ɲīmī	ɲ i ³ m i ³	person	personne	PERSON
+4948	Mombo	ìnɛ́	i ¹ n ɛ ⁵	person, human being	personne	PERSON
+4949	Najamba	nǒ:	n oː ¹⁵	person, human being	personne	PERSON
+4950	Nanga	ínén	i ⁵ n e ⁵ n	person, human being	personne	PERSON
+4951	Penange	ntá	n t a ⁵	person, human being	personne	PERSON
+4952	Perge_Tegu	ínérⁿú	i ⁵ n e ⁵ r̃ ∼ u ⁵	person, human being	personne	PERSON
+4953	Songhai_Senni	mù:l íyà	m uː ¹ l _ i ⁵ j a ¹	beautiful thing or person	chose ou personne jolie	PERSON
+4955	Tebul_Ure	nǔ:	n uː ¹⁵	person, human being	personne	PERSON
+4956	Tiranige_Diga	ndà:	n d aː ¹	person, human being	personne	PERSON
+4957	Togo_Kan	ɲě	ɲ e ¹⁵	person, human being	personne	PERSON
+4958	Tommo_So	ńdɛ́	n ⁵ d ɛ ⁵	person, human being	personne	PERSON
+4959	Toro_Tegu	nǎ	n a ¹⁵	person, human being	personne	PERSON
+4960	Yanda_Dom	nù-rⁿú	n u ¹ + r̃ ∼ u ⁵	person, human being	personne	PERSON
+4961	Yorno_So	nò	n o ¹	person, human being	personne	PERSON
+#
+4969	Ben_Tey	tàlâ-y	t a ¹ l a ⁵¹ + j	pestle (for pounding in a mortar)	pilon (à piler dans un mortier)	PESTLE
+4966	Bambara	kólóⁿ kálá	k o ⁵ l õ ⁵ ∼ _ k a ⁵ l a ⁵	pestle	pilon	PESTLE
+4968	Bankan_Tey	tàndâ-y	t a ¹ n d a ⁵¹ + j	pestle (for pounding in a mortar)	pilon (à piler dans un mortier)	PESTLE
+4970	Bunoge	dɔ́:bè	d ɔː b e ¹	pestle (for pounding in a mortar)	pilon (à piler dans un mortier)	PESTLE
+4977	Najamba	tùmàndô:	t u ¹ m a ¹ n d oː ⁵¹	pestle (for pounding in a mortar)	pilon (à piler dans un mortier)	PESTLE
+4979	Penange	dɔ̀:wê:	d ɔː ¹ w eː ⁵¹	pestle (for pounding in a mortar)	pilon (à piler dans un mortier)	PESTLE
+4981	Songhai_Kiini	hìŋgísè	h i ¹ ŋ ɡ i ⁵ s e ¹	pestle	pilon	PESTLE
+4982	Songhai_Senni	hìŋgò	h i ¹ ŋ ɡ o ¹	(long wooden) pestle	pilon	PESTLE
+4985	Tiranige_Diga	túŋgú bě:	t u ⁵ ŋ ɡ u ⁵ _ b eː ¹⁵	pestle (for pounding in a mortar)	pilon (à piler dans un mortier)	PESTLE
+4986	Togo_Kan	dɔ̌yⁿ	d ɔ ¹⁵ j ∼	pestle (for pounding in a mortar)	pilon (à piler dans un mortier)	PESTLE
+4987	Tommo_So	kúy	k u ⁵ j	pestle (for pounding in a mortar)	pilon (à piler dans un mortier)	PESTLE
+4988	Toro_Tegu	bɔ̀nɔ̀	b ɔ ¹ n ɔ ¹	pestle (for pounding in a mortar)	pilon (à piler dans un mortier)	PESTLE
+4989	Yanda_Dom	kǔnyè	k u ¹⁵ n j e ¹	pestle (for pounding in a mortar)	pilon (à piler dans un mortier)	PESTLE
+4990	Yorno_So	kùyî:	k u ¹ j iː ⁵¹	pestle (for pounding in a mortar)	pilon (à piler dans un mortier)	PESTLE
+4980	Perge_Tegu	mòtî:ⁿ	m o ¹ t ĩː ⁵¹ ∼	pestle (for pounding in a mortar)	pilon (à piler dans un mortier)	PESTLE
+4974	Jamsay	màtî:ⁿ	m a ¹ t ĩː ⁵¹ ∼	pestle (for pounding in a mortar)	pilon (à piler dans un mortier)	PESTLE
+4976	Mombo	dɔ̌y	d ɔ ¹⁵ j	pestle (for pounding in a mortar)	pilon (à piler dans un mortier)	PESTLE
+4967	Bangime	kùwⁿɛ̀ɛ̀	k u ¹ w̃ ∼ ɛː ¹	pestle	pilon	PESTLE
+4975	Jenaama	bànjēwⁿ	b a ¹ n dʒ e ³ w̃ ∼	pestle	pilon	PESTLE
+4978	Nanga	tàrⁿì yɛ̀rⁿî	t a ¹ r̃ ∼ i ¹ _ j ɛ ¹ r̃ ∼ i ⁵¹	pestle (for pounding in a mortar)	pilon (à piler dans un mortier)	PESTLE
+4984	Tebul_Ure	tìníyɛ́	t i ¹ n i ⁵ j ɛ ⁵	pestle (for pounding in a mortar)	pilon (à piler dans un mortier)	PESTLE
+4972	Fulfulde	undugal	u n d u ɡ a l	pestle	pilon	PESTLE
+#
+5259	Bankan_Tey	bàrⁿâyⁿ	b a ¹ r̃ ∼ a ⁵¹ j ∼	red (including brown and orange)	rouge, brun	RED
+5277	Tommo_So	bánú	b a ⁵ n u ⁵	red (including brown and orange)	rouge, brun	RED
+5278	Toro_Tegu	bárⁿú	b a ⁵ r̃ ∼ u ⁵	red (including brown and orange)	rouge, brun	RED
+5279	Yanda_Dom	bǎn	b a ¹⁵ n	red (including brown and orange)	rouge, brun	RED
+5280	Yorno_So	bán	b a ⁵ n	red (including brown and orange)	rouge, brun	RED
+5262	Fulfulde	boɗee-jo	b o ɗ e e + dʒ o	red, brown	rouge, brun	RED
+5257	Bambara	bìlḛ̀-má̰	b i ¹ l e ¹ ∼ + m a ⁵ ∼	red (including brown and orange)	rouge, brun	RED
+5258	Bangime	búyɛ́	b u ⁵ j ɛ ⁵	red, brown	rouge, brun	RED
+5260	Ben_Tey	bárⁿàwⁿ	b a ⁵ r̃ ∼ a ¹ w̃ ∼	red (including brown and orange)	rouge, brun	RED
+5265	Jenaama	tōmōⁿ	t o ³ m o ∼ ³	red, brown	rouge, brun	RED
+5266	Mombo	búnú	b u ⁵ n u ⁵	red (including brown and orange)	rouge, brun	RED
+5267	Najamba	bánè	b a ⁵ n e ¹	red (including brown and orange)	rouge, brun	RED
+5268	Nanga	bárⁿí	b a ⁵ r̃ ∼ i ⁵	red (including brown and orange)	rouge, brun	RED
+5269	Penange	bɔ̀mbɛ̀	b ɔ ¹ m b ɛ ¹	red (including brown and orange)	rouge, brun	RED
+5270	Perge_Tegu	bárⁿú	b a ⁵ r̃ ∼ u ⁵	red (including brown and orange)	rouge, brun	RED
+5271	Songhai_Kiini	kírêy	k i ⁵ r e ⁵¹ j	red	rouge	RED
+5272	Songhai_Senni	kírêy	k i ⁵ r e ⁵¹ j	red	rouge	RED
+5274	Tebul_Ure	bárⁿɛ̀:	b a ⁵ r̃ ∼ ɛː ¹	red (including brown and orange)	rouge, brun	RED
+5275	Tiranige_Diga	búní	b u ⁵ n i ⁵	red (including brown and orange)	rouge, brun	RED
+5276	Togo_Kan	báⁿ	b ã ⁵ ∼	red (including brown and orange)	rouge, brun	RED
+5264	Jamsay	bán	b a ⁵ n	red, brown	rouge, brun	RED
+#
+5372	Bangime	yíyíì	j i ⁵ j iː ⁵¹	root	racine	ROOT
+5374	Ben_Tey	wé:rí	w eː ⁵ r i ⁵	root	racine	ROOT
+5380	Jenaama	pā	p a ³	root	racine	ROOT
+5381	Mombo	kágì	k a ⁵ ɡ i ¹	root	racine	ROOT
+5382	Najamba	wǒlŋgó	w o ¹⁵ l ŋ ɡ o ⁵	root	racine	ROOT
+5383	Nanga	wè:rî	w eː ¹ r i ⁵¹	root	racine	ROOT
+5384	Penange	dúl	d u ⁵ l	root	racine	ROOT
+5385	Perge_Tegu	ké:ŋgú	k eː ⁵ ŋ ɡ u ⁵	root	racine	ROOT
+5386	Songhai_Kiini	kǎ:y	k aː ¹⁵ j	root (of a plant)	racine (d’une plante)	ROOT
+5387	Songhai_Senni	lìŋgò	l i ¹ ŋ ɡ o ¹	blood vessel (vein, artery); tendon, sinew; root	vaisseau sanguin (veine, artère); tendon; racine.	ROOT
+5389	Tebul_Ure	díné	d i ⁵ n e ⁵	root	racine	ROOT
+5390	Tiranige_Diga	yìlìŋgè	j i ¹ l i ¹ + ŋ ɡ e ¹	root	racine	ROOT
+5391	Togo_Kan	bɔ̀rɔ̀ dí:	b ɔ ¹ r ɔ ¹ _ d iː ⁵	root	racine	ROOT
+5392	Tommo_So	wélú	w e ⁵ l u ⁵	root	racine	ROOT
+5393	Toro_Tegu	wóró	w o ⁵ r o ⁵	root	racine	ROOT
+5394	Yanda_Dom	dìlú	d i ¹ l u ⁵	root	racine	ROOT
+5395	Yorno_So	wél	w e ⁵ l	root	racine	ROOT
+5371	Bambara	dílí	d i ⁵ l i ⁵	root (of a tree)	racine	ROOT
+5373	Bankan_Tey	wòrú	w o ¹ r u ⁵	root	racine	ROOT
+5375	Bunoge	kàjè	k a ¹ dʒ e ¹	root	racine	ROOT
+5377	Fulfulde	ɗaɗol	ɗ a ɗ o l	root	racine	ROOT
+5379	Jamsay	bɔ̀rɔ̀ cé:ŋ	b ɔ ¹ r ɔ ¹ _ tʃ eː ⁵ ŋ	root (of a tree)	racine	ROOT
+#
+5469	Bambara	kɔ̀gɔ́	k ɔ ¹ ɡ ɔ ⁵	salt	sel	SALT
+5470	Bangime	ʤɛ́nʤɛ̄	dʒ ɛ ⁵ n dʒ ɛ ³	salt	sel	SALT
+5471	Bankan_Tey	nɛ̌-m	n ɛ ¹⁵ + m	salt	sel	SALT
+5472	Ben_Tey	nɛ̌-m	n ɛ ¹⁵ + m	salt	sel	SALT
+5473	Bunoge	kómúnù	k o ⁵ m u ⁵ n u ¹	salt	sel	SALT
+5475	Fulfulde	mbelɗam	m b e l ɗ a m	salt	sel	SALT
+5476	Jamsay	nɛ̌m	n ɛ ¹⁵ m	salt	sel	SALT
+5477	Jenaama	kùwɔ̀	k u ¹ w ɔ ¹	salt	sel	SALT
+5478	Mombo	nêwⁿ	n e ⁵¹ w̃ ∼	salt	sel	SALT
+5479	Najamba	nɛ̌mgó	n ɛ ¹⁵ m ɡ o ⁵	salt	sel	SALT
+5480	Nanga	nɛ̀:mí	n ɛː ¹ m i ⁵	salt	sel	SALT
+5481	Penange	nɛ̀m	n ɛ ¹ m	salt	sel	SALT
+5482	Perge_Tegu	nɛ̌m	n ɛ ¹⁵ m	salt	sel	SALT
+5483	Songhai_Senni	kìrò	k i ¹ r o ¹	salt	sel	SALT
+5484	Songhai_Kiini	kìrì	k i ¹ r i ¹	salt	sel	SALT
+5485	Tebul_Ure	nèmé	n e ¹ m e ⁵	salt	sel	SALT
+5486	Tiranige_Diga	nɛ́wⁿ	n ɛ ⁵ w̃ ∼	salt	sel	SALT
+5487	Togo_Kan	mɛ̌:	m ɛː ¹⁵	salt	sel	SALT
+5488	Tommo_So	nɛ̌m	n ɛ ¹⁵ m	salt	sel	SALT
+5489	Toro_Tegu	nɛ̌ŋ	n ɛ ¹⁵ ŋ	salt	sel	SALT
+5490	Yanda_Dom	nɛ̀m	n ɛ ¹ m	salt	sel	SALT
+5491	Yorno_So	nɛ̌m	n ɛ ¹⁵ m	salt	sel	SALT
+#
+5496	Bambara	cɛⁿ cɛⁿ	tʃ ɛ̃ ∼ _ tʃ ɛ̃ ∼	sand, sandy soil	sable/sand	SAND
+5497	Bangime	ɲíímbɛ̀	ɲ iː ⁵ m b ɛ ¹	sand	sable	SAND
+5498	Bankan_Tey	sùmbày bú:rù	s u ¹ m b a ¹ j _ b uː ⁵ r u ¹	sand, sandy soil	sable, sol sableux	SAND
+5499	Ben_Tey	sùmòy-sô:	s u ¹ m o ¹ j + s oː ⁵¹	sand, sandy soil	sable, sol sableux	SAND
+5500	Bunoge	só:njà	s oː ⁵ n dʒ a ¹	sand, sandy soil	sable, sol sableux	SAND
+5502	Fulfulde	njaareendi	n dʒ a a r e e n d i	sand	sable	SAND
+5504	Jamsay	sì sɔ̌m	s i ¹ _ s ɔ ¹⁵ m	sand, sandy soil	sable, sol sableux	SAND
+5505	Jenaama	sɔ̀ⁿ sɔ̀ⁿ	s ɔ ¹ ∼ _ s ɔ ¹ ∼	sand	sable	SAND
+5506	Mombo	sóyndà	s o ⁵ j n d a ¹	sand, sandy soil	sable, sol sableux	SAND
+5507	Najamba	sɔ̀ⁿn ɛ́ndɛ̀	s ɔ ¹ ∼ n _ ɛ ⁵ n d ɛ ¹	sand, sandy soil	sable, sol sableux	SAND
+5508	Nanga	sɔ̀:mbɔ̀ sɛ́:rⁿɛ̀	s ɔː ¹ m b ɔ ¹ _ s ɛː ⁵ r̃ ∼ ɛ ¹	sand, sandy soil	sable, sol sableux	SAND
+5509	Penange	sòyndà	s o ¹ j n d a ¹	sand, sandy soil	sable, sol sableux	SAND
+5510	Perge_Tegu	sù sǔm	s u ¹ _ s u ¹⁵ m	sand, sandy soil	sable, sol sableux	SAND
+5511	Songhai_Senni	dèy sàsò	d e ¹ j _ s a ¹ s o ¹	sand, sandy soil	sable, terrain sablonneux	SAND
+5512	Songhai_Kiini	dám dá:sú	d a ⁵ m _ d aː ⁵ s u ⁵	sand	sable	SAND
+5514	Tebul_Ure	sɔ̀l mɔ́	s ɔ ¹ l _ m ɔ ⁵	sand, sandy soil	sable, sol sableux	SAND
+5515	Tiranige_Diga	síyɔ́wⁿ	s i ⁵ j ɔ ⁵ w̃ ∼	sand, sandy soil	sable, sol sableux	SAND
+5516	Togo_Kan	sɔ̀ⁿ sɔ̀nɔ́	s ɔ ¹ ∼ _ s ɔ ¹ n ɔ ⁵	sand, sandy soil	sable, terrain sablonneux	SAND
+5517	Tommo_So	sɔ̀l ùmɔ́	s ɔ ¹ l _ u ¹ m ɔ ⁵	sand, sandy soil	sable, sol sableux	SAND
+5518	Toro_Tegu	ìsò súměy	i ¹ s o ¹ _ s u ⁵ m e ¹⁵ j	sand, sandy soil	sable, sol sableux	SAND
+5519	Yanda_Dom	sɔ̀n zɔ̀m	s ɔ ¹ n _ z ɔ ¹ m	sand, sandy soil	sable, sol sableux	SAND
+5520	Yorno_So	sù sǒm	s u ¹ _ s o ¹⁵ m	sand, sandy soil	sable, sol sableux	SAND
+#
+5756	Bankan_Tey	tǎ:	t aː ¹⁵	shoe, footwear (any kind)	chaussure (toute sorte)	SHOE
+5757	Ben_Tey	tǎ:	t aː ¹⁵	shoe, footwear (any kind)	chaussure (toute sorte)	SHOE
+5759	Fulfulde	iibina	i i b i n a	shoes	chaussures	SHOE
+5760	Jamsay	tàgú	t a ¹ ɡ u ⁵	shoes	chaussures	SHOE
+5761	Jenaama	kābōⁿ	k a ³ b o ∼ ³	shoes	chaussures	SHOE
+5762	Mombo	tágyê:	t a ⁵ ɡ j eː ⁵¹	shoe, footwear (any kind)	chaussure (toute sorte)	SHOE
+5763	Najamba	tàgî:	t a ¹ ɡ iː ⁵¹	shoe, footwear (any kind)	chaussure (toute sorte)	SHOE
+5764	Nanga	tàgá	t a ¹ ɡ a ⁵	shoe, footwear (any kind)	chaussure (toute sorte)	SHOE
+5765	Penange	tájjé	t a ⁵ dʒ dʒ e ⁵	shoe, footwear (any kind)	chaussure (toute sorte)	SHOE
+5766	Perge_Tegu	tàgú	t a ¹ ɡ u ⁵	shoe, footwear (any kind)	chaussure (toute sorte)	SHOE
+5767	Songhai_Senni	tà:mù	t aː ¹ m u ¹	shoe	chaussure	SHOE
+5768	Songhai_Kiini	tǎ:m	t aː ¹⁵ m	shoe(s)		SHOE
+5770	Tebul_Ure	táy	t a ⁵ j	shoe, footwear (any kind)	chaussure (toute sorte)	SHOE
+5771	Tiranige_Diga	tà:ŋgè	t aː ¹ + ŋ ɡ e ¹	shoe, footwear (any kind)	chaussure (toute sorte)	SHOE
+5772	Togo_Kan	tàgá	t a ¹ ɡ a ⁵	shoe, footwear (any kind)	chaussure (toute sorte)	SHOE
+5773	Tommo_So	tàgá	t a ¹ ɡ a ⁵	shoe, footwear (any kind)	chaussure (toute sorte)	SHOE
+5774	Toro_Tegu	tàgú	t a ¹ ɡ u ⁵	shoe, footwear (any kind)	chaussure (toute sorte)	SHOE
+5775	Yanda_Dom	tàjù	t a ¹ dʒ u ¹	shoe, footwear (any kind)	chaussure (toute sorte)	SHOE
+5776	Yorno_So	tàgú	t a ¹ ɡ u ⁵	shoe, footwear (any kind)	chaussure (toute sorte)	SHOE
+5754	Bambara	sàbàrá	s a ¹ b a ¹ r a ⁵	shoe	chaussure	SHOE
+5755	Bangime	kɔ̀kɛ̀	k ɔ ¹ k ɛ ¹	shoes	chaussures	SHOE
+5758	Bunoge	tà:gè	t aː ¹ ɡ e ¹	shoe, footwear (any kind)	chaussure (toute sorte)	SHOE
+#
+5875	Fulfulde	yimu-de	j i m u + d e	sing	chanter	SING
+5878	Jenaama	sùwo᷆	s u ¹ w o ³¹	sing	chanter	SING
+5885	Songhai_Kiini	dò:n	d oː ¹ n	sing	chanter	SING
+5879	Mombo	nwɛ́:	n w ɛː ⁵	sing (verb only)	chanter (verbe seulement)	SING
+5887	Tebul_Ure	nùŋú	n u ¹ ŋ u ⁵	sing (verb only)	chanter (verbe seulement)	SING
+5888	Tiranige_Diga	nɔ́:	n ɔː	sing (verb only)	chanter (verbe seulement)	SING
+5889	Togo_Kan	núŋɔ́	n u ⁵ ŋ ɔ ⁵	sing (verb only)	chanter (verbe seulement)	SING
+5870	Bambara	dɔ̀ⁿ kílí	d ɔ ¹ ∼ _ k i ⁵ l i ⁵	resemble, look like (sb)	chant, chanson	SING
+5871	Bangime	ŋùɥⁿɛ̀-rɛ̀	ŋ u ¹ ɥ ∼ ɛ ¹ + r ɛ ¹	sing	chanter	SING
+5872	Bankan_Tey	nùmá	n u ¹ m a ⁵	sing (verb only)	chanter (verbe seulement)	SING
+5873	Ben_Tey	nùwⁿɔ́	n u ¹ w̃ ∼ ɔ ⁵	sing (verb only)	chanter (verbe seulement)	SING
+5874	Bunoge	núŋɛ̀	n u ⁵ ŋ ɛ ¹	sing (verb only)	chanter (verbe seulement)	SING
+5877	Jamsay	nùŋó	n u ¹ ŋ o ⁵	sing (verb only)	chanter (verbe seulement)	SING
+5880	Najamba	ŋwǎn	ŋ w a ¹⁵ n	sing (verb only)	chanter (verbe seulement)	SING
+5881	Nanga	nùŋí	n u ¹ ŋ i ⁵	sing (verb only)	chanter (verbe seulement)	SING
+5882	Penange	nɔ̀: nwɛ́:	n ɔː ¹ _ n w ɛː ⁵	sing (verb only)	chanter (verbe seulement)	SING
+5883	Perge_Tegu	núŋgɔ́	n u ⁵ ŋ ɡ ɔ ⁵	sing (verb only)	chanter (verbe seulement)	SING
+5884	Songhai_Senni	dô:n	d oː ⁵¹ n	sing	chanter	SING
+5890	Tommo_So	núyɔ́	n u ⁵ j ɔ ⁵	sing (verb only)	chanter (verbe seulement)	SING
+5891	Toro_Tegu	nùŋú	n u ¹ ŋ u ⁵	sing (verb only)	chanter (verbe seulement)	SING
+5892	Yanda_Dom	nùŋɔ́	n u ¹ ŋ ɔ ⁵	sing (verb only)	chanter (verbe seulement)	SING
+5893	Yorno_So	nɛ̌:	n ɛː ¹⁵	sing (verb only)	chanter (verbe seulement)	SING
+#
+5913	Songhai_Kiini	gɔ̀rɔ́	ɡ ɔ ¹ r ɔ ⁵	sit down, be seated	s’asseoir, ê. assis	SIT
+5906	Jamsay	dìŋé	d i ¹ ŋ e ⁵	sit, sit down	s'asseoir	SIT
+5914	Songhai_Senni	gòrò	ɡ o ¹ r o ¹	sit, sit down, be at rest, remain	s’asseoir, ê. assis	SIT
+5916	Tebul_Ure	ób-í:	o ⁵ b + iː ⁵	sit, sit down	s'asseoir	SIT
+5917	Tiranige_Diga	ówí-yó	o ⁵ w i ⁵ + j o ⁵	sit, sit down	s'asseoir	SIT
+5898	Bambara	sigi	s i ɡ i	sit, sit down	s'asseoir/sit	SIT
+5899	Bangime	tē-rò	t e ³ + r o ¹	sit	s'asseoir	SIT
+5900	Bankan_Tey	éy-yé	e ⁵ j + j e ⁵	sit, sit down	s'asseoir	SIT
+5901	Ben_Tey	èw-yê:	e ¹ w + j eː ⁵¹	sit, sit down	s'asseoir	SIT
+5902	Bunoge	ʔébè	ʔ e ⁵ b e ¹	sit, sit down	s'asseoir	SIT
+5904	Fulfulde	jooɗaa-de	dʒ o o ɗ a a + d e	sit	s'asseoir	SIT
+5907	Jenaama	kpɔ̀	k p ɔ ¹	sit	s'asseoir	SIT
+5908	Mombo	kùnjùgà kó:ⁿ kúndá	k u ¹ n dʒ u ¹ ɡ a ¹ _ k õː ⁵ ∼ _ k u ⁵ n d a ⁵	sit, sit down	s'asseoir	SIT
+5909	Najamba	óbí-y	o ⁵ b i ⁵ + j	sit, sit down	s'asseoir	SIT
+5910	Nanga	éw-yé	e ⁵ w + j e ⁵	sit, sit down	s'asseoir	SIT
+5919	Tommo_So	dànní-yɛ́	d a ¹ n n i ⁵ + j ɛ ⁵	sit, sit down	s'asseoir	SIT
+5920	Toro_Tegu	dǐŋ	d i ¹⁵ ŋ	sit, sit down	s'asseoir	SIT
+5921	Yanda_Dom	óbí-yó	o ⁵ b i ⁵ + j o ⁵	sit, sit down	s'asseoir	SIT
+5922	Yorno_So	dàyⁿ-ɛ́:	d a ¹ j ∼ + ɛː ⁵	sit, sit down	s'asseoir	SIT
+5911	Penange	dá:yⁿì	d aː ⁵ j ∼ i ¹	sit, sit down	s'asseoir	SIT
+5912	Perge_Tegu	dèn-jé	d e ¹ n + dʒ e ⁵	sit, sit down	s'asseoir	SIT
+5918	Togo_Kan	dɛ̀ŋ-î:	d ɛ ¹ ŋ + iː ⁵¹	sit, sit down	s'asseoir	SIT
+#
+5938	Penange	kùlè:nì	k u ¹ l eː ¹ n i ¹	six	six	SIX
+5926	Bambara	wɔ́ɔ́rɔ́	w ɔː ⁵ r ɔ ⁵	six	six	SIX
+5933	Jamsay	kúróy	k u ⁵ r o ⁵ j	six	six	SIX
+5934	Jenaama	tùùmìⁿ	t uː ¹ m ĩ ¹ ∼	six	six	SIX
+5935	Mombo	kúléyⁿ	k u ⁵ l e ⁵ j ∼	six	six	SIX
+5943	Tebul_Ure	kúlé	k u ⁵ l e ⁵	six	six	SIX
+5944	Tiranige_Diga	kùlèyⁿ	k u ¹ l e ¹ j ∼	six	six	SIX
+5945	Togo_Kan	kúré:	k u ⁵ r eː ⁵	six	six	SIX
+5946	Tommo_So	kúlóy	k u ⁵ l o ⁵ j	six	six	SIX
+5936	Najamba	kúlèy	k u ⁵ l e ¹ j	six	six	SIX
+5947	Toro_Tegu	kúréy	k u ⁵ r e ⁵ j	six	six	SIX
+5927	Bangime	kéérè	k eː ⁵ r e ¹	six	six	SIX
+5928	Bankan_Tey	kúròy	k u ⁵ r o ¹ j	six	six	SIX
+5929	Ben_Tey	kúròy	k u ⁵ r o ¹ j	six	six	SIX
+5931	Fulfulde	jeegon	dʒ e e ɡ o n	six	six	SIX
+5937	Nanga	kúrê	k u ⁵ r e ⁵¹	six	six	SIX
+5939	Perge_Tegu	kúró:y	k u ⁵ r oː ⁵ j	six	six	SIX
+5940	Songhai_Kiini	ʔíddù	ʔ i ⁵ d d u ¹	six	six	SIX
+5941	Songhai_Senni	ʔíddû	ʔ i ⁵ d d u ⁵¹	six	six	SIX
+5948	Yanda_Dom	kúlé	k u ⁵ l e ⁵	six	six	SIX
+5949	Yorno_So	kúlòy	k u ⁵ l o ¹ j	six	six	SIX
+5930	Bunoge	kúléwⁿ	k u ⁵ l e ⁵ w̃ ∼	six	six	SIX
+#
+5981	Ben_Tey	yàrǐ:	j a ¹ r iː ¹⁵	sky	ciel	SKY
+5992	Perge_Tegu	yàr-kú:	j a ¹ r + k uː ⁵	sky	ciel	SKY
+6000	Yanda_Dom	àzà gàlà	a ¹ z a ¹ _ ɡ a ¹ l a ¹	sky	ciel	SKY
+6001	Yorno_So	àl gálá	a ¹ l _ ɡ a ⁵ l a ⁵	sky	ciel	SKY
+5979	Bangime	ŋàrān̄ dòŋɡò	ŋ a ¹ r a ³ n ³ _ d o ¹ ŋ ɡ o ¹	sky	ciel	SKY
+5980	Bankan_Tey	yàrí:	j a ¹ r iː ⁵	sky	ciel	SKY
+5982	Bunoge	ʔáŋkóŋgò	ʔ a ⁵ ŋ k o ⁵ ŋ ɡ o ¹	sky	ciel	SKY
+5984	Fulfulde	kammu	k a m m u	sky	ciel	SKY
+5989	Najamba	àjǎn	a ¹ dʒ a ¹⁵ n	sky	ciel	SKY
+5990	Nanga	yàrí	j a ¹ r i ⁵	sky	ciel	SKY
+5991	Penange	àmànà kó:lò	a ¹ m a ¹ n a ¹ _ k oː ⁵ l o ¹	sky	ciel	SKY
+5993	Songhai_Senni	bé:né	b eː ⁵ n e ⁵	top, sky	(le) haut, ciel	SKY
+5995	Tebul_Ure	óngó	o ⁵ n ɡ o ⁵	sky	ciel	SKY
+5996	Tiranige_Diga	á: dàná	aː ⁵ _ d a ¹ n a ⁵	sky	ciel	SKY
+5997	Togo_Kan	àrà kárá	a ¹ r a ¹ _ k a ⁵ r a ⁵	sky	ciel	SKY
+5998	Tommo_So	àlà kàlá	a ¹ l a ¹ _ k a ¹ l a ⁵	sky	ciel	SKY
+5999	Toro_Tegu	àl kǔmnɔ̀	a ¹ l _ k u ¹⁵ m n ɔ ¹	sky	ciel	SKY
+5978	Bambara	sankolo	s a n k o l o	sky	ciel/sky	SKY
+5986	Jamsay	yàrù-máná	j a ¹ r u ¹ + m a ⁵ n a ⁵	sky	ciel	SKY
+5987	Jenaama	yògōbà	j o ¹ ɡ o ³ b a ¹	sky	ciel	SKY
+5988	Mombo	àmànà kó:ló	a ¹ m a ¹ n a ¹ _ k oː ⁵ l o ⁵	sky	ciel	SKY
+#
+6005	Bambara	kòmê	k o ¹ m e ⁵¹	slave	esclave	SLAVE
+6008	Ben_Tey	gùlɔ̌-m	ɡ u ¹ l ɔ ¹⁵ + m	slave	esclave	SLAVE
+6010	Fulfulde	maccu-ɗo	m a tʃ tʃ u + ɗ o	slave	esclave	SLAVE
+6020	Songhai_Senni	tàmò	t a ¹ m o ¹	slave	esclave	SLAVE
+6027	Yanda_Dom	gùnò	ɡ u ¹ n o ¹	slave	esclave	SLAVE
+6016	Nanga	gùndá	ɡ u ¹ n d a ⁵	slave	esclave	SLAVE
+6006	Bangime	kɔ̀mɛ̀	k ɔ ¹ m ɛ ¹	slave	esclave	SLAVE
+6007	Bankan_Tey	gùndǎ-m	ɡ u ¹ n d a ¹⁵ + m	slave	esclave	SLAVE
+6009	Bunoge	kɔ́mbɛ̀	k ɔ ⁵ m b ɛ ¹	slave	esclave	SLAVE
+6014	Mombo	gúndà	ɡ u ⁵ n d a ¹	slave	esclave	SLAVE
+6015	Najamba	gùndɛ́	ɡ u ¹ n d ɛ ⁵	slave	esclave	SLAVE
+6017	Penange	gùndà	ɡ u ¹ n d a ¹	slave	esclave	SLAVE
+6018	Perge_Tegu	gùlɔ̌n	ɡ u ¹ l ɔ ¹⁵ n	slave	esclave	SLAVE
+6019	Songhai_Kiini	kɔ̀wⁿɔ́:	k ɔ ¹ w̃ ∼ ɔː	slave	esclave	SLAVE
+6022	Tebul_Ure	gùndɔ́	ɡ u ¹ n d ɔ ⁵	slave	esclave	SLAVE
+6023	Tiranige_Diga	kɔ́mɛ́	k ɔ ⁵ m ɛ ⁵	slave	esclave	SLAVE
+6024	Togo_Kan	gùnɔ́	ɡ u ¹ n ɔ ⁵	slave	esclave	SLAVE
+6025	Tommo_So	gùnnɔ̀-nɔ́	ɡ u ¹ n n ɔ ¹ + n ɔ ⁵	slave	esclave	SLAVE
+6026	Toro_Tegu	gùnɔ́	ɡ u ¹ n ɔ ⁵	slave	esclave	SLAVE
+6028	Yorno_So	gùnɔ̀-nɛ́	ɡ u ¹ n ɔ ¹ + n ɛ ⁵	slave	esclave	SLAVE
+6012	Jamsay	gùnón	ɡ u ¹ n o ⁵ n	slave	esclave	SLAVE
+6013	Jenaama	kɔ̀ɲɔ́ⁿ	k ɔ ¹ ɲ ɔ̃ ⁵ ∼	slave	esclave	SLAVE
+#
+6150	Bambara	sà	s a ¹	smooth, sleek, slippery	serpent	SNAKE
+6151	Bangime	kɛ́rɛ́ń dɛ́kɛ̀	k ɛ ⁵ r ɛ ⁵ n ⁵ _ d ɛ ⁵ k ɛ ¹	snake (any)	serpent (tout)	SNAKE
+6152	Bankan_Tey	àwǎ-m	a ¹ w a ¹⁵ + m	snake (any)	serpent (tout)	SNAKE
+6153	Ben_Tey	àwǎ-m	a ¹ w a ¹⁵ + m	snake (any)	serpent (tout)	SNAKE
+6154	Bunoge	námgà	n a ⁵ m ɡ a ¹	snake (any)	serpent (tout)	SNAKE
+6156	Fulfulde	mboddi	m b o d d i	snake (any)	serpent (tout)	SNAKE
+6158	Jamsay	lù:ró	l uː ¹ r o ⁵	snake (any)	serpent (tout)	SNAKE
+6159	Jenaama	sìbò	s i ¹ b o ¹	snake (any)	serpent (tout)	SNAKE
+6160	Mombo	nómónjì	n o ⁵ m o ⁵ n dʒ i ¹	snake (any)	serpent (tout)	SNAKE
+6161	Najamba	kòŋgò jàláŋgó	k o ¹ ŋ ɡ o ¹ _ dʒ a ¹ l a ⁵ ŋ ɡ o ⁵	snake (any)	serpent (tout)	SNAKE
+6162	Nanga	yɛ̀ búmbâ	j ɛ ¹ _ b u ⁵ m b a ⁵¹	snake (any)	serpent (tout)	SNAKE
+6163	Penange	nòm bòjì	n o ¹ m _ b o ¹ dʒ i ¹	snake (any)	serpent (tout)	SNAKE
+6164	Perge_Tegu	kì: búmbɔ́	k iː ¹ _ b u ⁵ m b ɔ ⁵	snake (any)	serpent (tout)	SNAKE
+6165	Songhai_Kiini	gónd-ì	ɡ o ⁵ n d + i ¹	snake	serpent (tout)	SNAKE
+6166	Songhai_Senni	gónd-ó	ɡ o ⁵ n d + o ⁵	snake	serpent	SNAKE
+6168	Tebul_Ure	nòndó	n o ¹ n d o ⁵	snake (any)	serpent (tout)	SNAKE
+6169	Tiranige_Diga	nómón jí	n o ⁵ m o ⁵ n _ dʒ i ⁵	snake (any)	serpent (tout)	SNAKE
+6170	Togo_Kan	lú:ró	l uː ⁵ r o ⁵	snake (any)	serpent (tout)	SNAKE
+6171	Toro_Tegu	ǎw	a ¹⁵ w	snake (any)	serpent (tout)	SNAKE
+6172	Yanda_Dom	nòmzù	n o ¹ m z u ¹	snake (any)	serpent (tout)	SNAKE
+6173	Yorno_So	yùgú-rù	j u ¹ ɡ u ⁵ + r u ¹	snake (any)	serpent (tout)	SNAKE
+#
+6197	Bangime	ŋúɥⁿɛ́ɛ̀	ŋ u ⁵ ɥ ∼ ɛː ⁵¹	song	chanson	SONG
+6198	Bankan_Tey	nùmá	n u ¹ m a ⁵	song	chanson	SONG
+6199	Ben_Tey	nùwⁿɔ́	n u ¹ w̃ ∼ ɔ ⁵	song	chanson	SONG
+6200	Bunoge	núŋɔ̀	n u ⁵ ŋ ɔ ¹	song	chanson	SONG
+6202	Fulfulde	jimol	dʒ i m o l	song	chanson	SONG
+6204	Jamsay	nûŋ	n u ⁵¹ ŋ	song	chanson	SONG
+6205	Jenaama	sùwōgù	s u ¹ w o ³ ɡ u ¹	song	chanson	SONG
+6206	Mombo	nɔ̂:	n ɔː ⁵¹	song	chanson	SONG
+6207	Najamba	ŋwànǎ:	ŋ w a ¹ n aː ¹⁵	song	chanson	SONG
+6208	Nanga	nùŋá	n u ¹ ŋ a ⁵	song	chanson	SONG
+6209	Penange	nɔ̀:	n ɔː ¹	song	chanson	SONG
+6210	Perge_Tegu	núŋgɔ̀	n u ⁵ ŋ ɡ ɔ ¹	song	chanson	SONG
+6211	Songhai_Senni	dò:nò	d oː ¹ n o ¹	song, singing	chanson	SONG
+6212	Songhai_Kiini	dò:ní	d oː ¹ n i ⁵	song	chanson	SONG
+6214	Tebul_Ure	nùŋǎ:	n u ¹ ŋ aː ¹⁵	song	chanson	SONG
+6215	Tiranige_Diga	nwɛ́:	n w ɛː ⁵	song	chanson	SONG
+6216	Togo_Kan	núŋú	n u ⁵ ŋ u ⁵	song	chanson	SONG
+6217	Tommo_So	núyɔ́	n u ⁵ j ɔ ⁵	song	chanson	SONG
+6218	Toro_Tegu	nùŋɔ́	n u ¹ ŋ ɔ ⁵	song	chanson	SONG
+6219	Yanda_Dom	nùŋà	n u ¹ ŋ a ¹	song	chanson	SONG
+6220	Yorno_So	nɛ́:	n ɛː ⁵	song	chanson	SONG
+#
+6579	Bambara	kú bɔ́lɔ́	k u ⁵ _ b ɔ ⁵ l ɔ ⁵	tail	queue	TAIL
+6580	Bangime	tììⁿ	t ĩː ¹ ∼	tail	queue	TAIL
+6581	Bankan_Tey	dúrà	d u ⁵ r a ¹	tail (of dog, sheep, etc.)	queue (de chien, de mouton, etc.)	TAIL
+6582	Ben_Tey	dúrɔ̀	d u ⁵ r ɔ ¹	tail (of dog, sheep, etc.)	queue (de chien, de mouton, etc.)	TAIL
+6583	Bunoge	dílɔ̀	d i ⁵ l ɔ ¹	tail (of dog, sheep, etc.)	queue (de chien, de mouton, etc.)	TAIL
+6584	Fulfulde	laaci	l a a tʃ i	tail	queue	TAIL
+6586	Jamsay	dùrɔ́	d u ¹ r ɔ ⁵	tail (of dog, sheep, etc.)	queue (de chien, de mouton, etc.)	TAIL
+6588	Mombo	dúlɔ́	d u ⁵ l ɔ ⁵	tail (of dog, sheep, etc.)	queue (de chien, de mouton, etc.)	TAIL
+6589	Najamba	dúlɔ̀:	d u ⁵ l ɔː ¹	tail (of dog, sheep, etc.)	queue (de chien, de mouton, etc.)	TAIL
+6590	Nanga	dúrâ	d u ⁵ r a ⁵¹	tail (of dog, sheep, etc.)	queue (de chien, de mouton, etc.)	TAIL
+6592	Perge_Tegu	dúrɔ́	d u ⁵ r ɔ ⁵	tail (of dog, sheep, etc.)	queue (de chien, de mouton, etc.)	TAIL
+6593	Songhai_Senni	àn zùf-ò	a ¹ n _ z u ¹ f + o ¹	tail (of any animal)	queue (de tout animal)	TAIL
+6594	Songhai_Kiini	háfɛ̀	h a ⁵ f ɛ ¹	tail; (less often) penis	queue; (mois fréquemment) sexe	TAIL
+6596	Tebul_Ure	dúlá:	d u ⁵ l aː ⁵	tail (of dog, sheep, etc.)	queue (de chien, de mouton, etc.)	TAIL
+6597	Tiranige_Diga	dìlɔ̀	d i ¹ l ɔ ¹	tail (of dog, sheep, etc.)	queue (de chien, de mouton, etc.)	TAIL
+6598	Togo_Kan	dúrɔ́	d u ⁵ r ɔ ⁵	tail (of dog, sheep, etc.)	queue (de chien, de mouton, etc.)	TAIL
+6599	Tommo_So	dúlɔ́	d u ⁵ l ɔ ⁵	tail (of dog, sheep, etc.)	queue (de chien, de mouton, etc.)	TAIL
+6600	Toro_Tegu	báná	b a ⁵ n a ⁵	tail (of dog, sheep, etc.)	queue (de chien, de mouton, etc.)	TAIL
+6601	Yanda_Dom	dùlɔ́	d u ¹ l ɔ ⁵	tail (of dog, sheep, etc.)	queue (de chien, de mouton, etc.)	TAIL
+6602	Yorno_So	dúlɔ̀	d u ⁵ l ɔ ¹	tail (of dog, sheep, etc.)	queue (de chien, de mouton, etc.)	TAIL
+6587	Jenaama	píyɛ̄	p i ⁵ j ɛ ³	tail	queue	TAIL
+6591	Penange	mòòmíó dùlɔ̀	m oː ¹ m i ⁵ o ⁵ _ d u ¹ l ɔ ¹	tail (of dog, sheep, etc.)	queue (de chien, de mouton, etc.)	TAIL
+#
+6628	Bangime	kùrɛ̀	k u ¹ r ɛ ¹	ten	dix	TEN
+6629	Bankan_Tey	pɛ́:rú	p ɛː ⁵ r u ⁵	ten	dix	TEN
+6630	Ben_Tey	pɛ́rú	p ɛ ⁵ r u ⁵	ten	dix	TEN
+6631	Bunoge	kóbéwⁿ	k o ⁵ b e ⁵ w̃ ∼	ten	dix	TEN
+6635	Jamsay	pɛ́rú	p ɛ ⁵ r u ⁵	ten	dix	TEN
+6636	Jenaama	cɛ̄ɛ̄m	tʃ ɛ ³ ɛ ³ m	ten	dix	TEN
+6637	Mombo	pɛ́:lù	p ɛː ⁵ l u ¹	ten	dix	TEN
+6638	Najamba	píyɛ́lì	p i ⁵ j ɛ ⁵ l i ¹	ten	dix	TEN
+6640	Penange	pɛ̀:l	p ɛː ¹ l	ten	dix	TEN
+6641	Perge_Tegu	pɛ́rú	p ɛ ⁵ r u ⁵	ten	dix	TEN
+6642	Songhai_Senni	wóy	w o ⁵ j	ten	dix	TEN
+6643	Songhai_Kiini	wóy	w o ⁵ j	ten	dix	TEN
+6644	Tebul_Ure	pɛ́lú	p ɛ ⁵ l u ⁵	ten	dix	TEN
+6645	Tiranige_Diga	pìyɔ̀lù	p i ¹ j ɔ ¹ l u ¹	ten	dix	TEN
+6646	Togo_Kan	pɛ́rú	p ɛ ⁵ r u ⁵	ten	dix	TEN
+6647	Tommo_So	pɛ́lú	p ɛ ⁵ l u ⁵	ten	dix	TEN
+6648	Toro_Tegu	pɛ́:rú	p ɛː ⁵ r u ⁵	ten	dix	TEN
+6649	Yanda_Dom	píyɛ́l	p i ⁵ j ɛ ⁵ l	ten	dix	TEN
+6650	Yorno_So	pɛ́l	p ɛ ⁵ l	ten	dix	TEN
+6633	Fulfulde	sappo	s a p p o	ten	dix	TEN
+6639	Nanga	pɛ́:rù	p ɛː ⁵ r u ¹	ten	dix	TEN
+#
+6792	Fulfulde	tati	t a t i	three	trois	THREE
+6807	Toro_Tegu	tà:lí	t aː ¹ l i ⁵	three	trois	THREE
+6809	Yorno_So	tǎ:n	t aː ¹⁵ n	three	trois	THREE
+6789	Bankan_Tey	tà:ní	t aː ¹ n i ⁵	three	trois	THREE
+6787	Bambara	sàbá	s a ¹ b a ⁵	three	trois	THREE
+6788	Bangime	tààrù	t aː ¹ r u ¹	three	trois	THREE
+6790	Ben_Tey	tà:nú	t aː ¹ n u ⁵	three	trois	THREE
+6791	Bunoge	tá:ndù	t aː ⁵ n d u ¹	three	trois	THREE
+6793	Jamsay	tǎ:n	t aː ¹⁵ n	three	trois	THREE
+6794	Jenaama	sìkèẁⁿ	s i ¹ k e ¹ w̃ ¹ ∼	three	trois	THREE
+6795	Mombo	tá:ndì	t aː ⁵ n d i ¹	three	trois	THREE
+6796	Najamba	tà:ndî:	t aː ¹ n d iː ⁵¹	three	trois	THREE
+6797	Nanga	tà:ndǐ:	t aː ¹ n d iː ¹⁵	three	trois	THREE
+6798	Penange	tà:ndì	t aː ¹ n d i ¹	three	trois	THREE
+6799	Perge_Tegu	tà:lú	t aː ¹ l u ⁵	three	trois	THREE
+6800	Songhai_Senni	hínzâ	h i ⁵ n z a ⁵¹	three	trois	THREE
+6801	Songhai_Kiini	hínsà	h i ⁵ n s a ¹	three	trois	THREE
+6803	Tebul_Ure	tà:ndú	t aː ¹ n d u ⁵	three	trois	THREE
+6804	Tiranige_Diga	tá:ndí	t aː ⁵ n d i ⁵	three	trois	THREE
+6805	Togo_Kan	tǎ:n	t aː ¹⁵ n	three	trois	THREE
+6806	Tommo_So	tààndú	t aː ¹ n d u ⁵	three	trois	THREE
+6808	Yanda_Dom	tá:ndù	t aː ⁵ n d u ¹	three	trois	THREE
+#
+6939	Bambara	nɛ̰̀	n ɛ ∼	tongue	langue (corps)	TONGUE
+6945	Fulfulde	ɗemng-al	ɗ e m n ɡ + a l	tongue	langue (corps)	TONGUE
+6946	Jamsay	nɛ̀nɛ́	n ɛ ¹ n ɛ ⁵	tongue	langue (corps)	TONGUE
+6947	Jenaama	ɲɛ̀lɛ̄wⁿ	ɲ ɛ ¹ l ɛ ³ w̃ ∼	tongue	langue (corps)	TONGUE
+6948	Mombo	nè:ndé	n eː ¹ n d e ⁵	tongue	langue (corps)	TONGUE
+6949	Najamba	nɛ̌ndɔ̀:	n ɛ ¹⁵ n d ɔː ¹	tongue	langue (corps)	TONGUE
+6950	Nanga	nɛ́ndɛ̀	n ɛ ⁵ n d ɛ ¹	tongue	langue (corps)	TONGUE
+6952	Perge_Tegu	lɛ̀lɛ́	l ɛ ¹ l ɛ ⁵	tongue	langue (corps)	TONGUE
+6953	Songhai_Senni	dè:nè	d eː ¹ n e ¹	tongue	langue (partie du corps) -poss (inal): 1Sg	TONGUE
+6954	Songhai_Kiini	dɛ̀lɛ̀	d ɛ ¹ l ɛ ¹	tongue	langue (corps)	TONGUE
+6956	Tebul_Ure	nɛ́ndɛ́	n ɛ ⁵ n d ɛ ⁵	tongue	langue (corps)	TONGUE
+6957	Tiranige_Diga	nɛ́:ndɛ̀	n ɛː ⁵ n d ɛ ¹	tongue	langue (corps)	TONGUE
+6958	Togo_Kan	nɛ́nɛ́	n ɛ ⁵ n ɛ ⁵	tongue	langue (corps)	TONGUE
+6959	Tommo_So	nííndɛ́	n iː ⁵ n d ɛ ⁵	tongue	langue (corps)	TONGUE
+6960	Toro_Tegu	lèlá	l e ¹ l a ⁵	tongue	langue (corps)	TONGUE
+6961	Yanda_Dom	nɛ̀mdà	n ɛ ¹ m d a ¹	tongue	langue (corps)	TONGUE
+6962	Yorno_So	nɛ́nɛ́	n ɛ ⁵ n ɛ ⁵	tongue	langue (corps)	TONGUE
+6940	Bangime	nɔ̄n̄ ʤɛ̀	n ɔ ³ n ³ _ dʒ ɛ ¹	tongue	langue (corps)	TONGUE
+6941	Bankan_Tey	lɛ̀mbìrɛ̂	l ɛ ¹ m b i ¹ r ɛ ¹⁵	tongue	langue (corps)	TONGUE
+6942	Ben_Tey	lɛ̀mdɛ̂:	l ɛ ¹ m d ɛː ⁵¹	tongue	langue (corps)	TONGUE
+6943	Bunoge	dɛ̀ndɛ̀-bè	d ɛ ¹ n d ɛ ¹ + b e ¹	tongue	langue (corps)	TONGUE
+6951	Penange	nɛ̀mdɛ̀	n ɛ ¹ m d ɛ ¹	tongue	langue (corps)	TONGUE
+#
+6988	Bambara	lásɔ̀rɔ́	l a ⁵ s ɔ ¹ r ɔ ⁵	touch	toucher	TOUCH
+6989	Bangime	dāɡà	d a ³ ɡ a ¹	touch	toucher	TOUCH
+6990	Bankan_Tey	táwá	t a ⁵ w a ⁵	touch (with hand)	toucher (avec la main)	TOUCH
+6991	Ben_Tey	táwá	t a ⁵ w a ⁵	touch (with hand)	toucher (avec la main)	TOUCH
+6992	Bunoge	nárè	n a ⁵ r e ¹	touch (with hand)	toucher (avec la main)	TOUCH
+6993	Fulfulde	memu-de	m e m u + d e	touch	toucher	TOUCH
+6995	Jamsay	tɔ́wɔ́	t ɔ ⁵ w ɔ ⁵	touch (with hand)	toucher (avec la main)	TOUCH
+6996	Jenaama	kwālà bwɛ́	k w a ³ l a ¹ _ b w ɛ ⁵	touch	toucher	TOUCH
+6997	Mombo	tábyê:	t a ⁵ b j eː ⁵¹	touch (with hand)	toucher (avec la main)	TOUCH
+6998	Najamba	dòŋgí	d o ¹ ŋ ɡ i ⁵	touch (with hand)	toucher (avec la main)	TOUCH
+6999	Nanga	táwá	t a ⁵ w a ⁵	touch (with hand)	toucher (avec la main)	TOUCH
+7000	Penange	náré	n a ⁵ r e ⁵	touch (with hand)	toucher (avec la main)	TOUCH
+7001	Perge_Tegu	táwá	t a ⁵ w a ⁵	touch (with hand)	toucher (avec la main)	TOUCH
+7002	Songhai_Senni	lábú	l a ⁵ b u ⁵	touch	toucher	TOUCH
+7003	Songhai_Kiini	gîŋ	ɡ i ⁵¹ ŋ	touch	toucher	TOUCH
+7005	Tebul_Ure	tábá	t a ⁵ b a ⁵	touch (with hand)	toucher (avec la main)	TOUCH
+7006	Tiranige_Diga	táwó	t a ⁵ w o ⁵	touch (with hand)	toucher (avec la main)	TOUCH
+7007	Togo_Kan	tɔ́wɔ́	t ɔ ⁵ w ɔ ⁵	touch (with hand)	toucher (avec la main)	TOUCH
+7008	Tommo_So	dèŋé	d e ¹ ŋ e ⁵	touch (with hand)	toucher (avec la main)	TOUCH
+7009	Toro_Tegu	dògú	d o ¹ ɡ u ⁵	touch (with hand)	toucher (avec la main)	TOUCH
+7010	Yanda_Dom	tábú	t a ⁵ b u ⁵	touch (with hand)	toucher (avec la main)	TOUCH
+7011	Yorno_So	tábá	t a ⁵ b a ⁵	touch (with hand)	toucher (avec la main)	TOUCH
+#
+7092	Najamba	pɔ̌:nɔ̀y	p ɔː ¹⁵ n ɔ ¹ j	twenty	vingt	TWENTY
+7098	Tebul_Ure	pɛ̀gàléy	p ɛ ¹ ɡ a ¹ l e ⁵ j	twenty	vingt	TWENTY
+7082	Bambara	mugaⁿ	m u ɡ ã ∼	twenty	vingt	TWENTY
+7083	Bangime	tààwⁿà	t aː ¹ w̃ ∼ a ¹	twenty	vingt	TWENTY
+7084	Bankan_Tey	pɛ̀ríyèy	p ɛ ¹ r i ⁵ j e ¹ j	twenty	vingt	TWENTY
+7085	Ben_Tey	pèríyěy	p e ¹ r i ⁵ j e ¹⁵ j	twenty	vingt	TWENTY
+7090	Jenaama	tāⁿpéndē	t a ³ ∼ p e ⁵ n d e ³	twenty	vingt	TWENTY
+7093	Nanga	pèríyěy	p e ¹ r i ⁵ j e ¹⁵ j	twenty	vingt	TWENTY
+7094	Penange	tà:lmɔ̀	t aː ¹ l m ɔ ¹	twenty	vingt	TWENTY
+7095	Perge_Tegu	pɛ́llěy	p ɛ ⁵ l l e ¹⁵ j	twenty	vingt	TWENTY
+7096	Songhai_Senni	wàráŋkà	w a ¹ r a ⁵ ŋ k a ¹	twenty	vingt	TWENTY
+7097	Songhai_Kiini	wáràŋká	w a ⁵ r a ¹ ŋ k a ⁵	twenty	vingt	TWENTY
+7099	Tiranige_Diga	pɛ́nɛ́ŋgà	p ɛ ⁵ n ɛ ⁵ ŋ ɡ a ¹	twenty	vingt	TWENTY
+7100	Togo_Kan	pɛ̌lɔ́y	p ɛ ¹⁵ l ɔ ⁵ j	twenty	vingt	TWENTY
+7101	Tommo_So	pɛ̀ɛ̀néé	p ɛː ¹ n eː ⁵	twenty	vingt	TWENTY
+7102	Toro_Tegu	pélèy	p e ⁵ l e ¹ j	twenty	vingt	TWENTY
+7104	Yorno_So	pɛ́:lɛ́y	p ɛː ⁵ l ɛ ⁵ j	twenty	vingt	TWENTY
+7089	Jamsay	pɛ́llɛ̀y	p ɛ ⁵ l l ɛ ¹ j	twenty	vingt	TWENTY
+7086	Bunoge	tǎ:lmà	t aː ¹⁵ l m a ¹	twenty	vingt	TWENTY
+7091	Mombo	pɛ̀:nɛ́:ŋgà	p ɛː ¹ n ɛː ⁵ ŋ ɡ a ¹	twenty	vingt	TWENTY
+7088	Fulfulde	noogay	n o o ɡ a j	twenty	vingt	TWENTY
+7103	Yanda_Dom	pɔ̀:nɔ́:	p ɔː ¹ n ɔː	twenty	vingt	TWENTY
+#
+7109	Bangime	ʒìndò	ʒ i ¹ n d o ¹	two	deux	TWO
+7110	Bankan_Tey	yǒy	j o ¹⁵ j	two	deux	TWO
+7111	Bunoge	dè:gà	d eː ¹ ɡ a ¹	two	deux	TWO
+7113	Fulfulde	ɗiɗi	ɗ i ɗ i	two	deux	TWO
+7115	Jamsay	lɛ̌y	l ɛ ¹⁵ j	two	deux	TWO
+7116	Jenaama	pēndē	p e ³ n d e ³	two	deux	TWO
+7117	Mombo	nɛ́:ŋgá	n ɛː ⁵ ŋ ɡ a ⁵	two	deux	TWO
+7118	Najamba	nô:y	n oː ⁵¹ j	two	deux	TWO
+7119	Nanga	wǒy	w o ¹⁵ j	two	deux	TWO
+7120	Penange	nègà	n e ¹ ɡ a ¹	two	deux	TWO
+7121	Perge_Tegu	lěy	l e ¹⁵ j	two	deux	TWO
+7122	Songhai_Senni	híŋká	h i ⁵ ŋ k a ⁵	two	deux	TWO
+7123	Songhai_Kiini	híŋká	h i ⁵ ŋ k a ⁵	two	deux	TWO
+7124	Tebul_Ure	lé:rú	l eː ⁵ r u ⁵	two	deux	TWO
+7125	Tiranige_Diga	nì:ŋgà	n iː ¹ ŋ ɡ a ¹	two	deux	TWO
+7126	Togo_Kan	lɔ́y	l ɔ ⁵ j	two	deux	TWO
+7127	Tommo_So	néé	n eː ⁵	two	deux	TWO
+7128	Toro_Tegu	lěy	l e ¹⁵ j	two	deux	TWO
+7129	Yanda_Dom	nɔ́:	n ɔː	two	deux	TWO
+7130	Yorno_So	lɛ́y	l ɛ ⁵ j	two	deux	TWO
+#
+7185	Jamsay	àná	a ¹ n a ⁵	village, town, settlement	village, ville	VILLAGE
+7178	Bambara	dùgú	d u ¹ ɡ u ⁵	village	village, pays, région, village	VILLAGE
+7179	Bangime	dīyà	d i ³ j a ¹	village	village	VILLAGE
+7180	Bankan_Tey	ìsô:	i ¹ s oː ⁵¹	village, town, settlement	village, ville	VILLAGE
+7181	Ben_Tey	ìsê:	i ¹ s eː ⁵¹	village, town, settlement	village, ville	VILLAGE
+7182	Bunoge	ʔólò	ʔ o ⁵ l o ¹	village, town, settlement	village, ville	VILLAGE
+7184	Fulfulde	wuro	w u r o	village	village	VILLAGE
+7186	Jenaama	nɔ̀gù	n ɔ ¹ ɡ u ¹	village	village	VILLAGE
+7187	Mombo	dúgù	d u ⁵ ɡ u ¹	village, town, settlement	village, ville	VILLAGE
+7188	Najamba	sɔ̀njɔ̌:	s ɔ ¹ n dʒ ɔː ¹⁵	village, town, settlement	village, ville	VILLAGE
+7189	Nanga	ìsê	i ¹ s e ⁵¹	village, town, settlement	village, ville	VILLAGE
+7190	Penange	dùgù	d u ¹ ɡ u ¹	village, town, settlement	village, ville	VILLAGE
+7191	Perge_Tegu	àlá	a ¹ l a ⁵	village, town, settlement	village, ville	VILLAGE
+7192	Songhai_Senni	kòyrà	k o ¹ j r a ¹	village, city, settlement	village, ville	VILLAGE
+7193	Songhai_Kiini	kɔ́yrɛ́	k ɔ ⁵ j r ɛ ⁵	village, city, settlement	village, ville	VILLAGE
+7195	Tebul_Ure	dámbá	d a ⁵ m b a ⁵	village, town, settlement	village, ville	VILLAGE
+7196	Tiranige_Diga	ìjò	i ¹ dʒ o ¹	village, town, settlement	village, ville	VILLAGE
+7197	Togo_Kan	àná	a ¹ n a ⁵	village, town, settlement	village, ville	VILLAGE
+7198	Tommo_So	dámmá	d a ⁵ m m a ⁵	village, town, settlement	village, ville	VILLAGE
+7199	Toro_Tegu	àlá	a ¹ l a ⁵	village, town, settlement	village, ville	VILLAGE
+7200	Yanda_Dom	dàmá	d a ¹ m a ⁵	village, town, settlement	village, ville	VILLAGE
+7201	Yorno_So	àná	a ¹ n a ⁵	village, town, settlement	village, ville	VILLAGE
+#
+7247	Tebul_Ure	ínjé	i ⁵ n dʒ e ⁵	water	eau	WATER
+7232	Bambara	jí	dʒ i ⁵	water	eau, jus, tout élément liquide	WATER
+7234	Bankan_Tey	nî:	n iː ⁵¹	water	eau	WATER
+7235	Ben_Tey	nî:	n iː ⁵¹	water	eau	WATER
+7236	Bunoge	gɔ́	ɡ ɔ ⁵	water	eau	WATER
+7238	Fulfulde	ndiy-am	n d i j + a m	water	eau	WATER
+7239	Jamsay	ní:	n iː ⁵	water	eau	WATER
+7240	Jenaama	jī	dʒ i ³	water	eau	WATER
+7241	Mombo	mî:	m iː ⁵¹	water	eau	WATER
+7242	Najamba	í-ŋgé	i ⁵ + ŋ ɡ e ⁵	water	eau	WATER
+7243	Nanga	nî:	n iː ⁵¹	water	eau	WATER
+7244	Penange	mì:	m iː ¹	water	eau	WATER
+7245	Perge_Tegu	ní:	n iː ⁵	water	eau	WATER
+7246	Songhai_Kiini	hárí	h a ⁵ r i ⁵	water	eau	WATER
+7248	Tiranige_Diga	mí:	m iː ⁵	water	eau	WATER
+7249	Togo_Kan	dí:	d iː ⁵	water	eau	WATER
+7250	Tommo_So	díí	d iː ⁵	water	eau	WATER
+7251	Toro_Tegu	ní	n i ⁵	water	eau	WATER
+7252	Yanda_Dom	ínjú	i ⁵ n dʒ u ⁵	water	eau	WATER
+7253	Yorno_So	dǐ:	d iː ¹⁵	water	eau	WATER
+7233	Bangime	ɥīyɛ̀	ɥ i ³ j ɛ ¹	water	eau	WATER
+#
+7344	Tebul_Ure	pílɛ̀:	p i ⁵ l ɛː ¹	white, light-colored	blanc, couleur claire	WHITE
+7327	Bambara	jɛ́máⁿ	dʒ ɛ ⁵ m ã ⁵ ∼	wet (adjective)	blanc (de l'oeil, de l'oeuf)	WHITE
+7328	Bangime	símá	s i ⁵ m a ⁵	white (light-colored)	blanc, couleur claire	WHITE
+7329	Bankan_Tey	píndɛ́	p i ⁵ n d ɛ ⁵	white, light-colored	blanc, couleur claire	WHITE
+7330	Ben_Tey	pílɛ́	p i ⁵ l ɛ ⁵	white, light-colored	blanc, couleur claire	WHITE
+7331	Bunoge	sìmà	s i ¹ m a ¹	white, light-colored	blanc, couleur claire	WHITE
+7333	Fulfulde	daanee-jo	d a a n e e + dʒ o	white, light-colord	blanc, de couleur claire	WHITE
+7335	Jamsay	pírú	p i ⁵ r u ⁵	white, light-colored	blanc, couleur claire	WHITE
+7336	Jenaama	kūwōŋ	k u ³ w o ³ ŋ	white, light-colord	blanc, de couleur claire	WHITE
+7337	Mombo	tómbò	t o ⁵ m b o ¹	white, light-colored	blanc, couleur claire	WHITE
+7338	Najamba	pílɛ̀	p i ⁵ l ɛ ¹	white, light-colored	blanc, couleur claire	WHITE
+7339	Nanga	pírí	p i ⁵ r i ⁵	white, light-colored	blanc, couleur claire	WHITE
+7340	Penange	kárí kárí	k a ⁵ r i ⁵ _ k a ⁵ r i ⁵	white, light-colored	blanc, couleur claire	WHITE
+7341	Perge_Tegu	pírí	p i ⁵ r i ⁵	white, light-colored	blanc, couleur claire	WHITE
+7342	Songhai_Senni	ká:ró	k aː ⁵ r o ⁵	white	blanc	WHITE
+7345	Tiranige_Diga	púlɛ́	p u ⁵ l ɛ ⁵	white, light-colored	blanc, couleur claire	WHITE
+7346	Togo_Kan	pírí	p i ⁵ r i ⁵	white, light-colored	blanc, couleur claire	WHITE
+7347	Tommo_So	pílú	p i ⁵ l u ⁵	white, light-colored	blanc, couleur claire	WHITE
+7348	Toro_Tegu	pírú	p i ⁵ r u ⁵	white, light-colored	blanc, couleur claire	WHITE
+7349	Yanda_Dom	pílɛ́	p i ⁵ l ɛ ⁵	white, light-colored	blanc, couleur claire	WHITE
+7350	Yorno_So	píl	p i ⁵ l	white, light-colored	blanc, couleur claire	WHITE
+#
+7402	Bambara	kama	k a m a	wing (of bird)	aile/wing	WING
+7404	Bankan_Tey	jɛ̀ndɛ̂:	dʒ ɛ ¹ n d ɛː ⁵¹	wing (of bird)	aile (d'oiseau)	WING
+7405	Ben_Tey	gámjá	ɡ a ⁵ m dʒ a ⁵	wing (of bird)	aile (d'oiseau)	WING
+7410	Jamsay	gámɲú	ɡ a ⁵ m ɲ u ⁵	wing (of bird)	aile (d'oiseau)	WING
+7411	Jenaama	kāmūⁿ	k a ³ m ũ ∼ ³	wing	aile	WING
+7412	Mombo	kárá kárá	k a ⁵ r a ⁵ _ k a ⁵ r a ⁵	wing (of bird)	aile (d'oiseau)	WING
+7414	Nanga	kà kásâ	k a ¹ _ k a ⁵ s a ⁵¹	wing (of bird)	aile (d'oiseau)	WING
+7415	Penange	gùbà	ɡ u ¹ b a ¹	wing (of bird)	aile (d'oiseau)	WING
+7416	Perge_Tegu	gámjá	ɡ a ⁵ m dʒ a ⁵	wing (of bird)	aile (d'oiseau)	WING
+7417	Songhai_Senni	kàm kítò	k a ¹ m _ k i ⁵ t o ¹	wing	aile	WING
+7418	Songhai_Kiini	fátɛ̀	f a ⁵ t ɛ ¹	wing; armpit	aile; aisselle	WING
+7420	Tebul_Ure	ká kárá	k a ⁵ _ k a ⁵ r a ⁵	wing (of bird)	aile (d'oiseau)	WING
+7421	Tiranige_Diga	pɛ̀nɛ̀ pɛ̀nɛ̀	p ɛ ¹ n ɛ ¹ _ p ɛ ¹ n ɛ ¹	wing (of bird)	aile (d'oiseau)	WING
+7422	Togo_Kan	gáɲá	ɡ a ⁵ ɲ a ⁵	wing (of bird)	aile (d'oiseau)	WING
+7423	Tommo_So	ká kárú	k a ⁵ _ k a ⁵ r u ⁵	wing (of bird)	aile (d'oiseau)	WING
+7424	Toro_Tegu	jɛ̀tá	dʒ ɛ ¹ t a ⁵	wing (of bird)	aile (d'oiseau)	WING
+7425	Yanda_Dom	kà gádà	k a ¹ _ ɡ a ⁵ d a ¹	wing (of bird)	aile (d'oiseau)	WING
+7426	Yorno_So	gámìrù	ɡ a ⁵ m i ¹ r u ¹	wing (of bird)	aile (d'oiseau)	WING
+7406	Bunoge	gúbà	ɡ u ⁵ b a ¹	wing (of bird)	aile (d'oiseau)	WING
+7408	Fulfulde	wifoongo	w i f o o n ɡ o	wing	aile	WING
+7413	Najamba	kà kàrâ:	k a ¹ _ k a ¹ r aː ⁵¹	wing (of bird)	aile (d'oiseau)	WING
+7403	Bangime	kúwó	k u ⁵ w o ⁵	wing (of bird)	aile	WING
+#
+7543	Bangime	bììⁿ	b ĩː ¹ ∼	year	année	YEAR
+7544	Bankan_Tey	àrⁿá	a ¹ r̃ ∼ a ⁵	year	année	YEAR
+7545	Ben_Tey	àrⁿà kúsú	a ¹ r̃ ∼ a ¹ _ k u ⁵ s u ⁵	year	année	YEAR
+7546	Bunoge	wáyà	w a ⁵ j a ¹	year	année	YEAR
+7548	Fulfulde	hitaande	h i t a a n d e	year	année	YEAR
+7550	Jamsay	àrⁿà kújú	a ¹ r̃ ∼ a ¹ _ k u ⁵ dʒ u ⁵	year	année	YEAR
+7551	Jenaama	jīⁿ	dʒ i ³ ∼	year	année	YEAR
+7552	Mombo	wáyà	w a ⁵ j a ¹	year	année	YEAR
+7553	Najamba	kènjû:	k e ¹ n dʒ uː ⁵¹	year	année	YEAR
+7554	Nanga	àrⁿàẃⁿ	a ¹ r̃ ∼ a ¹ w̃ ⁵ ∼	year	année	YEAR
+7555	Penange	wàyà	w a ¹ j a ¹	year	année	YEAR
+7556	Perge_Tegu	àrⁿà kúsú	a ¹ r̃ ∼ a ¹ _ k u ⁵ s u ⁵	year	année	YEAR
+7557	Songhai_Kiini	gír-ó	ɡ i ⁵ r + o ⁵	year	année	YEAR
+7558	Songhai_Senni	gír-ó	ɡ i ⁵ r + o ⁵	year	année	YEAR
+7560	Tebul_Ure	àrⁿà gúdú	a ¹ r̃ ∼ a ¹ _ ɡ u ⁵ d u ⁵	year	année	YEAR
+7561	Tiranige_Diga	wòy	w o ¹ j	year	année	YEAR
+7562	Togo_Kan	àndí:	a ¹ n d iː ⁵	year	année	YEAR
+7563	Tommo_So	ànà gúdú	a ¹ n a ¹ _ ɡ u ⁵ d u ⁵	year	année	YEAR
+7564	Toro_Tegu	yàrú	j a ¹ r u ⁵	year (from Jan to Dec)	année	YEAR
+7565	Yanda_Dom	àrⁿà gùzù	a ¹ r̃ ∼ a ¹ _ ɡ u ¹ z u ¹	year	année	YEAR
+7566	Yorno_So	àrⁿà gújú	a ¹ r̃ ∼ a ¹ _ ɡ u ⁵ dʒ u ⁵	year	année	YEAR
