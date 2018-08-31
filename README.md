@@ -1,29 +1,37 @@
-# Bangime and Friends
+# Data and code accompanying the paper "Bangime: Secret language, language isolate, or language island?
 
-Cite the source dataset as
+## Installation of the main code to run the analyses reported in the paper
 
-> Hantgan, Abbie and List, Johann-Mattis (2018): Bangime: Secret Language, Language Isolate, or Language Island? Journal of Language Contact.
+To run the code, you need to have a fresh installation of python3 (python-3.4 or higher).
 
-This dataset is licensed under a GPL-3.0 license
+To install the necessary libraries, you can use PIP:
 
-Available online at http://dighl.github.io/sinotibetan/
+```shell
+$ pip install -r pip-requirements
+```
 
-## Statistics
+In order to install `basemap`, you have to follow the online instructions at [https://matplotlib.org/basemap/users/installing.html][https://matplotlib.org/basemap/users/installing.html]. 
+
+To run the scripts, open a terminal in the folder `code`, and follow the instructions in the file `code/README.md`.
+
+## Converting the dataset into a lexibank-cldf package
+
+In order to convert the largest of the dataset that we created into a valid `lexibank` package in `CLDF` format, you have to install the package first by typing:
+
+```shell
+$ python setup.py develop
+```
+
+After this, you should install the `pylexibank` package (version >= 0.9.0) at [https://github.com/lexibank/pylexibank](https://github.com/lexibank/pylexibank) with all its requirements (follow the instructions at the repository website).
+
+You can then curate the dataset (and turning it into `CLDF` format), by typing:
+
+```shell
+$ lexibank curate
+lexibank-curator> makecldf hantganbangime
+```
+
+The resulting CLDF package can be found in the folder `src/lexibank_hantganbangime/cldf/`.
 
 
 
-![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
-![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
-![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
-![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
-
-- **Varieties:** 22
-- **Concepts:** 300
-- **Lexemes:** 6,180
-- **Synonymy:** 1.00
-- **Cognacy:** 6,180 cognates in 300 cognate sets
-- **Invalid lexemes:** 0
-- **Tokens:** 42,655
-- **Segments:** 76 (0 BIPA errors, 0 CTLS sound class errors, 76 CLTS modified)
-- **Inventory size (avg):** 43.86
