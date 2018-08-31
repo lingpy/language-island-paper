@@ -6,12 +6,14 @@ If you use the code and data provided in this package, please quote the paper:
 
 Or use the BibTex for convenience:
 
+```
 @Article{Hantgan2018,
   author    = {Hantgan, Abbie and List, Johann-Mattis},
   title     = {Bangime: Secret language, language isolate, or language island?},
   journal   = {Journal of Language Contact},
   year      = {forthcoming}
 }
+```
 
 ## Installation of the main code to run the analyses reported in the paper
 
