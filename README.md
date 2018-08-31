@@ -1,5 +1,18 @@
 # Data and code accompanying the paper "Bangime: Secret language, language isolate, or language island?
 
+If you use the code and data provided in this package, please quote the paper:
+
+> Hantgan, Abbie and List, Johann-Mattis (forthcoming): Bangime. Secret language, language isolate, or language island? Journal of Language Contact.
+
+Or use the BibTex for convenience:
+
+@Article{Hantgan2018,
+  author    = {Hantgan, Abbie and List, Johann-Mattis},
+  title     = {Bangime: Secret language, language isolate, or language island?},
+  journal   = {Journal of Language Contact},
+  year      = {forthcoming}
+}
+
 ## Installation of the main code to run the analyses reported in the paper
 
 To run the code, you need to have a fresh installation of python3 (python-3.4 or higher).
