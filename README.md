@@ -23,7 +23,7 @@ To install the necessary libraries, you can use PIP:
 $ pip install -r pip-requirements
 ```
 
-In order to install `basemap`, you have to follow the online instructions at [https://matplotlib.org/basemap/users/installing.html][https://matplotlib.org/basemap/users/installing.html]. 
+In order to install `basemap`, you have to follow the online instructions at [https://matplotlib.org/basemap/users/installing.html](https://matplotlib.org/basemap/users/installing.html). 
 
 To run the scripts, open a terminal in the folder `code`, and follow the instructions in the file `code/README.md`.
 
