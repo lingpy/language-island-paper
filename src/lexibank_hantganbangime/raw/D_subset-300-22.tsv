@@ -3,29 +3,6 @@
 # DATA
 ID	DOCULECT	IPA	TOKENS	ENGLISH	FRENCH	CONCEPT
 #
-1	Bambara	dúnáⁿ	d u ⁵ n ã ⁵ ∼	guest	étranger, hôte	!GUEST OR STRANGER
-2	Bangime	yīī tūwⁿɔ̀	j iː ³³ _ t u ³ w̃ ∼ ɔ ¹	visitor, guest	étranger, invité	!GUEST OR STRANGER
-3	Bankan_Tey	ǹdòsú-m	n ¹ d o ¹ s u ⁵ + m	visitor, guest (from out of town)	visiteur, étranger (en visite)	!GUEST OR STRANGER
-4	Ben_Tey	lò:sú-m	l oː ¹ s u ⁵ + m	visitor, guest (from out of town)	visiteur, étranger (en visite)	!GUEST OR STRANGER
-5	Bunoge	dó:njì	d oː ⁵ n dʒ i ¹	visitor, guest (from out of town)	visiteur, étranger (en visite)	!GUEST OR STRANGER
-7	Fulfulde	koɗɗo	k o ɗ ɗ o	visitor, guest	étranger, invité	!GUEST OR STRANGER
-9	Jamsay	yérí-n	j e ⁵ r i ⁵ + n	visitor, guest (from out of town)	visiteur, étranger (en visite)	!GUEST OR STRANGER
-10	Jenaama	súmū	s u ⁵ m u ³	visitor, guest	étranger, invité	!GUEST OR STRANGER
-11	Mombo	gìlà gílí	ɡ i ¹ l a ¹ _ ɡ i ⁵ l i ⁵	visitor, guest (from out of town)	visiteur, étranger (en visite)	!GUEST OR STRANGER
-12	Najamba	bèmbǎ:	b e ¹ m b aː ¹⁵	visitor, guest (from out of town)	visiteur, étranger (en visite)	!GUEST OR STRANGER
-13	Nanga	lò:sí	l oː ¹ s i ⁵	visitor, guest (from out of town)	visiteur, étranger (en visite)	!GUEST OR STRANGER
-14	Penange	bì:mbà	b iː ¹ m b a ¹	visitor, guest (from out of town)	visiteur, étranger (en visite)	!GUEST OR STRANGER
-15	Perge_Tegu	lò:sú-n	l oː ¹ s u ⁵ + n	visitor, guest (from out of town)	visiteur, étranger (en visite)	!GUEST OR STRANGER
-16	Songhai_Kiini	yòwòó	j o ¹ w oː ¹⁵	guest, stranger (who lodges with a host)	étranger (qui loge chez qqn), invité	!GUEST OR STRANGER
-17	Songhai_Senni	yòwò	j o ¹ w o ¹	guest, stranger (who lodges with a host)	étranger (qui loge chez qqn), invité	!GUEST OR STRANGER
-19	Tebul_Ure	lògò-dé:	l o ¹ ɡ o ¹ + d eː ⁵	visitor, guest (from out of town)	visiteur, étranger (en visite)	!GUEST OR STRANGER
-20	Tiranige_Diga	bí:má	b iː ⁵ m a ⁵	visitor, guest (from out of town)	visiteur, étranger (en visite)	!GUEST OR STRANGER
-21	Togo_Kan	yéríⁿ	j e ⁵ r ĩ ⁵ ∼	visitor, guest (from out of town)	visiteur, étranger (en visite)	!GUEST OR STRANGER
-22	Tommo_So	yòùnjì-nɛ́	j o ¹ u ¹ n dʒ i ¹ + n ɛ ⁵	visitor, guest (from out of town)	visiteur, étranger (en visite)	!GUEST OR STRANGER
-23	Toro_Tegu	lòsù-rⁿu	l o ¹ s u ¹ + r̃ ∼ u	visitor, guest (from out of town)	visiteur, étranger (en visite)	!GUEST OR STRANGER
-24	Yanda_Dom	nò nò:zù	n o ¹ _ n oː ¹ z u ¹	visitor, guest (from out of town)	visiteur, étranger (en visite)	!GUEST OR STRANGER
-25	Yorno_So	yér-nɛ́	j e ⁵ r + n ɛ ⁵	visitor, guest (from out of town)	visiteur, étranger (en visite)	!GUEST OR STRANGER
-#
 27	Bangime	ɡwìì	ɡ w iː ¹	age, long life	âge, longévité	AGE
 28	Bankan_Tey	pɛ́	p ɛ ⁵	get old, age (verb)	vieiillir, ê. ou devenir vieux	AGE
 29	Ben_Tey	pɛ́	p ɛ ⁵	get old, age (verb)	vieiillir, ê. ou devenir vieux	AGE
@@ -521,6 +498,24 @@ ID	DOCULECT	IPA	TOKENS	ENGLISH	FRENCH	CONCEPT
 606	Toro_Tegu	néŋ	n e ⁵ ŋ	blood	sang	BLOOD
 607	Yanda_Dom	jènjù	dʒ e ¹ n dʒ u ¹	blood	sang	BLOOD
 609	Yorno_So	ìllî:	i ¹ l l iː ⁵¹	blood	sang	BLOOD
+#
+613	Bangime	mùtù	m u ¹ t u ¹	blunt, dull (blade)	émoussé (lame)	BLUNT
+614	Bankan_Tey	dùmbú	d u ¹ m b u ⁵	blunt, not sharp (blade)	(lame) émoussé	BLUNT
+615	Ben_Tey	dùmbú	d u ¹ m b u ⁵	blunt, not sharp (blade)	(lame) émoussé	BLUNT
+616	Fulfulde	mudd-iɗid-de	m u d d + i ɗ i d + d e	blunt, dull (blade)	émoussé (lame)	BLUNT
+618	Jamsay	dǔm	d u ¹⁵ m	blunt, not sharp (blade)	(lame) émoussé	BLUNT
+619	Mombo	dúmbé	d u ⁵ m b e ⁵	blunt, not sharp (blade)	(lame) émoussé	BLUNT
+620	Najamba	dùmbé	d u ¹ m b e ⁵	blunt, not sharp (blade)	(lame) émoussé	BLUNT
+621	Nanga	dùmbí	d u ¹ m b i ⁵	blunt, not sharp (blade)	(lame) émoussé	BLUNT
+622	Penange	nsì:ⁿ-dì-gà	n s ĩː ¹ ∼ + d i ¹ + ɡ a ¹	blunt, not sharp (blade)	(lame) émoussé	BLUNT
+623	Perge_Tegu	dùmbú	d u ¹ m b u ⁵	blunt, not sharp (blade)	(lame) émoussé	BLUNT
+625	Tebul_Ure	dùmbě:	d u ¹ m b eː ¹⁵	blunt, not sharp (blade)	(lame) émoussé	BLUNT
+626	Tiranige_Diga	dúmbú	d u ⁵ m b u ⁵	blunt, not sharp (blade)	(lame) émoussé	BLUNT
+627	Togo_Kan	dùmú	d u ¹ m u ⁵	blunt, not sharp (blade)	(lame) émoussé	BLUNT
+628	Tommo_So	dúŋgú	d u ⁵ ŋ ɡ u ⁵	blunt, not sharp (blade)	(lame) émoussé	BLUNT
+629	Toro_Tegu	dùnú	d u ¹ n u ⁵	blunt, not sharp (blade)	(lame) émoussé	BLUNT
+630	Yanda_Dom	dònù	d o ¹ n u ¹	blunt, not sharp (blade)	(lame) émoussé	BLUNT
+632	Yorno_So	dùmɲì-ýⁿ	d u ¹ m ɲ i ¹ + j̃ ⁵ ∼	blunt, not sharp (blade)	(lame) émoussé	BLUNT
 #
 652	Bangime	nɔ́ɔ́-ndɛ́	n ɔː ⁵ + n d ɛ ⁵	body	corps	BODY
 653	Bankan_Tey	jèsù-gùsú	dʒ e ¹ s u ¹ + ɡ u ¹ s u ⁵	body	corps	BODY
@@ -1145,24 +1140,6 @@ ID	DOCULECT	IPA	TOKENS	ENGLISH	FRENCH	CONCEPT
 1380	Toro_Tegu	lúgú	l u ⁵ ɡ u ⁵	count (things), recite (numbers)	compter (des objets), réciter (numéros)	COUNT
 1381	Yanda_Dom	lùgó	l u ¹ ɡ o ⁵	count (things), recite (numbers)	compter (des objets), réciter (numéros)	COUNT
 1382	Yorno_So	lúgó	l u ⁵ ɡ o ⁵	count (things), recite (numbers)	compter (des objets), réciter (numéros)	COUNT
-#
-1383	Bambara	jàmàná	dʒ a ¹ m a ¹ n a ⁵	land, country, ground	pays, région, contrée, nation	COUNTRY
-1384	Bangime	ɡāndà	ɡ a ³ n d a ¹	country, land	pays	COUNTRY
-1385	Bankan_Tey	ò zǒy	o ¹ _ z o ¹⁵ j	country, land	pays, terre	COUNTRY
-1386	Ben_Tey	òn jǒy	o ¹ n _ dʒ o ¹⁵ j	country, land	pays, terre	COUNTRY
-1387	Bunoge	gàndà	ɡ a ¹ n d a ¹	country, land	terre, pays	COUNTRY
-1389	Fulfulde	leydi	l e j d i	country, land	terre, pays	COUNTRY
-1390	Jamsay	ùjù bǎy	u ¹ dʒ u ¹ _ b a ¹⁵ j	country, land	terre, pays	COUNTRY
-1391	Jenaama	gándā	ɡ a ⁵ n d a ³	country, land	terre, pays	COUNTRY
-1392	Nanga	dòrⁿó	d o ¹ r̃ ∼ o ⁵	country, land	terre, pays	COUNTRY
-1393	Perge_Tegu	ùsù bǎy	u ¹ s u ¹ _ b a ¹⁵ j	country, land	terre, pays	COUNTRY
-1394	Songhai_Kiini	gándá	ɡ a ⁵ n d a ⁵	country, land	pays, terre	COUNTRY
-1395	Songhai_Senni	gándâ	ɡ a ⁵ n d a ⁵¹	country, land	terre, pays	COUNTRY
-1397	Tebul_Ure	gándá	ɡ a ⁵ n d a ⁵	country, land	terre, pays	COUNTRY
-1398	Tiranige_Diga	gàndá	ɡ a ¹ n d a ⁵	country, land	terre, pays	COUNTRY
-1399	Tommo_So	yàlú	j a ¹ l u ⁵	country, land	terre, pays	COUNTRY
-1400	Toro_Tegu	ìsó	i ¹ s o ⁵	country, land	terre, pays	COUNTRY
-1401	Yanda_Dom	gàná	ɡ a ¹ n a ⁵	country, land	terre, pays	COUNTRY
 #
 1402	Bambara	mìsí	m i ¹ s i ⁵	cow	vache, boviné domestique en général	COW
 1403	Bangime	nàà	n aː ¹	cow	vache	COW
@@ -2602,6 +2579,29 @@ ID	DOCULECT	IPA	TOKENS	ENGLISH	FRENCH	CONCEPT
 3058	Yanda_Dom	ɔ̀à	ɔ ¹ a ¹	grass, herbs	herbe	GRASS
 3059	Yorno_So	dɔ̀gɔ́	d ɔ ¹ ɡ ɔ ⁵	grass, herbs	herbe	GRASS
 #
+1	Bambara	dúnáⁿ	d u ⁵ n ã ⁵ ∼	guest	étranger, hôte	GUEST OR STRANGER
+2	Bangime	yīī tūwⁿɔ̀	j iː ³³ _ t u ³ w̃ ∼ ɔ ¹	visitor, guest	étranger, invité	GUEST OR STRANGER
+3	Bankan_Tey	ǹdòsú-m	n ¹ d o ¹ s u ⁵ + m	visitor, guest (from out of town)	visiteur, étranger (en visite)	GUEST OR STRANGER
+4	Ben_Tey	lò:sú-m	l oː ¹ s u ⁵ + m	visitor, guest (from out of town)	visiteur, étranger (en visite)	GUEST OR STRANGER
+5	Bunoge	dó:njì	d oː ⁵ n dʒ i ¹	visitor, guest (from out of town)	visiteur, étranger (en visite)	GUEST OR STRANGER
+7	Fulfulde	koɗɗo	k o ɗ ɗ o	visitor, guest	étranger, invité	GUEST OR STRANGER
+9	Jamsay	yérí-n	j e ⁵ r i ⁵ + n	visitor, guest (from out of town)	visiteur, étranger (en visite)	GUEST OR STRANGER
+10	Jenaama	súmū	s u ⁵ m u ³	visitor, guest	étranger, invité	GUEST OR STRANGER
+11	Mombo	gìlà gílí	ɡ i ¹ l a ¹ _ ɡ i ⁵ l i ⁵	visitor, guest (from out of town)	visiteur, étranger (en visite)	GUEST OR STRANGER
+12	Najamba	bèmbǎ:	b e ¹ m b aː ¹⁵	visitor, guest (from out of town)	visiteur, étranger (en visite)	GUEST OR STRANGER
+13	Nanga	lò:sí	l oː ¹ s i ⁵	visitor, guest (from out of town)	visiteur, étranger (en visite)	GUEST OR STRANGER
+14	Penange	bì:mbà	b iː ¹ m b a ¹	visitor, guest (from out of town)	visiteur, étranger (en visite)	GUEST OR STRANGER
+15	Perge_Tegu	lò:sú-n	l oː ¹ s u ⁵ + n	visitor, guest (from out of town)	visiteur, étranger (en visite)	GUEST OR STRANGER
+16	Songhai_Kiini	yòwòó	j o ¹ w oː ¹⁵	guest, stranger (who lodges with a host)	étranger (qui loge chez qqn), invité	GUEST OR STRANGER
+17	Songhai_Senni	yòwò	j o ¹ w o ¹	guest, stranger (who lodges with a host)	étranger (qui loge chez qqn), invité	GUEST OR STRANGER
+19	Tebul_Ure	lògò-dé:	l o ¹ ɡ o ¹ + d eː ⁵	visitor, guest (from out of town)	visiteur, étranger (en visite)	GUEST OR STRANGER
+20	Tiranige_Diga	bí:má	b iː ⁵ m a ⁵	visitor, guest (from out of town)	visiteur, étranger (en visite)	GUEST OR STRANGER
+21	Togo_Kan	yéríⁿ	j e ⁵ r ĩ ⁵ ∼	visitor, guest (from out of town)	visiteur, étranger (en visite)	GUEST OR STRANGER
+22	Tommo_So	yòùnjì-nɛ́	j o ¹ u ¹ n dʒ i ¹ + n ɛ ⁵	visitor, guest (from out of town)	visiteur, étranger (en visite)	GUEST OR STRANGER
+23	Toro_Tegu	lòsù-rⁿu	l o ¹ s u ¹ + r̃ ∼ u	visitor, guest (from out of town)	visiteur, étranger (en visite)	GUEST OR STRANGER
+24	Yanda_Dom	nò nò:zù	n o ¹ _ n oː ¹ z u ¹	visitor, guest (from out of town)	visiteur, étranger (en visite)	GUEST OR STRANGER
+25	Yorno_So	yér-nɛ́	j e ⁵ r + n ɛ ⁵	visitor, guest (from out of town)	visiteur, étranger (en visite)	GUEST OR STRANGER
+#
 3077	Bangime	kwìì	k w iː ¹	hair	cheveux	HAIR
 3078	Bankan_Tey	kùyá	k u ¹ j a ⁵	hair	cheveux	HAIR
 3079	Ben_Tey	kù kùyɔ́	k u ¹ _ k u ¹ j ɔ ⁵	hair	cheveux	HAIR
@@ -2687,6 +2687,25 @@ ID	DOCULECT	IPA	TOKENS	ENGLISH	FRENCH	CONCEPT
 3166	Toro_Tegu	kú	k u ⁵	head	tête	HEAD
 3167	Yanda_Dom	dàrⁿà bàndá	d a ¹ r̃ ∼ a ¹ _ b a ¹ n d a ⁵	head	tête	HEAD
 3168	Yorno_So	kû:	k uː ⁵¹	head	tête	HEAD
+#
+3173	Bangime	nō-rè	n o ³ + r e ¹	hear (sound); detect (odor)	entendre (son); sentir (odeur)	HEAR
+3174	Bankan_Tey	nú	n u ⁵	hear (sound, voice)	entendre (bruit, voix)	HEAR
+3175	Ben_Tey	nǔ	n u ¹⁵	hear (sound, voice)	entendre (bruit, voix)	HEAR
+3176	Bunoge	nún-dè	n u ⁵ n + d e ¹	hear (sound, voice)	entendre (bruit, voix)	HEAR
+3178	Fulfulde	nanu-de	n a n u + d e	hear (sound, voice)	entendre (bruit, voix)	HEAR
+3179	Jamsay	áɣá	a ⁵ ɣ a ⁵	hear (sound, voice)	entendre (bruit, voix)	HEAR
+3180	Mombo	nún-dé	n u ⁵ n + d e ⁵	hear (sound, voice)	entendre (bruit, voix)	HEAR
+3181	Najamba	ŋwɛ́	ŋ w ɛ ⁵	hear (sound, voice)	entendre (bruit, voix)	HEAR
+3182	Nanga	nǔyⁿ	n u ¹⁵ j ∼	hear (sound, voice)	entendre (bruit, voix)	HEAR
+3183	Perge_Tegu	ɛ́gɛ́	ɛ ⁵ ɡ ɛ ⁵	hear (sound, voice)	entendre (bruit, voix)	HEAR
+3184	Songhai_Kiini	má:	m aː ⁵	hear (sound, voice)	entendre (bruit, voix)	HEAR
+3185	Songhai_Senni	má:	m aː ⁵	hear, detect (e.g. smell); learn	entendre, apercevoir; apprendre	HEAR
+3186	Tebul_Ure	nɔ́	n ɔ ⁵	hear (sound, voice)	entendre (bruit, voix)	HEAR
+3187	Tiranige_Diga	nú:n-dó	n uː ⁵ n + d o ⁵	hear (sound, voice)	entendre (bruit, voix)	HEAR
+3188	Tommo_So	ɛ́gɛ́	ɛ ⁵ ɡ ɛ ⁵	hear (sound, voice)	entendre (bruit, voix)	HEAR
+3189	Toro_Tegu	ɛ́gú	ɛ ⁵ ɡ u ⁵	hear (sound, voice)	entendre (bruit, voix)	HEAR
+3190	Yanda_Dom	nɔ́	n ɔ ⁵	hear (sound, voice)	entendre (bruit, voix)	HEAR
+3191	Yorno_So	ɛ́gɛ́	ɛ ⁵ ɡ ɛ ⁵	hear (sound, voice)	entendre (bruit, voix)	HEAR
 #
 3192	Bambara	gíríⁿ-máⁿ	ɡ i ⁵ r ĩ ⁵ ∼ + m ã ⁵ ∼	heavy	lourd, solide	HEAVY
 3193	Bangime	mɛ̀rⁿɛ̀	m ɛ ¹ r̃ ∼ ɛ ¹	heavy	lourd	HEAVY
@@ -4969,24 +4988,6 @@ ID	DOCULECT	IPA	TOKENS	ENGLISH	FRENCH	CONCEPT
 5848	Toro_Tegu	kɔ̀rɔ̀ŋgǎyⁿ	k ɔ ¹ r ɔ ¹ ŋ ɡ a ¹⁵ j ∼	sickle (for cutting grass, or cutting stems of rice, roselle, sesame with slashing action)	faucille (pour couper l'herbe, ou pour couper les tiges de riz, de dah, de sésame en frappant)	SICKLE OR SCYTHE
 5849	Yanda_Dom	sá:rⁿà	s aː ⁵ r̃ ∼ a ¹	sickle (for cutting grass, or cutting stems of rice, roselle, sesame with slashing action)	faucille (pour couper l'herbe, ou pour couper les tiges de riz, de dah, de sésame en frappant)	SICKLE OR SCYTHE
 5850	Yorno_So	kɔ̀rgò-ý	k ɔ ¹ r ɡ o ¹ + j ⁵	sickle (for cutting grass, or cutting stems of rice, roselle, sesame with slashing action)	faucille (pour couper l'herbe, ou pour couper les tiges de riz, de dah, de sésame en frappant)	SICKLE OR SCYTHE
-#
-5851	Bambara	sìná	s i ¹ n a ⁵	like, similar to	pareil, semblable, équivalent, tel	SIMILAR
-5852	Bangime	dɔ̀ŋɔ̀-ndɔ̀	d ɔ ¹ ŋ ɔ ¹ + n d ɔ ¹	resemble, look like (sb)	ressembler (qn)	SIMILAR
-5853	Bankan_Tey	gâyⁿ	ɡ a ⁵¹ j ∼	like, similar to	comme, pareil à	SIMILAR
-5854	Ben_Tey	gâyⁿ	ɡ a ⁵¹ j ∼	like, similar to	comme, pareil à	SIMILAR
-5856	Fulfulde	nannude	n a n n u d e	resemble	ressembler	SIMILAR
-5858	Jamsay	jín	dʒ i ⁵ n	like, similar to	comme, pareil à	SIMILAR
-5859	Mombo	pímá kání	p i ⁵ m a ⁵ _ k a ⁵ n i ⁵	like, similar to	comme, pareil à	SIMILAR
-5860	Najamba	dân	d a ⁵¹ n	like, similar to	comme, pareil à	SIMILAR
-5861	Nanga	mayⁿ	m a j ∼	like, similar to	comme, pareil à	SIMILAR
-5862	Penange	pínà:	p i ⁵ n aː ¹	like, similar to	comme, pareil à	SIMILAR
-5863	Perge_Tegu	gà	ɡ a ¹	like, similar to	comme, pareil à	SIMILAR
-5864	Tiranige_Diga	tɔ̀rɔ́	t ɔ ¹ r ɔ ⁵	like, similar to	comme, pareil à	SIMILAR
-5865	Togo_Kan	gí:ⁿ	ɡ ĩː ⁵ ∼	like, similar to	comme, pareil à	SIMILAR
-5866	Tommo_So	gé-ní	ɡ e ⁵ + n i ⁵	like, similar to	comme, pareil à	SIMILAR
-5867	Toro_Tegu	kâyⁿ	k a ⁵¹ j ∼	like, similar to	comme, pareil à	SIMILAR
-5868	Yanda_Dom	yɛ̀ŋ	j ɛ ¹ ŋ	like, similar to	comme, pareil à	SIMILAR
-5869	Yorno_So	gín	ɡ i ⁵ n	like, similar to	comme, pareil à	SIMILAR
 #
 5870	Bambara	dɔ̀ⁿ kílí	d ɔ ¹ ∼ _ k i ⁵ l i ⁵	resemble, look like (sb)	chant, chanson	SING
 5871	Bangime	ŋùɥⁿɛ̀-rɛ̀	ŋ u ¹ ɥ ∼ ɛ ¹ + r ɛ ¹	sing	chanter	SING

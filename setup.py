@@ -1,4 +1,4 @@
-from setuptools import setup
+from setuptools import setup, find_packages
 import sys
 import json
 
@@ -14,6 +14,8 @@ setup(
     license=metadata.get('license', ''),
     url=metadata.get('url', ''),
     py_modules=['lexibank_hantganbangime'],
+                packages=find_packages(where='src'),
+        package_dir={'': 'src'},
     include_package_data=True,
     zip_safe=False,
     entry_points={
@@ -22,6 +24,7 @@ setup(
         ]
     },
     install_requires=[
-        'pylexibank>=0.3.0',
+        'pylexibank>=0.9.0',
     ]
 )
+
