@@ -45,7 +45,7 @@ class Dataset(BaseDataset):
                         )
                 concept_dict[c['Gloss']] = c['ID'] 
 
-            for k in pb(wl, desc='wl-to-cldf'):
+            for k in pb(wl, desc='wl-to-cldf', total=len(wl)):
                 if wl[k, 'tokens']:
                     for row in ds.add_lexemes(
                         Language_ID=source_dict[wl[k, 'doculect']][1],

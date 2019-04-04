@@ -2,7 +2,7 @@
 
 Cite the source dataset as
 
-> Hantgan, Abbie and List, Johann-Mattis (2018): Bangime. Secrete language, language isolate, or language island? Journal of Language Contact.
+> Hantgan, Abbie and List, Johann-Mattis (2018): Bangime. Secret language, language isolate, or language island? Journal of Language Contact.
 
 This dataset is licensed under a GPL license
 
