@@ -35,7 +35,7 @@ class Dataset(BaseDataset):
                     )
                 source_dict[l['Name']] = [l['Source'], l['ID']]
                 ds.add_sources(sources[l['Source']])
-                
+            
             for c in self.concepts:
                 ds.add_concept(
                         ID=c['ID'],
@@ -43,27 +43,19 @@ class Dataset(BaseDataset):
                         Concepticon_Gloss=c['Concepticon_Gloss'],
                         Name=c['Gloss'],
                         )
-                concept_dict[c['Gloss']] = c['ID'] 
+                concept_dict[c['Gloss']] = c['ID']
 
             for k in pb(wl, desc='wl-to-cldf', total=len(wl)):
                 if wl[k, 'tokens']:
                     for row in ds.add_lexemes(
                         Language_ID=source_dict[wl[k, 'doculect']][1],
                         Parameter_ID=concept_dict[wl[k, 'concept']][0],
-                        Value=wl[k, 'ipa'].strip() or ''.join(wl[k,
-                            'tokens']),
+                        Value=wl[k, 'ipa'].strip() or ''.join(wl[k, 'tokens']),
                         Form=wl[k, 'ipa'],
                         Segments=wl[k, 'tokens'],
                         Source=[source_dict[wl[k, 'doculect']][0]],
                         Comment=wl[k, 'note']
                         ):
 
-                        cid = slug(wl[k, 'concept'])+'-'+'{0}'.format(wl[k,
-                            'cogid'])
-                        ds.add_cognate(
-                                lexeme=row,
-                                Cognateset_ID=cid,
-                                Source='Hantgan2018',
-                                Alignment='',
-                                Alignment_Source=''
-                                )
+                        cid = slug(wl[k, 'concept'])+ '-' + '{0}'.format(wl[k, 'cogid'])
+                        ds.add_cognate(lexeme=row, Cognateset_ID=cid, Source='Hantgan2018')
