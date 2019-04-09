@@ -49,7 +49,7 @@ class Dataset(BaseDataset):
                 if wl[k, 'tokens']:
                     for row in ds.add_lexemes(
                         Language_ID=source_dict[wl[k, 'doculect']][1],
-                        Parameter_ID=concept_dict[wl[k, 'concept']][0],
+                        Parameter_ID=concept_dict[wl[k, 'concept']],
                         Value=wl[k, 'ipa'].strip() or ''.join(wl[k, 'tokens']),
                         Form=wl[k, 'ipa'],
                         Segments=wl[k, 'tokens'],
