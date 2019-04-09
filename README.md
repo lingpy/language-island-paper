@@ -42,8 +42,7 @@ After this, you should install the `pylexibank` package (version >= 0.9.0) at [h
 You can then curate the dataset (and turning it into `CLDF` format), by typing:
 
 ```shell
-$ lexibank curate
-lexibank-curator> makecldf hantganbangime
+$ lexibank makecldf hantganbangime
 ```
 
 The resulting CLDF package can be found in the folder `src/lexibank_hantganbangime/cldf/`.
