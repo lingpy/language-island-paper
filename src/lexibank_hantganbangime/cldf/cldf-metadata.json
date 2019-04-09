@@ -15,8 +15,8 @@
         {
             "dc:title": "environment",
             "properties": {
-                "glottolog_version": "v3.4-1-g07a9b54",
-                "concepticon_version": "pyconcepticon-1.4.0-179-gd46adad"
+                "glottolog_version": "pyglottolog-1.2.0-3-g0c317cdda7",
+                "concepticon_version": "v2.0"
             }
         }
     ],
@@ -184,7 +184,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 9,
+            "dc:extent": 300,
             "tableSchema": {
                 "columns": [
                     {
