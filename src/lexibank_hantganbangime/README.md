@@ -19,9 +19,9 @@ Available online at https://github.com/lingpy/language-island-paper
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 22
-- **Concepts:** 9
+- **Concepts:** 300
 - **Lexemes:** 6,181
-- **Synonymy:** 31.22
+- **Synonymy:** 1.00
 - **Invalid lexemes:** 0
 - **Tokens:** 42,652
 - **Segments:** 76 (0 BIPA errors, 0 CTLS sound class errors, 75 CLTS modified)
