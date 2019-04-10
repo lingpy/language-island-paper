@@ -47,7 +47,7 @@ class Dataset(BaseDataset):
 
             for k in pb(wl, desc='wl-to-cldf', total=len(wl)):
                 if wl[k, 'tokens']:
-                    for row in ds.add_lexemes(
+                    ds.add_lexemes(
                         Language_ID=source_dict[wl[k, 'doculect']][1],
                         Parameter_ID=concept_dict[wl[k, 'concept']][0],
                         Value=wl[k, 'ipa'].strip() or ''.join(wl[k,
@@ -56,14 +56,4 @@ class Dataset(BaseDataset):
                         Segments=wl[k, 'tokens'],
                         Source=[source_dict[wl[k, 'doculect']][0]],
                         Comment=wl[k, 'note']
-                        ):
-
-                        cid = slug(wl[k, 'concept'])+'-'+'{0}'.format(wl[k,
-                            'cogid'])
-                        ds.add_cognate(
-                                lexeme=row,
-                                Cognateset_ID=cid,
-                                Source='Hantgan2018',
-                                Alignment='',
-                                Alignment_Source=''
-                                )
+                        )

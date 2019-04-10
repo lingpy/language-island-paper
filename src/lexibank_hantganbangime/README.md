@@ -22,7 +22,6 @@ Available online at https://github.com/lingpy/language-island-paper
 - **Concepts:** 9
 - **Lexemes:** 6,181
 - **Synonymy:** 31.22
-- **Cognacy:** 6,181 cognates in 300 cognate sets
 - **Invalid lexemes:** 0
 - **Tokens:** 42,652
 - **Segments:** 76 (0 BIPA errors, 0 CTLS sound class errors, 75 CLTS modified)
