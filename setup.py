@@ -24,7 +24,7 @@ setup(
         ]
     },
     install_requires=[
-        'pylexibank>=1.1.1',
+        'pylexibank==1.1.1',
     ]
 )
 
