@@ -8,7 +8,6 @@ with open('metadata.json') as fp:
 
 setup(
     name='lexibank_hantganbangime',
-    version="1.1",
     description=metadata['title'],
     license=metadata.get('license', ''),
     url=metadata.get('url', ''),
