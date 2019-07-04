@@ -1,9 +1,8 @@
 from setuptools import setup, find_packages
-import sys
 import json
 
 
-with open('metadata.json', encoding='utf-8') as fp:
+with open('metadata.json') as fp:
     metadata = json.load(fp)
 
 
@@ -14,8 +13,8 @@ setup(
     license=metadata.get('license', ''),
     url=metadata.get('url', ''),
     py_modules=['lexibank_hantganbangime'],
-                packages=find_packages(where='src'),
-        package_dir={'': 'src'},
+    packages=find_packages(where='src'),
+    package_dir={'': 'src'},
     include_package_data=True,
     zip_safe=False,
     entry_points={
@@ -25,6 +24,7 @@ setup(
     },
     install_requires=[
         'pylexibank==1.1.1',
+        'segments==2.0.2'
     ]
 )
 

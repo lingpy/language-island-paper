@@ -1,9 +1,13 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
+    "aboutUrl": null,
     "dc:bibliographicCitation": "Hantgan, Abbie and List, Johann-Mattis (2018): Bangime. Secret language, language isolate, or language island? Journal of Language Contact.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
+    "dc:description": null,
     "dc:identifier": "https://github.com/lingpy/language-island-paper",
+    "dc:isVersionOf": null,
     "dc:license": "GPL",
+    "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "Bangime and Friends",
     "rdf:ID": "hantganbangime",
@@ -15,7 +19,7 @@
         {
             "dc:title": "environment",
             "properties": {
-                "glottolog_version": "v3.4",
+                "glottolog_version": "v4.0",
                 "concepticon_version": "v2.0"
             }
         }

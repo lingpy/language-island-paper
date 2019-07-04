@@ -11,7 +11,7 @@ Available online at https://github.com/lingpy/language-island-paper
 ## Statistics
 
 
-
+[![Build Status](https://travis-ci.org/lingpy/language-island-paper.svg?branch=master)](https://travis-ci.org/lingpy/language-island-paper)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
