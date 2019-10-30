@@ -9,7 +9,7 @@ with open('metadata.json', encoding='utf-8') as fp:
 
 setup(
     name='lexibank_hantganbangime',
-    version="1.1",
+    version="1.2.0",
     description=metadata['title'],
     license=metadata.get('license', ''),
     url=metadata.get('url', ''),
@@ -24,7 +24,7 @@ setup(
         ]
     },
     install_requires=[
-        'pylexibank>=1.1.1',
+        'pylexibank>=2.0.0',
     ]
 )
 

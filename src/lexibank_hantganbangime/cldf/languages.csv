@@ -1,23 +1,23 @@
-ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family
-1,Bangime,bang1363,,,,,,
-2,Bambara,bamb1269,,,,,,
-3,Bankan_Tey,bank1259,,,,,,
-4,Ben_Tey,bent1238,,,,,,
-5,Bunoge,buno1241,,,,,,
-6,Jamsay,jams1239,,,,,,
-7,Mombo,momb1254,,,,,,
-8,Najamba,bond1248,,,,,,
-9,Nanga,nang1261,,,,,,
-10,Perge_Tegu,perg1234,,,,,,
-11,Tebul_Ure,tebu1239,,,,,,
-12,Tiranige_Diga,tira1258,,,,,,
-13,Togo_Kan,togo1254,,,,,,
-14,Tommo_So,tomm1242,,,,,,
-15,Toro_Tegu,toro1253,,,,,,
-16,Yanda_Dom,yand1257,,,,,,
-17,Yorno_So,yorn1234,,,,,,
-18,Fulfulde,maas1239,,,,,,
-19,Jenaama,jena1242,,,,,,
-20,Penange,pena1270,,,,,,
-21,Songhai_Kiini,koyr1240,,,,,,
-22,Songhai_Senni,humb1243,,,,,,
+ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,Village,Source,SubGroup,DialectGroup,Number
+Bangime,Bangime,bang1363,,,,14.8,-3.76,,Bounou,Hantgan2016,Bangime,Bangime,1
+Bambara,Bambara,bamb1269,,,,14.53,-4.1,Niger-Congo,Sevare,Dumestre2011,Mande,Central_Mande,2
+Bankan_Tey,Bankan Tey,bank1259,,,,15.07,-2.91,Niger-Congo,Oualo,Heath2015,Dogon,Eastern_Dogon,3
+Ben_Tey,Ben Tey,bent1238,,,,14.85,-2.95,Niger-Congo,Beni,Heath2015,Dogon,Eastern_Dogon,4
+Bunoge,Bunoge,buno1241,,,,14.65,-3.79,Niger-Congo,Boudou,Heath2015,Dogon,Western_Dogon,5
+Jamsay,Jamsay,jams1239,,,,14.64,-3.1,Niger-Congo,Bamba,Heath2015,Dogon,Eastern_Dogon,6
+Mombo,Mombo,momb1254,,,,14.51,-3.91,Niger-Congo,Bandiougou,Heath2015,Dogon,Western_Dogon,7
+Najamba,Najamba,bond1248,,,,14.9,-3.42,Niger-Congo,Dogani,Heath2015,Dogon,Western_Dogon,8
+Nanga,Nanga,nang1261,,,,14.72,-3.02,Niger-Congo,Namakoro,Heath2015,Dogon,Eastern_Dogon,9
+Perge_Tegu,Perge Tegu,perg1234,,,,14.85,-3.02,Niger-Congo,Pergue,Heath2015,Dogon,Eastern_Dogon,10
+Tebul_Ure,Tebul Ure,tebu1239,,,,14.69,-3.11,Niger-Congo,Mande,Heath2015,Dogon,Eastern_Dogon,11
+Tiranige_Diga,Tiranige Diga,tira1258,,,,14.8,-3.72,Niger-Congo,Damagari,Heath2015,Dogon,Western_Dogon,12
+Togo_Kan,Togo Kan,togo1254,,,,14.16,-3.38,Niger-Congo,Benie,Heath2015,Dogon,Eastern_Dogon,13
+Tommo_So,Tommo So,tomm1242,,,,14.67,-3.51,Niger-Congo,Kendie,Heath2015,Dogon,Eastern_Dogon,14
+Toro_Tegu,Toro Tegu,toro1253,,,,15.01,-2.4,Niger-Congo,Nemguene,Heath2015,Dogon,Eastern_Dogon,15
+Yanda_Dom,Yanda Dom,yand1257,,,,14.63,-3.15,Niger-Congo,Yanda,Heath2015,Dogon,Eastern_Dogon,16
+Yorno_So,Yorno So,yorn1234,,,,14.56,-3.24,Niger-Congo,Yendouma,Heath2015,Dogon,Eastern_Dogon,17
+Fulfulde,Fulfulde,maas1239,,,,14.8,-3.84,Niger-Congo,Ouro-Ngeou,Osborn1993,Atlantic,Fula_Maasina,18
+Jenaama,Jenaama,jena1242,,,,14.79,-3.78,Niger-Congo,Madougou,Heath2016jenaama,Mande,Northwestern_Mande,19
+Penange,Penange,pena1270,,,,14.39,-4.03,Niger-Congo,Pinia,Heath2015,Dogon,Western_Dogon,20
+Songhai_Kiini,Songhai Kiini,koyr1240,,,,15.21,-2.75,Nilo-Saharan,Kikara,Heath2005,Songhay,Eastern_Songhay,21
+Songhai_Senni,Songhai Senni,humb1243,,,,15.28,-1.7,Nilo-Saharan,Hombori,HeathSONG2015,Songhay,Eastern_Songhay,22

@@ -11,7 +11,6 @@ Available online at https://github.com/lingpy/language-island-paper
 ## Statistics
 
 
-
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
@@ -21,6 +20,7 @@ Available online at https://github.com/lingpy/language-island-paper
 - **Varieties:** 22
 - **Concepts:** 300
 - **Lexemes:** 6,181
+- **Sources:** 7
 - **Synonymy:** 1.00
 - **Invalid lexemes:** 0
 - **Tokens:** 42,652
