@@ -1,6 +1,3 @@
-# coding: utf-8
-from __future__ import unicode_literals
-
 
 def test_valid(cldf_dataset, cldf_logger):
     assert cldf_dataset.validate(log=cldf_logger)
@@ -16,7 +13,7 @@ def test_parameters(cldf_dataset, cldf_logger):
 
 
 def test_sources(cldf_dataset, cldf_logger):
-    assert len(cldf_dataset.sources) == 8
+    assert len(cldf_dataset.sources) == 93
 
 
 def test_forms(cldf_dataset, cldf_logger):
