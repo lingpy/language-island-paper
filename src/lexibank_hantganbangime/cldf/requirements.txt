@@ -28,7 +28,7 @@ pycldf==1.8.2
 pyclts==2.0.0
 pyconcepticon==2.3.0
 pycountry==18.12.8
--e git+https://github.com/glottolog/pyglottolog.git@4334cb3539a6c40496e5f832c6ad9c532470a7e4#egg=pyglottolog
+pyglottolog==2.2.1
 pylexibank==2.1.0
 pytest==3.6.2
 regex==2018.6.21
