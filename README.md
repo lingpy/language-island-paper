@@ -28,6 +28,29 @@ Extracts the sublist of 300 concepts and 22 languages.
 ```
 $ python C_coverage.py
 ```
+
+### Check overlap with other concept lists
+
+We use the `pyconcepticon` API for this purpose along with the most recent verson of the Concepticon.
+
+```
+$ pip install pyconcepticon
+$ git clone https://github.com/concepticon/concepticon-data
+$ cd concepticon-data
+$ git checkout v2.5.0
+$ cd ..
+$ for i in "Blust-2008-210" "Gregersen-1976-217" "Matisoff-1978-200" "Swadesh-1955-100" "Swadesh-1952-200" "Tadmor-2009-100"; do echo $i `concepticon intersection Hantgan-2021-300.tsv $i | wc -l`  ; done
+```
+This yields as output:
+
+```
+Blust-2008-210 125
+Gregersen-1976-217 122
+Matisoff-1978-200 118
+Swadesh-1955-100 72
+Swadesh-1952-200 116
+Tadmor-2009-100 69
+```
 ### Cognate detection and heatmaps (requires matplotlib)
 
 Extracts cognate sets for two different approaches and compares shared pairwise similarities.
