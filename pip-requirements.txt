@@ -1,4 +1,0 @@
-lingpy
-matplotlib
-python-igraph
-pylexibank>=1.1.1

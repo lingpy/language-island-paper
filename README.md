@@ -1,51 +1,53 @@
-# Data and code accompanying the paper "Bangime: Secret language, language isolate, or language island?
+# Code and data accompanying the study "Bangime: Secret Language..."
 
-If you use the code and data provided in this package, please quote the paper:
+The code provided here is not in the best state with respect to readability, also because some ideas that have been formulated first in 2017 have now been superceded by new software packages. This being said, we emphasize, however, that it does not mean that the code does not run, and we have confirmed on 20th of November 2021 that the code runs with a fresh virtual environment for all scripts apart from the script `C_makemaps.py`, which was using the now deprecated `basemap` library. For now, we decided *not* to update the code for the map plotting routines, since they are not an essential aspect with respect to the replicability of the study. Given that the data has been made available in the form of a CLDF package, geolocations can be easily plotted with the help of the tools accompanying CLDF, like [cldfviz](https://github.com/cldf/cldfviz) or [cldfbench](https://github.com/cldf/cldfbench). 
 
-> Hantgan, Abbie and List, Johann-Mattis (forthcoming): Bangime. Secret language, language isolate, or language island? Journal of Language Contact.
+## Requirements
 
-Or use the BibTex for convenience:
+To install all requirements, use a fresh virtual environment, and just type:
 
 ```
-@Article{Hantgan2018,
-  author    = {Hantgan, Abbie and List, Johann-Mattis},
-  title     = {Bangime: Secret language, language isolate, or language island?},
-  journal   = {Journal of Language Contact},
-  year      = {forthcoming}
-}
+$ pip install -r requirements.txt
 ```
 
-## Installation of the main code to run the analyses reported in the paper
+## Workflow
 
-To run the code, you need to have a fresh installation of python3 (python-3.4 or higher).
+### Drawing the language map (requires basemap)
 
-To install the necessary libraries, you can use PIP:
+**Note that this part of the code will be difficult to replicate, since `basemap` has been deprecated, as mentioned above, so you better ignore this part of the code.**
 
-```shell
-$ pip install -r pip-requirements
+Draws the geographic map in the study (the map was manually modified to adjust readability).
+```
+$ python C_makemaps.py
 ```
 
-In order to install `basemap`, you have to follow the online instructions at [https://matplotlib.org/basemap/users/installing.html](https://matplotlib.org/basemap/users/installing.html). 
+### Coverage statistics 
 
-To run the scripts, open a terminal in the folder `code`, and follow the instructions in the file `code/README.md`.
+Extracts the sublist of 300 concepts and 22 languages.
 
-## Converting the dataset into a lexibank-cldf package
+```
+$ python C_coverage.py
+```
+### Cognate detection and heatmaps (requires matplotlib)
 
-In order to convert the largest of the dataset that we created into a valid `lexibank` package in `CLDF` format, you have to install the package first by typing:
+Extracts cognate sets for two different approaches and compares shared pairwise similarities.
 
-```shell
-$ python setup.py develop
+```
+$ python C_lexstat.py
 ```
 
-After this, you should install the `pylexibank` package (version >= 0.9.0) at [https://github.com/lexibank/pylexibank](https://github.com/lexibank/pylexibank) with all its requirements (follow the instructions at the repository website).
+### Barcharts
 
-You can then curate the dataset (and turning it into `CLDF` format), by typing:
+Creates barcharts of shared vocabulary.
 
-```shell
-$ lexibank makecldf hantganbangime
+```
+$ python C_barcharts.py sca
 ```
 
-The resulting CLDF package can be found in the folder `src/lexibank_hantganbangime/cldf/`.
+For the lexstat analysis, write:
 
+```
+$ python C_barcharts.py
+```
 
 
