@@ -36,10 +36,7 @@ We use the `pyconcepticon` API for this purpose along with the most recent verso
 ```
 $ pip install pyconcepticon
 $ git clone https://github.com/concepticon/concepticon-data
-$ cd concepticon-data
-$ git checkout v2.5.0
-$ cd ..
-$ for i in "Blust-2008-210" "Gregersen-1976-217" "Matisoff-1978-200" "Swadesh-1955-100" "Swadesh-1952-200" "Tadmor-2009-100"; do echo $i `concepticon intersection Hantgan-2021-300.tsv $i | wc -l`  ; done
+$ for i in "Blust-2008-210" "Gregersen-1976-217" "Matisoff-1978-200" "Swadesh-1955-100" "Swadesh-1952-200" "Tadmor-2009-100"; do echo $i `concepticon --repos=concepticon-data --repos-versino=v2.5.1 intersection Hantgan-2021-300.tsv $i | wc -l`  ; done
 ```
 This yields as output:
 
